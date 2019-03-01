@@ -4,7 +4,9 @@ import json
 import pandas as pd
 
 # SQL Alchemy
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine,Column, Integer, String, Float, Double
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import Session
 
 # PyMySQL 
 import pymysql
@@ -32,7 +34,6 @@ password="Welcome123"
 conn = pymysql.connect(host, user=user,port=port,
 
                           passwd=password, db=dbname)
-
 # --------------------------------------------------------------------
 # CREATE STOCK TICKER LIST
 # --------------------------------------------------------------------
@@ -53,23 +54,10 @@ tickers_list = tickers_list[0]
 print(tickers_list)
 
 # --------------------------------------------------------------------
-# IEX API CALL - https://api.iextrading.com/1.0/stock/aapl/stats
+# IEX API CALL FOR MARKET CAPITALIZATION - https://api.iextrading.com/1.0/stock/aapl/stats
 # --------------------------------------------------------------------
 
-# --------------------------------------------------------------------
-# TEST API RESPONSE
-# --------------------------------------------------------------------
 url = 'https://api.iextrading.com/1.0/stock/'
-
-test_tick = 'CVX'
-
-response = requests.get(f"{url}{test_tick}/stats").json()
-# test to see if api call returns expected data (market capitalization)
-print(response['marketcap'])
-
-# tickers test list
-#tickers_list_test = (tickers_list[0],tickers_list[1],tickers_list[2])
-
 
 # create empty dictionary to hold stock ticker and market caps as key value pairs 
 mkt_caps = {}
@@ -88,24 +76,59 @@ for tick in tickers_list:
     # populate dictionary with ticker as key and market cap as value
             mkt_caps[tick] = {'market_cap_2019':mkt_cap}
             
-        #    mkt_caps["mkt_cap"] = mkt_cap
+    # insert 0 as market cap for any ticker with no label    
     except json.decoder.JSONDecodeError:
-            mkt_caps[tick] = {'market_cap_2019':"blank"}
+            mkt_caps[tick] = {'market_cap_2019':0}
 
-print(mkt_caps)
-#mkt_cap_df = pd.DataFrame.from_dict(mkt_caps, orient='index')
+# place market cap info into pandas dataframe
 mkt_cap_df = pd.DataFrame(mkt_caps).T
 
-mkt_cap_df
-
-mkt_cap_df.to_csv('market_cap.csv')
-
-
+# replace 'blank' string with 0
+# note - only doing this bc loop originally populated BRK-B with 'blank'
+mkt_cap_df.replace('blank', 0,inplace=True)
 
 
+# rename dataframe index to symbol then reset index to standard integer index
+mkt_cap_df = mkt_cap_df.rename_axis('symbol')
+mkt_cap_df.reset_index(inplace=True)
 
+# --------------------------------------------------------------------
+# PUSH MARKET CAP INFO TO TABLE IN DATABASE 
+# --------------------------------------------------------------------
 
+Base = declarative_base()
 
+# connect to local MySQL workbench
+eng_link = f"mysql://{user}:{password}@{host}/{dbname}"
+engine = create_engine(eng_link)
+
+# establish a connection to the local DB
+conn1 = engine.connect()
+
+# declare class for market cap table
+class stock_market_cap (Base):
+     __tablename__ = 'stock_market_cap'
+     symbol = Column(String(10),primary_key=True)
+     Market_Cap = Column(Integer)
+
+# create market cap table in database
+Base.metadata.create_all(conn1)
+
+# confirming that tables got created in the DB
+engine.table_names()
+
+# Create a session that binds engine to enable data entry
+session = Session(bind=engine)
+
+# rename market_cap_2019 column name to match name class declaration
+mkt_cap_df.rename(columns={'market_cap_2019': 'Market_Cap'}, 
+                  inplace=True)
+
+# push market cap table to database
+mkt_cap_df.to_sql(name="stock_market_cap", 
+                  con=engine, 
+                  if_exists='replace',
+                  index=False)
 
 
 
