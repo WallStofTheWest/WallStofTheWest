@@ -154,7 +154,7 @@ header a:hover{
 }
 
 #boxes{
-    margin-top: 200px;
+    margin-top: 0px;
 }
 
 #boxes .box{
@@ -169,7 +169,7 @@ header a:hover{
 }
 
 #boxes2{
-    margin-top: 100px;
+    margin-top: 0px;
 }
 
 #boxes2 .box{
@@ -276,7 +276,7 @@ footer{
         width: 100%;
     }
     header{
-        padding-bottom: 20px;
+        padding-bottom: 50px;
     }
     #showcase h1{
         margin-top: 40px;
