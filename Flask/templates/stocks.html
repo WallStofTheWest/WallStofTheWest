@@ -10,22 +10,22 @@
     <script type="text/javascript" src="https://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.js"></script>
     <script type="text/javascript" src="https://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.theme.fusion.js"></script>
     <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/flatly/bootstrap.min.css" rel="stylesheet" integrity="sha384-T5jhQKMh96HMkXwqVMSjF3CmLcL1nT9//tCqu9By5XSdj7CwR0r+F3LTzUdfkkQf" crossorigin="anonymous">
-    <link rel="stylesheet" href="static/styles/styles.css">
-
+    <link rel="stylesheet" href="static/styles/styles2.css">
+	<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
     </head>
     
     <body>
         <header>
             <div class="container">
                 <div id="branding">
-                    <h1>Wisdom Wealth Management</h1>
+                    <h2>Wisdom Wealth Management</h2>
                 </div>
                 <nav>
                     <ul>
                         <li><a href="index.html">Home</a></li>
                         <li><a href="about.html">About</a></li>
                         <li><a href="disclaimer.html">Disclaimer</a></li>
-                        <li><a href="sector.html">Sector</a></li>						
+                        <li><a href="sector.html">Sector</a></li>					
                         <li><a class="current"></a><a href="stocks.html">Stocks</a></li>
                         <li><a href="services.html">Services</a></li>
                     </ul>
@@ -33,260 +33,68 @@
             </div> 
         </header>
         <div class="container">
-            <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <h2 class="text-center">Stock Performance Analysis</h3>
-                    <hr></hr>
-                </div>
-<<<<<<< HEAD
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <h4 class="text-center">Year on Year Sector Returns</h3>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-=======
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <h4 class="text-center">Year on Year Sector Returns</h3>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
->>>>>>> a8edd503c41b9795ac967245df6bff83dec807ad
-                  <input type="button" class="btn btn-primary float-right margin-left" onclick="duration_selected(this.id)" id="20" value="20 Yr">
-                  <input type="button" class="btn btn-primary float-right margin-left" onclick="duration_selected(this.id)" id="10" value="10 Yr">
-                  <input type="button" class="btn btn-primary float-right margin-left" onclick="duration_selected(this.id)" id="5" value="5 Yr">
-                  <input type="button" class="btn btn-primary float-right margin-left" onclick="duration_selected(this.id)" id="2" value="2 Yr">
-                </div>
-                <div class="col-md-12" id="plot"></div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <section id="main-summary">
-                    <p> While it’s impossible to know for anyone to know the future absoultely, there is wisdom in trying to peak into future possibilites.
-                        In the pursuite of wiser investing we will try to discover which sector will have the best likelihood of being a top performer this earnings season.
-                        We offer you one analytical methodology that can put the odds in your favor of determining which sectors will be the strongest and which sectors will be the weakest: 
-                        a form of relative strength analysis.
-
-                        When conducting a relative strength analysis, analysts compare the strength of each stock market sector against 
-                        every other sector by determining the percentage growth/contraction each sector has experienced since a specific 
-                        start date in the past. We will modify this approach for simplicty but keep the spirit intact. Then we will employ a bit of physics,
-                        Newton’s first law of motion — an object in motion tends to stay in motion — 
-                        and assume that, barring any unforeseen events or information, the sectors that have been performing well will continue 
-                        to perform well and the sectors that have been performing poorly will continue to perform poorly this season. 
-                        
-                        Let's outperform the stock market averages over time, by investing in the sectors that have the greatest 
-                        potential for growing faster than the overall market in the long run.
-
-                        The chart above shows a 20 year history of the S&P500 broken into its sectors. A special FAANG sector has been created 
-                        to segregate stocks that are in a unique class of their own. We will narrow our timeframe throughout the analysis in order to 
-                        focus on current trends, but in order to predict the future, we need to understand the past.               
-                    </p>
-                    </section>
-                </div>
-            </div>
-            </div>
-            
-            <div class="gap-30"></div>
-            <div class="container">
-            <div class="row">
-            <div class="col-md-12">
-                <h4 class="text-center">10 Year Sector Ranking (Excludes REA and FAANG)</h4>
-            </div>
-            <div class="row">
-                <div class="col-md-10" id="chart-container"></div>
-                <div class="col-md-2">
-                    <section id="main-summary">
-                    <p> 
-                       Focusing on the last 10 years, we depict the rankings of all broad market sectors without the skewing of FAANG and Real Estate.
-                    </p>
-                    </section>
-                </div>
-            </div>
-            </div>
-            <div class="gap-10"></div>
-            <div class="row">
-                <div class="col-md-12">
-                    <h4 class="text-center">S&#38;P 500 Sector Ranking</h4>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-10" id="chart-container2"></div>
-                <div class="col-md-2">
-                    <section id="main-summary">
-                        <p>Interesting Trends:</p>
-                        <li>Energy moved from 3rd place to 1st</li>
-                        <li>Materials moved from 8th place to 6th</li>
-                        <li>Staples moved from 10th place to 8th</li>
-                        <li>Financials moved from 7th place to 10th</li>
-                    </section>
-                </div>
-            </div>
-            </div>
-            
-            <div class="gap-30"></div>
-            <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                <h4 class="text-center">Top 4 Ranked Sectors Returns</h4>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                  <input type="button" class="btn btn-primary float-right margin-left" onclick="duration_selected_top(this.id)" id="20" value="20 Yr">
-                  <input type="button" class="btn btn-primary float-right margin-left" onclick="duration_selected_top(this.id)" id="10" value="10 Yr">
-                  <input type="button" class="btn btn-primary float-right margin-left" onclick="duration_selected_top(this.id)" id="5" value="5 Yr">
-                  <input type="button" class="btn btn-primary float-right margin-left" onclick="duration_selected_top(this.id)" id="2" value="2 Yr">
-                </div>
-                <div class="col-md-12" id="plot_top4"></div>
-            </div>
-            <div class="row">
+			<div class='tableauPlaceholder' id='viz1551508377573' style='position: relative'>
+				<noscript>
+					<a href='#'>
+						<img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;Stock_15514600214620&#47;Dashboard1&#47;1_rss.png' style='border: none' />
+					</a>
+				</noscript>
+				<object class='tableauViz'  style='display:none;'>
+					<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+					<param name='embed_code_version' value='3' /> 
+					<param name='site_root' value='' />
+					<param name='name' value='Stock_15514600214620&#47;Dashboard1' />
+					<param name='tabs' value='no' />
+					<param name='toolbar' value='yes' />
+					<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;Stock_15514600214620&#47;Dashboard1&#47;1.png' /> 
+					<param name='animate_transition' value='yes' />
+					<param name='display_static_image' value='yes' />
+					<param name='display_spinner' value='yes' />
+					<param name='display_overlay' value='yes' />
+					<param name='display_count' value='yes' />
+					<param name='filter' value='publish=yes' />
+				</object>
+			</div>                
+			
+			<div class="row">
+				<div class="col-md-12">
+					<section id="main-summary">
+						<p></p>
+					</section>
+				</div>
+			</div>
+			
+			<div class="gap-30"></div>
+		
+			<div class='tableauPlaceholder' id='viz1551508561528' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;re&#47;returnsanddividends&#47;Market_Cap_Tree&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='returnsanddividends&#47;Market_Cap_Tree' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;re&#47;returnsanddividends&#47;Market_Cap_Tree&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                
+			
+			<div class="row">
                 <div class="col-md-12">
                     <section id="main-summary">
-                        <p>
-                                Technology: At the forefront of innovation and at the center of the Information Age, 
-                                this sector is sure to continue to outperform for decades. The technology sector is a category of stocks that 
-                                contains technological businesses, such as manufacturers producing computer hardware, 
-                                computer software or electronics and technological service industry companies, such as those 
-                                providing information technology and business data processing. While some examples of technology 
-                                companies could include Apple (AAPL), Microsoft (MSFT), Google (GOOG) and Facebook (FB) these stocks are not included here. 
-                                This sector is strong with other tech companies are sure to come along with new innovations we are not thinking 
-                                about today and is highly investable.
-                        </p>
-                        <p>
-                                Healthcare: With an aging population and rapid advances in biotechnology, the health industry is sure to 
-                                thrive in the years and decades ahead. The healthcare sector is quite broad. Even a person 
-                                with no investing experience can think of some specific area of the health industry, such as 
-                                hospital conglomerates, institutional services, insurance companies, drug manufacturers, 
-                                biomedical companies, or medical instrument makers. Also, when many industries are doing poorly 
-                                due to negative economic conditions, the health industry can still perform relatively well 
-                                because people still need to see the doctor and buy their drugs, regardless of 
-                                economic conditions. For this reason the healthcare sector is considered a "defensive sector."
-                        </p>
-                        <p>
-                                Consumer Staples: This sector is typically viewed as a safe haven during periods of market 
-                                volatility or economic downturn, and have benefited from increases in volatility in the 
-                                overall market. Staples companies also likely have benefited in recent years from effective 
-                                cost-cutting and increased trade concerns. Further, as geopolitical and domestic political 
-                                tensions rise, investors typically become a bit more nervous, and may seek short-term shelter in the staples sector.
-                                Lastly, the moderation in oil prices could result in less money being spent on energy costs 
-                                and more available for other spending keeping this sector robust.
-                        </p>
-                        <p>     Consumer Discretionary: Basically any goods and services that are considered non-essential by consumers, 
-                                but desirable if their available income is sufficient to purchase them. Bottom line is that lower unemployment means 
-                                you've got more consumers who have the ability to spend. And since wage growth is only growing modestly year over year,
-                                you would want to buy assets when there's the potential for a catalyst.</p>
-
+                    <p>
+					Although small-cap stocks are considered riskier investments than large-cap stocks, there are enough small-cap stocks offering excellent growth potential and high potential returns that any prudent investor would consider their inclusion in a diversified portfolio. One advantage is that is easier for small companies to generate disproportionately large growth rates as compared to larger companies. Also, since smaller companies are often run by a small, intimate managerial staff, they can more quickly adapt to changing market conditions something that larger companies have great trouble doing.
+					</p>
+					<p>
+					Generally, small-cap stocks carry some key risks:
+					<li>less liquidity; meaning enough shares at the right price may be unavailable when they wish to buy – or it may be difficult to sell shares quickly valuations take a turn for the worse</li>
+					<li>less access to capital or not as many financial resources, making it difficult for smaller companies to obtain the necessary financing to bridge gaps in cash flow, fund new market growth pursuits or undertake large capital expenditures.</li>
+					<li>lack of operational history and the potential for its unproven business model to prove unprofitable</li>
+					<li>And as previews of coming attractions (valuations), not as much information about small companies is commonly available to the public, making it hard to develop an informed evaluation.</li>
+					</p>
+					<p>
+					Larger Companies tend to be much more stable and are less likely to come across a business or economic circumstance that renders them insolvent or forces them to stop revenue-producing operations completely. Perhaps, the single best reason to opt for a larger more established company is for a beautiful thing call dividends. Dividends can lead to impressive comprehensive returns for large-cap investors when they are added to the performance calculation over time and are largely responsible for most of the performance returns of the market in general.
+					</p>
                     </section>
-                </div>
-            </div>
-            <div class="gap-10"></div>
-            <div class="row">
-                <div class="col-md-12">
-                <h4 class="text-center">Bottom 4 Ranked Sectors Returns</h4>
-                </div>
-<<<<<<< HEAD
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                  <input type="button" class="btn btn-primary float-right margin-left" onclick="duration_selected_bot(this.id)" id="20" value="20 Yr">
-                  <input type="button" class="btn btn-primary float-right margin-left" onclick="duration_selected_bot(this.id)" id="10" value="10 Yr">
-                  <input type="button" class="btn btn-primary float-right margin-left" onclick="duration_selected_bot(this.id)" id="5" value="5 Yr">
-                  <input type="button" class="btn btn-primary float-right margin-left" onclick="duration_selected_bot(this.id)" id="4" value="2 Yr">
-                </div>
-                <div class="col-md-12" id="plot_bot4"></div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <section id="main-summary">
-                    <p> text goes here text goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext</p>
-                    </section>
-            </div>
-            </div>
-=======
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                  <input type="button" class="btn btn-primary float-right margin-left" onclick="duration_selected_bot(this.id)" id="20" value="20 Yr">
-                  <input type="button" class="btn btn-primary float-right margin-left" onclick="duration_selected_bot(this.id)" id="10" value="10 Yr">
-                  <input type="button" class="btn btn-primary float-right margin-left" onclick="duration_selected_bot(this.id)" id="5" value="5 Yr">
-                  <input type="button" class="btn btn-primary float-right margin-left" onclick="duration_selected_bot(this.id)" id="4" value="2 Yr">
-                </div>
-                <div class="col-md-12" id="plot_bot4"></div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <section id="main-summary">
-                    <p> text goes here text goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext goes heretext</p>
-                    </section>
-            </div>
-            </div>
->>>>>>> a8edd503c41b9795ac967245df6bff83dec807ad
-            </div>
-        
-        <div class="gap-30"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                <h4 class="text-center">2018 Sector and Sub Sector Returns</h4>
-                </div>
-            </div>
-            <div class='tableauPlaceholder' 
-        id='viz1551400909945' 
-        style='position: relative'>
-        <noscript>
-            <a href='#'>
-            <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;re&#47;returnsanddividends&#47;Market_Cap_Tree&#47;1_rss.png' style='border: none' />
-             </a>
-        </noscript>
-        <object class='tableauViz'  style='display:none;'>
-                <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
-                <param name='embed_code_version' value='3' /> <param name='site_root' value='' />
-                <param name='name' value='returnsanddividends&#47;Market_Cap_Tree' />
-                <param name='tabs' value='no' /><param name='toolbar' value='yes' />
-                <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;re&#47;returnsanddividends&#47;Market_Cap_Tree&#47;1.png' /> 
-                <param name='animate_transition' value='yes' />
-                <param name='display_static_image' value='yes' />
-                <param name='display_spinner' value='yes' />
-                <param name='display_overlay' value='yes' />
-                <param name='display_count' value='yes' />
-                <param name='filter' value='publish=yes' />
-        </object>
-</div>                       
+				</div>
+            </div>	
         </div>
-    </div>
-      <!-- <script src="static/data.js"></script>	 -->
-      <script src="static/sector_all.js"></script>
-      <script src="static/sector_top4.js"></script>
-      <script src="static/sector_bot4.js"></script>
-      <script src="static/heat_map_2.js"></script>
-      <script src="static/heat_map.js"></script>
-      <script type='text/javascript'>                    
-        var divElement = document.getElementById('viz1551400909945');                    
-        var vizElement = divElement.getElementsByTagName('object')[0];                    
-        vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
-        var scriptElement = document.createElement('script');                   
-         scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-         vizElement.parentNode.insertBefore(scriptElement, vizElement);          
-       </script><div align="center">
-       <div class='tableauPlaceholder' id='viz1551432211697' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_15513474048140&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book1_15513474048140&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_15513474048140&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1551432211697');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-    </div> 
-    </script>
+      
+	  <script type='text/javascript'>var divElement = document.getElementById('viz1551508377573');var vizElement = divElement.getElementsByTagName('object')[0];if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1377px';}var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);
+	  </script>
+	  
+	  <script type='text/javascript'>                    var divElement = document.getElementById('viz1551508561528');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+	  </script>
 
-        <footer>Wisdom Wealth Management, Copyright &copy; 2019</footer>
+    <footer>Wisdom Wealth Management, Copyright &copy; 2019</footer>
     </body>
-    <!-- <script src="static/yoy_jsfile.js"></script>
-    <script src="static/plots.js"></script>
-    <script src="static/heat_map_2.js"></script>
-    <script src="static/heat_map.js"></script> -->
-    
 </html>
-<<<<<<< HEAD
-=======
-
->>>>>>> a8edd503c41b9795ac967245df6bff83dec807ad

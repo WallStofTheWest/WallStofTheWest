@@ -11,14 +11,14 @@
     <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/flatly/bootstrap.min.css" rel="stylesheet" integrity="sha384-T5jhQKMh96HMkXwqVMSjF3CmLcL1nT9//tCqu9By5XSdj7CwR0r+F3LTzUdfkkQf" crossorigin="anonymous">
 	<script type="text/javascript" src="https://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.js"></script>
 	<link rel="stylesheet" href="static/styles/styles2.css">
-
+	<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
     </head>
     
     <body>
         <header>
             <div class="container">
                 <div id="branding">
-                    <h1>Wisdom Wealth Management</h1>
+                    <h2>Wisdom Wealth Management</h2>
                 </div>
                 <nav>
                     <ul>
@@ -34,12 +34,7 @@
         </header>
         <div class="container">
             <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <h2 class="text-center">Sector Analysis</h3>
-                    <hr></hr>
-                </div>
-            </div>
+			<div class="gap-30"></div>
             <div class="row">
                 <div class="col-md-12">
                     <h4 class="text-center">Year on Year Sector Returns</h3>
@@ -78,11 +73,7 @@
 				<div class="col-md-10" id="chart-container"></div>
 				<div class="col-md-2">
 					<section id="main-summary">
-					<p> Sector (including the custom created FAANG sector)ranking when compared to overall 
-                        S&#38;P performance over the last 22 years. An obvious observable trend is the 
-                        FAANG sector that consistently appears at the top. This gives us an understanding 
-                        of how these 5 individual stocks can influences their respective sectors when 
-                        re-categorized correctly.</p>
+					<p> Sector (including the custom created FAANG sector)ranking when compared to overall S&#38;P performance over the last 22 years. An obvious observable trend is the FAANG sector that consistently appears at the top. This gives us an understanding of how these 5 individual stocks can influences their respective sectors when re-categorized correctly.</p>
 					</section>
 				</div>
 			</div>
@@ -97,11 +88,7 @@
 				<div class="col-md-10" id="chart-container2"></div>
 				<div class="col-md-2">
 					<section id="main-summary">
-					<p> Focusing on the last 10 years of data (2019 to 2010), we depict the rankings 
-                        of all broad market sectors without the skewing of FAANG and Real Estate sectors. 
-                        This view gives you an insight into consistently top and bottom performing sectors 
-                        of the S&#38;P 500 (Note: Click on the legend to either include or exclude desired 
-                        sectors in the view)</p>
+					<p> Focusing on the last 10 years of data (2019 to 2010), we depict the rankings of all broad market sectors without the skewing of FAANG and Real Estate sectors. This view gives you an insight into consistently top and bottom performing sectors of the S&#38;P 500 (Note: Click on the legend to either include or exclude desired sectors in the view)</p>
 					</section>
 				</div>
 			</div>
@@ -155,11 +142,12 @@
                                 Lastly, the moderation in oil prices could result in less money being spent on energy costs 
                                 and more available for other spending keeping this sector robust.
                         </p>
-                        <p>     Consumer Discretionary: Basically, any goods and services that are considered non-essential by consumers, 
+                        <p>     
+								Consumer Discretionary: Basically, any goods and services that are considered non-essential by consumers, 
                                 but desirable if their available income is sufficient to purchase them. Bottom line is that lower unemployment means 
                                 you've got more consumers who have the ability to spend. And since wage growth is only growing modestly year over year,
-                                you would want to buy assets when there's the potential for a catalyst.</p>
-
+                                you would want to buy assets when there's the potential for a catalyst.
+						</p>
                     </section>
                 </div>
             </div>
@@ -181,44 +169,19 @@
             <div class="row">
                 <div class="col-md-12">
                     <section id="main-summary">
-                    <p> 
-                        Energy: Most people see don’t see this sector as anything more than just oil. While the biggest 
-                        factor impacting the entire energy sector right now is oil prices, what’s often overlooked is the 
-                        energy sector also includes oil pipelines, natural gas pipelines and natural gas liquids pipelines 
-                        and other types of assets. These are steady, fee-based driven assets that are somewhat agnostic to 
-                        oil and natural gas prices; these subsectors derive their cash flow, revenues and growth primarily 
-                        from volumes. While the aforementioned subsectors would be the most robust, energy headwinds such as: 
-                        U.S. oil production is increasing, continual battles for global market share ever change geopolitical 
-                        landscape keep outlook returns for this sector modest. 
-                    </p>
-                    <p>
-                        Financials: It may seem that economic fundamentals are strong, the regulatory 
-                        climate is favorable and possibly getting better (i.e. Volcker Rule), and 
-                        transformation technologies are more readily accessible, powerful, and economical 
-                        than ever before, but the headwinds facing the sector are strong. Some headwinds 
-                        include low interest rates and a flat(tening) yield curve, leading to slim interest m
-                        argins, which make up a big part of a bank's earnings. Throw in slumping 
-                        merger-and-acquisition activity, underreserved loans to the energy sector 
-                        (another sector with low prospects), higher capital reserve requirements and 
-                        weaker trading revenue and it adds up to declining return on equity.
-                    </p>
-                    <p>
-                        Industrials: When Energy is cheap Industrials generally benefit with cheap 
-                        feedstocks. And while real estate's record-strong fundamentals remain in place, 
-                        the sector sees headwinds including labor shortages and tariff issues, and impacts 
-                        from the shift in manufacturing from China to the U.S. or emerging exporters 
-                        including Vietnam, Thailand, Bangladesh and western hemisphere countries like 
-                        Brazil and Mexico could shift demand to regions of the country better suited to 
-                        logistically handle these products. These issues cause the industry become tighter 
-                        leaving only cost cutting strategies to turn profits. 
-                    </p>
-                    <p>
-                        Materials: Similar to Industrials, the materials sector has struggled in the 
-                        past due to global growth issues combined with trade dispute worries all working 
-                        to undermine performance during many periods. Likewise, we see reduction in demand 
-                        m China, larger inventories in China continuing to build, increased labor costs, and 
-                        general trade concerns depressing the performance outlook for this sector.
-                    </p>
+                        <p>
+                                Energy: Most people see don’t see this sector as anything more than just oil. While the biggest factor impacting the entire energy sector right now is oil prices, what’s often overlooked is the energy sector also includes oil pipelines, natural gas pipelines and natural gas liquids pipelines and other types of assets. These are steady, fee-based driven assets that are somewhat agnostic to oil and natural gas prices; these subsectors derive their cash flow, revenues and growth primarily from volumes. While the aforementioned subsectors would be the most robust, energy headwinds such as: U.S. oil production is increasing, continual battles for global market share ever change geopolitical landscape keep outlook returns for this sector modest.
+                        </p>
+                        <p>
+                                Financials: It may seem that economic fundamentals are strong, the regulatory climate is favorable and possibly getting better (i.e. Volcker Rule), and transformation technologies are more readily accessible, powerful, and economical than ever before, but the headwinds facing the sector are strong. Some headwinds include low interest rates and a flat(tening) yield curve, leading to slim interest margins, which make up a big part of a bank's earnings. Throw in slumping merger-and-acquisition activity, underreserved loans to the energy sector (another sector with low prospects), higher capital reserve requirements and weaker trading revenue and it adds up to declining return on equity.
+                        </p>
+                        <p>
+                                Industrials: When Energy is cheap Industrials generally benefit with cheap feedstocks. And while real estate's record-strong fundamentals remain in place, the sector sees headwinds including labor shortages and tariff issues, and impacts from the shift in manufacturing from China to the U.S. or emerging exporters including Vietnam, Thailand, Bangladesh and western hemisphere countries like Brazil and Mexico could shift demand to regions of the country better suited to logistically handle these products. These issues cause the industry become tighter leaving only cost cutting strategies to turn profits.
+                        </p>
+                        <p>     
+								Materials: Similar to Industrials, the materials sector has struggled in the past due to global growth issues combined with trade dispute worries all working to undermine performance during many periods. Likewise, we see reduction in demand from China, larger inventories in China continuing to build, increased labor costs, and general trade concerns depressing the performance outlook for this sector.
+						</p>
+                    </section>
                     </section>
             </div>
             </div>
@@ -231,26 +194,26 @@
                 <h4 class="text-center">2018 Sector and Sub Sector Returns</h4>
                 </div>
             </div>
-            <div class='tableauPlaceholder' id='viz1551168144287' style='position: relative'>
-            <noscript>
-                <a href='#'>
-                    <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2018_sector_data&#47;Dashboard1&#47;1_rss.png' style='border: none' />
-                </a>
-            </noscript>
-            <object class='tableauViz'  style='display:none;'>
-                <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> 
-                <param name='site_root' value='' />
-                <param name='name' value='2018_sector_data&#47;Dashboard1' />
-                <param name='tabs' value='no' />
-                <param name='toolbar' value='yes' />
-                <param name='static_image' value=	'https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2018_sector_data&#47;Dashboard1&#47;1.png' /> 
-                <param name='animate_transition' value='yes' />
-                <param name='display_static_image' value='yes' />
-                <param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' />
-                <param name='display_count' value='yes' />
-                <param name='filter' value='publish=yes' />
-            </object>
-            </div> 
+            <div class='tableauPlaceholder' id='viz1551503787954' style='position: relative'>
+				<noscript>
+					<a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2018_sector_data&#47;Dashboard1&#47;1_rss.png' style='border: none' />
+					</a>
+				</noscript>
+				<object class='tableauViz'  style='display:none;'>
+					<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+					<param name='embed_code_version' value='3' /> 
+					<param name='site_root' value='' />
+					<param name='name' value='2018_sector_data&#47;Dashboard1' />
+					<param name='tabs' value='no' />
+					<param name='toolbar' value='yes' />
+					<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2018_sector_data&#47;Dashboard1&#47;1.png' /> 
+					<param name='animate_transition' value='yes' />
+					<param name='display_static_image' value='yes' />
+					<param name='display_spinner' value='yes' />
+					<param name='display_overlay' value='yes' />
+					<param name='display_count' value='yes' />
+				</object>
+			</div>                
         </div>
     </div>
       <!-- <script src="static/data.js"></script>	 -->
@@ -259,12 +222,8 @@
       <script src="static/sector_bot4.js"></script>
       <script src="static/heat_map_2.js"></script>
       <script src="static/heat_map.js"></script>
-      <script type='text/javascript'>                    
-        var divElement = document.getElementById('viz1551168144287');var vizElement = divElement.getElementsByTagName('object')[0];
-        vizElement.style.width='1000px';vizElement.style.height='827px';var scriptElement = document.createElement('script');
-        scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement,vizElement);
-      </script>
-      </script>
+      <script type='text/javascript'>var divElement = document.getElementById('viz1551503787954');var vizElement = divElement.getElementsByTagName('object')[0];vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                   vizElement.parentNode.insertBefore(scriptElement, vizElement);
+	  </script>
 
         <footer>Wisdom Wealth Management, Copyright &copy; 2019</footer>
     </body>
