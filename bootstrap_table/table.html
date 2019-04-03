@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Evaluations</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.14.2/dist/bootstrap-table.min.css">
+    <script src="https://unpkg.com/bootstrap-table@1.14.2/dist/bootstrap-table.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+  </head>
+
+  <body>
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            var jsondata = data
+
+            $('#table').bootstrapTable({
+                //Assigning data to table
+                data: jsondata
+            });
+        });
+
+    </script>
+
+<body>
+
+    <form id="form1" runat="server">
+        <table id="table"
+              data-toggle="table"
+              data-search="true"
+              data-pagination="true"
+              buttons-align="true"
+              data-detail-view="true"
+              data-show-columns="true"
+              data-page-size="5"
+              data-show-pagination-switch="true"
+              data-page-list="[5, 10, 25, 50, 100, ALL]"
+              data-show-export="true"
+              data-classes="table table-hover table-striped table-borderless"
+              data-trim-on-search="true"
+              data-json="data.json"
+              data-id-field="symbol"
+              data-sort-name="price"
+              data-sort-order="asc"
+              data-filter-control="true"
+              data-detail-formatter=detailFormatter>
+
+              <script> function detailFormatter(index, row)
+                       { var html = [];
+                       $.each(row, function (key, value)
+                       { if (key=="description")
+                       { html.push(value + '<br>');
+                       }});
+                       return html.join(''); }
+              </script>
+
+            <thead>
+                <tr>
+                    <th data-field="symbol"
+                        data-sortable="true">
+                        Symbol
+                      </th>
+
+                    <th data-field="gics_sector"
+                        data-sortable="true">
+                        Sector
+                      </th>
+
+                    <th data-field="gics_sub_industry"
+                        data-sortable="true">
+                        Sub Industry
+                      </th>
+
+                    <th data-field="percent_change"
+                        data-sortable="true">
+                        Percent Change
+                      </th>
+
+                    <th data-field="current_price"
+                        data-sortable="true">
+                        Current Price
+                      </th>
+
+                    <th data-field="target_price"
+                        data-sortable="true">
+                        Target Price
+                      </th>
+                </tr>
+            </thead>
+        </table>
+    </form>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/bootstrap-table@1.14.2/dist/bootstrap-table.min.js"></script>
+
+    <script type="text/javascript" src="data.json"></script>
+  </body>
+
+</html>
