@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Wisdom Wealth Management | Stocks</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script type="text/javascript" src="https://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.js"></script>
+    <script type="text/javascript" src="https://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.theme.fusion.js"></script>
+    <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/flatly/bootstrap.min.css" rel="stylesheet" integrity="sha384-T5jhQKMh96HMkXwqVMSjF3CmLcL1nT9//tCqu9By5XSdj7CwR0r+F3LTzUdfkkQf" crossorigin="anonymous">
+    <link rel="stylesheet" href="static/styles/styles2.css">
+	<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    </head>
+    
+    <body>
+        <header>
+            <div class="container">
+                <div id="branding">
+                    <h2>Wisdom Wealth Management</h2>
+                </div>
+                <nav>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="disclaimer.html">Disclaimer</a></li>
+                        <li><a href="sector.html">Sector</a></li>					
+                        <li><a href="stocks.html">Stocks</a></li>
+						<li><a class="current"></a><a href="insights.html">Insights</a></li>
+                        <li><a href="services.html">Services</a></li>
+                    </ul>
+                </nav>
+            </div> 
+        </header>
+        <div class="gap-30"></div>
+		<div class="container">
+			<h3 class="text-left">Sentiment Analysis on President Trump’s tweets and its impact on Stock Price</h3>
+			<div class="gap-30"></div>
+			<div class="row">
+				<div class="col-md-12">
+					<div class='tableauPlaceholder' id='viz1554257007108' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tw&#47;Twitter_SA&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Twitter_SA&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tw&#47;Twitter_SA&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                
+				</div>
+			</div>
+			
+			<div class="gap-30"></div>
+			<div class="row">
+				<div class="col-md-12">
+					<h4>Objective</h4>
+						<p>
+							Explore the impact on stock prices casued by president Trump's tweets about companies S&#38;P 500
+						</p>
+					<h4>Challenges</h4>
+						<p>
+							<li>Limitation of twitter API (free account) to access > 3600 tweets for any tweet handle.</li>
+							<li>The unstructured nature of tweets, their brevity, and the frequent use of abbreviations mean that distinguishing words from certain company names (Intel the company from intel the abbreviation for intelligence).</li>
+							<li>Tweets about subsidiaries, products or other relevant keywords uniquely related to a company.</li>
+							<li>Sentiment Analysis accuracy is limited to the training data set provided.</li>
+						</p>
+				</div>		
+			</div>
+			
+			<div class="gap-30"></div>
+			<h5>Lockheed Martin</h5>	
+			<p> 
+				President Trump decried defense company Lockheed Martin on Twitter for its cost and budget overruns.
+			</p>
+			<div class="row">			
+				<div class="col-md-6">
+						<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Based on the tremendous cost and cost overruns of the Lockheed Martin F-35, I have asked Boeing to price-out a comparable F-18 Super Hornet!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/812061677160202240?ref_src=twsrc%5Etfw">December 22, 2016</a></blockquote>
+				</div>
+				<div class="col-md-6">
+					<img alt="" src="/static/LM.png" scale="0">
+				</div>		
+			</div>
+			
+			<div class="gap-30"></div>
+			<h5>Boeing</h5>	
+			<p> 
+				Trump tweeted criticism about the cost of a new Air Force One buit by Boeing
+			</p>
+			<div class="row">
+				<div class="col-md-6">
+						<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Boeing is building a brand new 747 Air Force One for future presidents, but costs are out of control, more than $4 billion. Cancel order!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/806134244384899072?ref_src=twsrc%5Etfw">December 6, 2016</a></blockquote>
+				</div>
+				<div class="col-md-6">
+					<p>
+						<img alt="" src="/static/boeing.png" scale="0">
+					</p>
+				</div>
+			</div>
+			
+			<div class="gap-30"></div>
+			<h5>Toyota</h5>	
+			<p> 
+				When Toyota announced it was building a new plant in Mexico, Trump took to Twitter to blast the company.
+			</p>
+			<div class="row">
+				<div class="col-md-6">
+					<twitter-widget class="twitter-tweet twitter-tweet-rendered" id="twitter-widget-2" style="position: static; visibility: visible; display: block; transform: rotate(0deg); max-width: 100%; width: 500px; min-width: 220px; margin-top: 10px; margin-bottom: 10px;" data-tweet-id="817071792711942145"></twitter-widget>
+					<blockquote class="twitter-tweet tw-align-left" data-lang="en"><p lang="en" dir="ltr">Toyota Motor said will build a new plant in Baja, Mexico, to build Corolla cars for U.S. NO WAY! Build plant in U.S. or pay big border tax.</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/817071792711942145?ref_src=twsrc%5Etfw">January 5, 2017</a></blockquote>
+				</div>
+				<div class="col-md-6">
+					<p>
+						<img alt="" src="/static/toyota.png" scale="0">
+					</p>
+				</div>
+			</div>	
+						
+			<div class="row">
+			<h4>Observations</h4>	
+				<p>
+					<li>Preliminary exploration of Donald Trump's tweets that refer to S&#38;P 500 companies does not find very strong evidence for the contention that tweets that are critical of a company results in a decline in its stock price or that tweets that praise a company results in a rise.</li>
+					<li>In all cases, regardless of whether Trump’s tweets were positive or negative, the changes in company stock prices were nominal.</li>
+					<li>There are however some micro trends visible where positive and negative Trump tweets temporarily increase and decrease the stock price respectively. If you are a seasoned investor with an appetite for risk, there is potential to make money with short term plays.</li>
+					<li> Trump’s tweets are only a tiny factor affecting stock prices. Other factors like market sentiment, economy, global trade, company, peer and sector performance have a much stronger impact on the stock price.</li>
+				</p>
+			</div>		
+		</div>  
+	  
+	  <script type='text/javascript'>var divElement = document.getElementById('viz1551508377573');var vizElement = divElement.getElementsByTagName('object')[0];if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1377px';}var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);
+	  </script>
+	  
+	  <script type='text/javascript'>                    var divElement = document.getElementById('viz1551508561528');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);     
+	  </script>
+	 
+	  <script type='text/javascript'>                    var divElement = document.getElementById('viz1554257007108');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);      </script>
+	  
+	  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    
+	<footer> Wisdom Wealth Management, Copyright &copy; 2019</footer>
+	
+    </body>
+</html>

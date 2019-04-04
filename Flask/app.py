@@ -1,4 +1,4 @@
-from flask import Flask, render_template, redirect,url_for, jsonify
+from flask import Flask, render_template, redirect,url_for, jsonify, send_from_directory
 import yony_sector_data
 import sector_ranking
 
@@ -10,6 +10,10 @@ def index():
 
     return render_template("index.html")
 
+@app.route('/favicon.ico')
+def favicon():
+    return send_from_directory(os.path.join(app.root_path, 'static'),
+                          'favicon.ico',mimetype='image/vnd.microsoft.icon')
 
 @app.route("/index.html")
 def index_file():
@@ -38,7 +42,7 @@ def sector():
 def disclaimer():
 
     return render_template("disclaimer.html")
-    
+
 
 @app.route("/services.html")
 def services():
@@ -75,6 +79,10 @@ def sector_rank_filter():
     to_return = sector_ranking.sector_ranking_filtered()
     # print(to_return)
     return jsonify(to_return)
+	
+@app.route("/insights.html")
+def insights():
+	return render_template("insights.html")
 
 if __name__ == "__main__":
     app.run(debug=True)
