@@ -1,7 +1,7 @@
 # Import relevant packages
 #Import Modules
 import pandas as pd
-from Config2 import pwd
+from Config import pwd, user, host, port, dbname 
 from sqlalchemy import create_engine
 import pymysql
 import warnings
@@ -9,7 +9,7 @@ warnings.filterwarnings('ignore')
 
 # setup pymysql and connect to local MySQL workbench
 pymysql.install_as_MySQLdb() 
-string = f"mysql://ucbx:{pwd}@stock-data-analysis.ciuxgx1cjbsw.us-east-2.rds.amazonaws.com/stock_data"
+string = f"mysql://{user}:{pwd}@{host}/{dbname}"
 engine = create_engine(string)
 # Establish a connection to the local DB
 conn = engine.connect()

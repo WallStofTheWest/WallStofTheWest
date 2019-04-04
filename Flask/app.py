@@ -1,7 +1,8 @@
 from flask import Flask, render_template, redirect,url_for, jsonify, send_from_directory
 import yony_sector_data
 import sector_ranking
-
+import evaluations
+import os
 
 app = Flask(__name__)
 
@@ -83,6 +84,48 @@ def sector_rank_filter():
 @app.route("/insights.html")
 def insights():
 	return render_template("insights.html")
+
+
+@app.route("/ebitda_multiple")
+def ebita_multiple():
+    to_return = evaluations.ebitda_multiple_full()
+    return jsonify(to_return)
+
+@app.route("/ev_sales_multiple")
+def ev_sales_multiple():
+    to_return = evaluations.ev_sales_mutiple_full()
+    return jsonify(to_return)
+
+@app.route("/eps_multiple")
+def eps_multiple():
+    to_return = evaluations.eps_multiple_full()
+    return jsonify(to_return)
+
+
+
+@app.route("/book_value_to_revenue_multiple")
+def book_value_to_revenue_multiple():
+    to_return = evaluations.book_value_to_revenue_multiple_full()
+    return jsonify(to_return)
+book_value_to_revenue_multiple
+
+@app.route("/top_bottom/<parmstoparse>")
+def top_bottom(parmstoparse):
+    print(parmstoparse)
+    parmstoparse = str(parmstoparse)
+    model,topORbottom = parmstoparse.split(',')
+    print(model)
+    print(topORbottom)
+    to_return = evaluations.top_bottom(model,topORbottom)
+    return jsonify(to_return)
+    # return ("done")
+
+@app.route("/table.html")
+@app.route('/table')
+def table():
+
+    return render_template("table.html")
+
 
 if __name__ == "__main__":
     app.run(debug=True)
