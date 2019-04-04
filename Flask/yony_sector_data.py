@@ -3,20 +3,20 @@ import pandas as pd
 from sqlalchemy import create_engine
 import pymysql
 import warnings
-from Config import pwd 
+from Config import pwd, user, host, port, dbname 
 warnings.filterwarnings('ignore')
 
-# setup pymysql and connect to local MySQL workbench
-pymysql.install_as_MySQLdb() 
-string = f"mysql://ucbx:{pwd}@stock-data-analysis.ciuxgx1cjbsw.us-east-2.rds.amazonaws.com/stock_data"
-engine = create_engine(string)
-# Establish a connection to the local DB
-conn = engine.connect()
+# # setup pymysql and connect to local MySQL workbench
+# pymysql.install_as_MySQLdb() 
+# string = f"mysql://{user}:{pwd}@{host}/{dbname}"
+# engine = create_engine(string)
+# # Establish a connection to the local DB
+# conn = engine.connect()
 
 def sector_yony_df_all():
     # setup pymysql and connect to local MySQL workbench
     pymysql.install_as_MySQLdb() 
-    string = f"mysql://ucbx:{pwd}@stock-data-analysis.ciuxgx1cjbsw.us-east-2.rds.amazonaws.com/stock_data"
+    string = f"mysql://{user}:{pwd}@{host}/{dbname}"
     engine = create_engine(string)
     # Establish a connection to the local DB
     conn = engine.connect()
@@ -31,7 +31,7 @@ def sector_yony_df_all():
 def sector_top_bot_calc ():
     # setup pymysql and connect to local MySQL workbench
     pymysql.install_as_MySQLdb() 
-    string = f"mysql://ucbx:{pwd}@stock-data-analysis.ciuxgx1cjbsw.us-east-2.rds.amazonaws.com/stock_data"
+    string = f"mysql://{user}:{pwd}@{host}/{dbname}"
     engine = create_engine(string)
     # Establish a connection to the local DB
     conn = engine.connect()
@@ -88,7 +88,7 @@ def sector_top_bot_calc ():
 def sector_yony_df_top4():
     # setup pymysql and connect to local MySQL workbench
     pymysql.install_as_MySQLdb() 
-    string = f"mysql://ucbx:{pwd}@stock-data-analysis.ciuxgx1cjbsw.us-east-2.rds.amazonaws.com/stock_data"
+    string = f"mysql://{user}:{pwd}@{host}/{dbname}"
     engine = create_engine(string)
     # Establish a connection to the local DB
     conn = engine.connect()
@@ -101,7 +101,7 @@ def sector_yony_df_top4():
 def sector_yony_df_bot4():
         # setup pymysql and connect to local MySQL workbench
     pymysql.install_as_MySQLdb() 
-    string = f"mysql://ucbx:{pwd}@stock-data-analysis.ciuxgx1cjbsw.us-east-2.rds.amazonaws.com/stock_data"
+    string = f"mysql://{user}:{pwd}@{host}/{dbname}"
     engine = create_engine(string)
     # Establish a connection to the local DB
     conn = engine.connect()

@@ -1,0 +1,4502 @@
+[
+	{
+		"symbol" : "MMM",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Industrial Conglomerates",
+		"model" : "multiples",
+		"percent_change" : 6.4517243033239,
+		"current_price" : 208.49,
+		"target_price" : 221.9412
+	},
+	{
+		"symbol" : "GE",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Industrial Conglomerates",
+		"model" : "multiples",
+		"percent_change" : 32.67647058823532,
+		"current_price" : 10.2,
+		"target_price" : 13.533000000000001
+	},
+	{
+		"symbol" : "HON",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Industrial Conglomerates",
+		"model" : "multiples",
+		"percent_change" : 5.738482125788556,
+		"current_price" : 156.93,
+		"target_price" : 165.9354
+	},
+	{
+		"symbol" : "ROP",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Industrial Conglomerates",
+		"model" : "multiples",
+		"percent_change" : -23.307629649742058,
+		"current_price" : 331.47,
+		"target_price" : 254.21220000000002
+	},
+	{
+		"symbol" : "ABT",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Equipment",
+		"model" : "multiples",
+		"percent_change" : 38.5688371326001,
+		"current_price" : 78.831,
+		"target_price" : 109.23519999999999
+	},
+	{
+		"symbol" : "ABMD",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Equipment",
+		"model" : "multiples",
+		"percent_change" : -63.32876819204801,
+		"current_price" : 333.25,
+		"target_price" : 122.20687999999998
+	},
+	{
+		"symbol" : "A",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Equipment",
+		"model" : "multiples",
+		"percent_change" : 29.006002223045552,
+		"current_price" : 80.97,
+		"target_price" : 104.45615999999998
+	},
+	{
+		"symbol" : "BAX",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Equipment",
+		"model" : "multiples",
+		"percent_change" : 45.06136452241712,
+		"current_price" : 76.95,
+		"target_price" : 111.62471999999998
+	},
+	{
+		"symbol" : "BDX",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Equipment",
+		"model" : "multiples",
+		"percent_change" : 68.81742755548287,
+		"current_price" : 244.67,
+		"target_price" : 413.0455999999999
+	},
+	{
+		"symbol" : "BSX",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Equipment",
+		"model" : "multiples",
+		"percent_change" : 40.2405983356157,
+		"current_price" : 37.972,
+		"target_price" : 53.252159999999996
+	},
+	{
+		"symbol" : "DHR",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Equipment",
+		"model" : "multiples",
+		"percent_change" : 26.87386585461074,
+		"current_price" : 128.07,
+		"target_price" : 162.48735999999997
+	},
+	{
+		"symbol" : "EW",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Equipment",
+		"model" : "multiples",
+		"percent_change" : -6.831913667557245,
+		"current_price" : 190.89,
+		"target_price" : 177.84855999999996
+	},
+	{
+		"symbol" : "HOLX",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Equipment",
+		"model" : "multiples",
+		"percent_change" : 74.36998728274692,
+		"current_price" : 47.18,
+		"target_price" : 82.26776
+	},
+	{
+		"symbol" : "IDXX",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Equipment",
+		"model" : "multiples",
+		"percent_change" : -25.791304347826095,
+		"current_price" : 215.74,
+		"target_price" : 160.09784
+	},
+	{
+		"symbol" : "ISRG",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Equipment",
+		"model" : "multiples",
+		"percent_change" : -38.560203042056166,
+		"current_price" : 559.49,
+		"target_price" : 343.74951999999996
+	},
+	{
+		"symbol" : "JNJ",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Equipment",
+		"model" : "multiples",
+		"percent_change" : 113.27223153750819,
+		"current_price" : 137.17,
+		"target_price" : 292.54551999999995
+	},
+	{
+		"symbol" : "MDT",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Equipment",
+		"model" : "multiples",
+		"percent_change" : 91.31405687172844,
+		"current_price" : 91.891,
+		"target_price" : 175.8004
+	},
+	{
+		"symbol" : "PKI",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Equipment",
+		"model" : "multiples",
+		"percent_change" : 46.30232904392213,
+		"current_price" : 94.03,
+		"target_price" : 137.56807999999998
+	},
+	{
+		"symbol" : "RMD",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Equipment",
+		"model" : "multiples",
+		"percent_change" : 24.415104412640368,
+		"current_price" : 97.402,
+		"target_price" : 121.18279999999997
+	},
+	{
+		"symbol" : "SYK",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Equipment",
+		"model" : "multiples",
+		"percent_change" : 43.364851740882294,
+		"current_price" : 193.58,
+		"target_price" : 277.52567999999997
+	},
+	{
+		"symbol" : "TFX",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Equipment",
+		"model" : "multiples",
+		"percent_change" : 24.938961772227564,
+		"current_price" : 301.09,
+		"target_price" : 376.17871999999994
+	},
+	{
+		"symbol" : "TMO",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Equipment",
+		"model" : "multiples",
+		"percent_change" : 57.25383827268242,
+		"current_price" : 263.53,
+		"target_price" : 414.41103999999996
+	},
+	{
+		"symbol" : "VAR",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Equipment",
+		"model" : "multiples",
+		"percent_change" : 18.344176440215392,
+		"current_price" : 135.57,
+		"target_price" : 160.4392
+	},
+	{
+		"symbol" : "ZBH",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Equipment",
+		"model" : "multiples",
+		"percent_change" : 113.00951165017554,
+		"current_price" : 125.32,
+		"target_price" : 266.94352
+	},
+	{
+		"symbol" : "ABBV",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Pharmaceuticals",
+		"model" : "multiples",
+		"percent_change" : 57.63554453399461,
+		"current_price" : 80.65,
+		"target_price" : 127.13306666666666
+	},
+	{
+		"symbol" : "AGN",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Pharmaceuticals",
+		"model" : "multiples",
+		"percent_change" : 58.95381419605764,
+		"current_price" : 150.84,
+		"target_price" : 239.76593333333335
+	},
+	{
+		"symbol" : "LLY",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Pharmaceuticals",
+		"model" : "multiples",
+		"percent_change" : -34.040881507505595,
+		"current_price" : 125.24,
+		"target_price" : 82.60719999999999
+	},
+	{
+		"symbol" : "MRK",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Pharmaceuticals",
+		"model" : "multiples",
+		"percent_change" : -16.279041180086043,
+		"current_price" : 81.35,
+		"target_price" : 68.107
+	},
+	{
+		"symbol" : "MYL",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Pharmaceuticals",
+		"model" : "multiples",
+		"percent_change" : 127.65223562810503,
+		"current_price" : 28.18,
+		"target_price" : 64.1524
+	},
+	{
+		"symbol" : "NKTR",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Pharmaceuticals",
+		"model" : "multiples",
+		"percent_change" : 151.58889206985398,
+		"current_price" : 34.93,
+		"target_price" : 87.88
+	},
+	{
+		"symbol" : "PRGO",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Pharmaceuticals",
+		"model" : "multiples",
+		"percent_change" : 32.111910143140854,
+		"current_price" : 48.67,
+		"target_price" : 64.29886666666665
+	},
+	{
+		"symbol" : "PFE",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Pharmaceuticals",
+		"model" : "multiples",
+		"percent_change" : 0.19006617236704487,
+		"current_price" : 41.81,
+		"target_price" : 41.889466666666664
+	},
+	{
+		"symbol" : "ZTS",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Pharmaceuticals",
+		"model" : "multiples",
+		"percent_change" : -48.16664961985612,
+		"current_price" : 97.77,
+		"target_price" : 50.67746666666667
+	},
+	{
+		"symbol" : "ACN",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "IT Consulting & Other Services",
+		"model" : "multiples",
+		"percent_change" : -13.58096497025775,
+		"current_price" : 166.43,
+		"target_price" : 143.82720000000003
+	},
+	{
+		"symbol" : "CTSH",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "IT Consulting & Other Services",
+		"model" : "multiples",
+		"percent_change" : 23.946800222593225,
+		"current_price" : 71.88,
+		"target_price" : 89.09296
+	},
+	{
+		"symbol" : "DXC",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "IT Consulting & Other Services",
+		"model" : "multiples",
+		"percent_change" : 149.02003025718614,
+		"current_price" : 66.1,
+		"target_price" : 164.60224000000002
+	},
+	{
+		"symbol" : "IT",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "IT Consulting & Other Services",
+		"model" : "multiples",
+		"percent_change" : -46.12817064058147,
+		"current_price" : 147.21,
+		"target_price" : 79.30472000000002
+	},
+	{
+		"symbol" : "IBM",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "IT Consulting & Other Services",
+		"model" : "multiples",
+		"percent_change" : 98.32103273660941,
+		"current_price" : 140.21,
+		"target_price" : 278.06592000000006
+	},
+	{
+		"symbol" : "ATVI",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Interactive Home Entertainment",
+		"model" : "multiples",
+		"percent_change" : 48.833889259506336,
+		"current_price" : 44.97,
+		"target_price" : 66.9306
+	},
+	{
+		"symbol" : "EA",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Interactive Home Entertainment",
+		"model" : "multiples",
+		"percent_change" : 6.504582246304115,
+		"current_price" : 99.66,
+		"target_price" : 106.14246666666668
+	},
+	{
+		"symbol" : "TTWO",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Interactive Home Entertainment",
+		"model" : "multiples",
+		"percent_change" : 13.482361718000648,
+		"current_price" : 93.83,
+		"target_price" : 106.4805
+	},
+	{
+		"symbol" : "ADBE",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Application Software",
+		"model" : "multiples",
+		"percent_change" : 454.6157222665604,
+		"current_price" : 257.76,
+		"target_price" : 1429.577485714286
+	},
+	{
+		"symbol" : "ANSS",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Application Software",
+		"model" : "multiples",
+		"percent_change" : 535.006365000395,
+		"current_price" : 180.9,
+		"target_price" : 1148.7265142857145
+	},
+	{
+		"symbol" : "ADSK",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Application Software",
+		"model" : "multiples",
+		"percent_change" : 163.34875342402162,
+		"current_price" : 153.85,
+		"target_price" : 405.16205714285724
+	},
+	{
+		"symbol" : "CDNS",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Application Software",
+		"model" : "multiples",
+		"percent_change" : 427.8218146085817,
+		"current_price" : 61.06,
+		"target_price" : 322.288
+	},
+	{
+		"symbol" : "ORCL",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Application Software",
+		"model" : "multiples",
+		"percent_change" : 1239.206456095345,
+		"current_price" : 53.46,
+		"target_price" : 715.9397714285715
+	},
+	{
+		"symbol" : "SYMC",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Application Software",
+		"model" : "multiples",
+		"percent_change" : 1057.5146448696514,
+		"current_price" : 23.07,
+		"target_price" : 267.0386285714286
+	},
+	{
+		"symbol" : "SNPS",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Application Software",
+		"model" : "multiples",
+		"percent_change" : 559.1747193434139,
+		"current_price" : 109.31,
+		"target_price" : 720.5438857142858
+	},
+	{
+		"symbol" : "AMD",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Semiconductors",
+		"model" : "multiples",
+		"percent_change" : -50.25032258064515,
+		"current_price" : 23.25,
+		"target_price" : 11.566800000000002
+	},
+	{
+		"symbol" : "ADI",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Semiconductors",
+		"model" : "multiples",
+		"percent_change" : 11.473970189224424,
+		"current_price" : 109.15,
+		"target_price" : 121.67383846153847
+	},
+	{
+		"symbol" : "AVGO",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Semiconductors",
+		"model" : "multiples",
+		"percent_change" : 40.727300571739754,
+		"current_price" : 293.84,
+		"target_price" : 413.51310000000007
+	},
+	{
+		"symbol" : "INTC",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Semiconductors",
+		"model" : "multiples",
+		"percent_change" : 85.0227498933599,
+		"current_price" : 54.1,
+		"target_price" : 100.09730769230771
+	},
+	{
+		"symbol" : "MXIM",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Semiconductors",
+		"model" : "multiples",
+		"percent_change" : 0.9959656725780033,
+		"current_price" : 53.96,
+		"target_price" : 54.49742307692309
+	},
+	{
+		"symbol" : "MCHP",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Semiconductors",
+		"model" : "multiples",
+		"percent_change" : 53.54067015838962,
+		"current_price" : 85.33,
+		"target_price" : 131.01625384615386
+	},
+	{
+		"symbol" : "MU",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Semiconductors",
+		"model" : "multiples",
+		"percent_change" : 315.0013205678443,
+		"current_price" : 39.61,
+		"target_price" : 164.3820230769231
+	},
+	{
+		"symbol" : "NVDA",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Semiconductors",
+		"model" : "multiples",
+		"percent_change" : -40.88495458374119,
+		"current_price" : 168.95,
+		"target_price" : 99.87486923076925
+	},
+	{
+		"symbol" : "QRVO",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Semiconductors",
+		"model" : "multiples",
+		"percent_change" : 60.22704590268677,
+		"current_price" : 69.83,
+		"target_price" : 111.88654615384617
+	},
+	{
+		"symbol" : "QCOM",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Semiconductors",
+		"model" : "multiples",
+		"percent_change" : 25.64269954926301,
+		"current_price" : 56.83,
+		"target_price" : 71.40274615384617
+	},
+	{
+		"symbol" : "SWKS",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Semiconductors",
+		"model" : "multiples",
+		"percent_change" : 61.05653158334443,
+		"current_price" : 82.59100000000002,
+		"target_price" : 133.01820000000004
+	},
+	{
+		"symbol" : "TXN",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Semiconductors",
+		"model" : "multiples",
+		"percent_change" : 5.537235644785063,
+		"current_price" : 109.81,
+		"target_price" : 115.89043846153848
+	},
+	{
+		"symbol" : "XLNX",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Semiconductors",
+		"model" : "multiples",
+		"percent_change" : -38.38909151193633,
+		"current_price" : 125.28,
+		"target_price" : 77.18614615384617
+	},
+	{
+		"symbol" : "AAP",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Automotive Retail",
+		"model" : "multiples",
+		"percent_change" : 13.882032555548667,
+		"current_price" : 161.57,
+		"target_price" : 183.99919999999997
+	},
+	{
+		"symbol" : "AES",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Independent Power Producers & Energy Traders",
+		"model" : "multiples",
+		"percent_change" : 16.436363636363637,
+		"current_price" : 18.15,
+		"target_price" : 21.1332
+	},
+	{
+		"symbol" : "NRG",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Independent Power Producers & Energy Traders",
+		"model" : "multiples",
+		"percent_change" : 89.22994269340973,
+		"current_price" : 41.88,
+		"target_price" : 79.2495
+	},
+	{
+		"symbol" : "AMG",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Asset Management & Custody Banks",
+		"model" : "multiples",
+		"percent_change" : 45.38485129093606,
+		"current_price" : 111.59,
+		"target_price" : 162.23495555555556
+	},
+	{
+		"symbol" : "AMP",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Asset Management & Custody Banks",
+		"model" : "multiples",
+		"percent_change" : 37.7918413964747,
+		"current_price" : 130.36,
+		"target_price" : 179.62544444444444
+	},
+	{
+		"symbol" : "BK",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Asset Management & Custody Banks",
+		"model" : "multiples",
+		"percent_change" : -9.708904532542922,
+		"current_price" : 53.98,
+		"target_price" : 48.73913333333333
+	},
+	{
+		"symbol" : "BLK",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Asset Management & Custody Banks",
+		"model" : "multiples",
+		"percent_change" : -31.739829277152204,
+		"current_price" : 440.48,
+		"target_price" : 300.6724
+	},
+	{
+		"symbol" : "BEN",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Asset Management & Custody Banks",
+		"model" : "multiples",
+		"percent_change" : -19.538773491592483,
+		"current_price" : 33.7,
+		"target_price" : 27.115433333333335
+	},
+	{
+		"symbol" : "IVZ",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Asset Management & Custody Banks",
+		"model" : "multiples",
+		"percent_change" : 21.53354194115064,
+		"current_price" : 20.24,
+		"target_price" : 24.598388888888888
+	},
+	{
+		"symbol" : "NTRS",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Asset Management & Custody Banks",
+		"model" : "multiples",
+		"percent_change" : -21.449549746353075,
+		"current_price" : 96.131,
+		"target_price" : 75.51133333333333
+	},
+	{
+		"symbol" : "STT",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Asset Management & Custody Banks",
+		"model" : "multiples",
+		"percent_change" : 10.016897298314987,
+		"current_price" : 70.82,
+		"target_price" : 77.91396666666667
+	},
+	{
+		"symbol" : "TROW",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Asset Management & Custody Banks",
+		"model" : "multiples",
+		"percent_change" : -29.918327661643175,
+		"current_price" : 102.85,
+		"target_price" : 72.079
+	},
+	{
+		"symbol" : "AFL",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Life & Health Insurance",
+		"model" : "multiples",
+		"percent_change" : -22.078464818763344,
+		"current_price" : 50.25,
+		"target_price" : 39.15557142857142
+	},
+	{
+		"symbol" : "BHF",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Life & Health Insurance",
+		"model" : "multiples",
+		"percent_change" : 100.29148053100143,
+		"current_price" : 40.581,
+		"target_price" : 81.2802857142857
+	},
+	{
+		"symbol" : "MET",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Life & Health Insurance",
+		"model" : "multiples",
+		"percent_change" : 11.2129733783277,
+		"current_price" : 45.72,
+		"target_price" : 50.84657142857142
+	},
+	{
+		"symbol" : "PFG",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Life & Health Insurance",
+		"model" : "multiples",
+		"percent_change" : -3.857196979947517,
+		"current_price" : 52.79,
+		"target_price" : 50.753785714285705
+	},
+	{
+		"symbol" : "PRU",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Life & Health Insurance",
+		"model" : "multiples",
+		"percent_change" : 20.691744631344196,
+		"current_price" : 97.251,
+		"target_price" : 117.37392857142855
+	},
+	{
+		"symbol" : "TMK",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Life & Health Insurance",
+		"model" : "multiples",
+		"percent_change" : -26.995170642950683,
+		"current_price" : 84.01,
+		"target_price" : 61.33135714285714
+	},
+	{
+		"symbol" : "UNM",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Life & Health Insurance",
+		"model" : "multiples",
+		"percent_change" : 38.53510237382956,
+		"current_price" : 36.77,
+		"target_price" : 50.93935714285713
+	},
+	{
+		"symbol" : "APD",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Industrial Gases",
+		"model" : "multiples",
+		"percent_change" : 20.734099368829906,
+		"current_price" : 185.37,
+		"target_price" : 223.8048
+	},
+	{
+		"symbol" : "LIN",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Industrial Gases",
+		"model" : "multiples",
+		"percent_change" : -3.7580063019192305,
+		"current_price" : 174.55,
+		"target_price" : 167.9904
+	},
+	{
+		"symbol" : "AKAM",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Internet Services & Infrastructure",
+		"model" : "multiples",
+		"percent_change" : 38.358606841157744,
+		"current_price" : 72.21,
+		"target_price" : 99.90875
+	},
+	{
+		"symbol" : "VRSN",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Internet Services & Infrastructure",
+		"model" : "multiples",
+		"percent_change" : -15.652119838593775,
+		"current_price" : 180.91,
+		"target_price" : 152.59375
+	},
+	{
+		"symbol" : "ALK",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Airlines",
+		"model" : "multiples",
+		"percent_change" : 12.140476617093693,
+		"current_price" : 55.81,
+		"target_price" : 62.58559999999999
+	},
+	{
+		"symbol" : "AAL",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Airlines",
+		"model" : "multiples",
+		"percent_change" : 88.4512428298279,
+		"current_price" : 31.38,
+		"target_price" : 59.135999999999996
+	},
+	{
+		"symbol" : "DAL",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Airlines",
+		"model" : "multiples",
+		"percent_change" : 26.259361450532104,
+		"current_price" : 50.74,
+		"target_price" : 64.064
+	},
+	{
+		"symbol" : "LUV",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Airlines",
+		"model" : "multiples",
+		"percent_change" : -0.4366483946750146,
+		"current_price" : 51.08,
+		"target_price" : 50.85696
+	},
+	{
+		"symbol" : "UAL",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Airlines",
+		"model" : "multiples",
+		"percent_change" : 37.590883190883176,
+		"current_price" : 80.73,
+		"target_price" : 111.07712
+	},
+	{
+		"symbol" : "ALB",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Specialty Chemicals",
+		"model" : "multiples",
+		"percent_change" : 31.794263632261565,
+		"current_price" : 86.431,
+		"target_price" : 113.91109999999999
+	},
+	{
+		"symbol" : "CE",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Specialty Chemicals",
+		"model" : "multiples",
+		"percent_change" : 87.80405948269787,
+		"current_price" : 101.35,
+		"target_price" : 190.33941428571427
+	},
+	{
+		"symbol" : "ECL",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Specialty Chemicals",
+		"model" : "multiples",
+		"percent_change" : -38.30423718445415,
+		"current_price" : 175.15,
+		"target_price" : 108.06012857142856
+	},
+	{
+		"symbol" : "IFF",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Specialty Chemicals",
+		"model" : "multiples",
+		"percent_change" : -6.624715554996527,
+		"current_price" : 124.93,
+		"target_price" : 116.65374285714284
+	},
+	{
+		"symbol" : "LYB",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Specialty Chemicals",
+		"model" : "multiples",
+		"percent_change" : 114.96135147080486,
+		"current_price" : 87.27,
+		"target_price" : 187.5967714285714
+	},
+	{
+		"symbol" : "PPG",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Specialty Chemicals",
+		"model" : "multiples",
+		"percent_change" : 2.6688598467778166,
+		"current_price" : 110.95,
+		"target_price" : 113.91109999999999
+	},
+	{
+		"symbol" : "SHW",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Specialty Chemicals",
+		"model" : "multiples",
+		"percent_change" : -10.009183791750171,
+		"current_price" : 431.35,
+		"target_price" : 388.17538571428565
+	},
+	{
+		"symbol" : "ARE",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Office REITs",
+		"model" : "multiples",
+		"percent_change" : -8.557552417629445,
+		"current_price" : 140.22,
+		"target_price" : 128.2206
+	},
+	{
+		"symbol" : "BXP",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Office REITs",
+		"model" : "multiples",
+		"percent_change" : -3.652362856497851,
+		"current_price" : 132.89,
+		"target_price" : 128.036375
+	},
+	{
+		"symbol" : "SLG",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Office REITs",
+		"model" : "multiples",
+		"percent_change" : 41.55395863449349,
+		"current_price" : 89.93,
+		"target_price" : 127.299475
+	},
+	{
+		"symbol" : "VNO",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Office REITs",
+		"model" : "multiples",
+		"percent_change" : 16.622530679437315,
+		"current_price" : 66.82,
+		"target_price" : 77.927175
+	},
+	{
+		"symbol" : "ALXN",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Biotechnology",
+		"model" : "multiples",
+		"percent_change" : 105.50748071305523,
+		"current_price" : 133.51,
+		"target_price" : 274.3730375
+	},
+	{
+		"symbol" : "AMGN",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Biotechnology",
+		"model" : "multiples",
+		"percent_change" : 135.4347720976426,
+		"current_price" : 191.31,
+		"target_price" : 450.41026250000004
+	},
+	{
+		"symbol" : "BIIB",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Biotechnology",
+		"model" : "multiples",
+		"percent_change" : 183.95309309217092,
+		"current_price" : 325.645,
+		"target_price" : 924.67905
+	},
+	{
+		"symbol" : "CELG",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Biotechnology",
+		"model" : "multiples",
+		"percent_change" : 266.7858989657916,
+		"current_price" : 87.99,
+		"target_price" : 322.7349125
+	},
+	{
+		"symbol" : "GILD",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Biotechnology",
+		"model" : "multiples",
+		"percent_change" : 208.9249269455553,
+		"current_price" : 65.02,
+		"target_price" : 200.86298750000003
+	},
+	{
+		"symbol" : "INCY",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Biotechnology",
+		"model" : "multiples",
+		"percent_change" : -52.17660885307171,
+		"current_price" : 85.62,
+		"target_price" : 40.9463875
+	},
+	{
+		"symbol" : "REGN",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Biotechnology",
+		"model" : "multiples",
+		"percent_change" : 57.56763984298332,
+		"current_price" : 407.6,
+		"target_price" : 642.2457
+	},
+	{
+		"symbol" : "VRTX",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Biotechnology",
+		"model" : "multiples",
+		"percent_change" : -47.72061019842116,
+		"current_price" : 187.48,
+		"target_price" : 98.0134
+	},
+	{
+		"symbol" : "ALGN",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Supplies",
+		"model" : "multiples",
+		"percent_change" : -32.13452620239361,
+		"current_price" : 253.73,
+		"target_price" : 172.1950666666667
+	},
+	{
+		"symbol" : "COO",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Supplies",
+		"model" : "multiples",
+		"percent_change" : 38.8563226231894,
+		"current_price" : 293.18,
+		"target_price" : 407.0989666666667
+	},
+	{
+		"symbol" : "XRAY",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Supplies",
+		"model" : "multiples",
+		"percent_change" : 58.15249444556658,
+		"current_price" : 49.51,
+		"target_price" : 78.30130000000001
+	},
+	{
+		"symbol" : "ALLE",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Building Products",
+		"model" : "multiples",
+		"percent_change" : -3.264679415073112,
+		"current_price" : 88.9,
+		"target_price" : 85.99770000000001
+	},
+	{
+		"symbol" : "AOS",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Building Products",
+		"model" : "multiples",
+		"percent_change" : -7.619193857965451,
+		"current_price" : 52.1,
+		"target_price" : 48.1304
+	},
+	{
+		"symbol" : "FAST",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Building Products",
+		"model" : "multiples",
+		"percent_change" : -20.434135528815705,
+		"current_price" : 63.16,
+		"target_price" : 50.2538
+	},
+	{
+		"symbol" : "FBHS",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Building Products",
+		"model" : "multiples",
+		"percent_change" : 38.31363049095608,
+		"current_price" : 46.44,
+		"target_price" : 64.23285
+	},
+	{
+		"symbol" : "JCI",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Building Products",
+		"model" : "multiples",
+		"percent_change" : -12.05944535969247,
+		"current_price" : 36.42,
+		"target_price" : 32.027950000000004
+	},
+	{
+		"symbol" : "MAS",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Building Products",
+		"model" : "multiples",
+		"percent_change" : 21.582503192848026,
+		"current_price" : 39.15,
+		"target_price" : 47.59955
+	},
+	{
+		"symbol" : "ADS",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Data Processing & Outsourced Services",
+		"model" : "multiples",
+		"percent_change" : 266.50562347188264,
+		"current_price" : 171.78,
+		"target_price" : 629.58336
+	},
+	{
+		"symbol" : "BR",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Data Processing & Outsourced Services",
+		"model" : "multiples",
+		"percent_change" : 36.48419626439566,
+		"current_price" : 103.33,
+		"target_price" : 141.02912000000003
+	},
+	{
+		"symbol" : "GPN",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Data Processing & Outsourced Services",
+		"model" : "multiples",
+		"percent_change" : 30.54777678304985,
+		"current_price" : 134.04,
+		"target_price" : 174.98624
+	},
+	{
+		"symbol" : "JKHY",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Data Processing & Outsourced Services",
+		"model" : "multiples",
+		"percent_change" : -20.93430826033446,
+		"current_price" : 138.13,
+		"target_price" : 109.21344
+	},
+	{
+		"symbol" : "PYPL",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Data Processing & Outsourced Services",
+		"model" : "multiples",
+		"percent_change" : -34.709404607559584,
+		"current_price" : 100.27,
+		"target_price" : 65.46688
+	},
+	{
+		"symbol" : "LNT",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Electric Utilities",
+		"model" : "multiples",
+		"percent_change" : -10.067091295116784,
+		"current_price" : 47.1,
+		"target_price" : 42.358399999999996
+	},
+	{
+		"symbol" : "AEP",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Electric Utilities",
+		"model" : "multiples",
+		"percent_change" : -6.446693818878801,
+		"current_price" : 83.48,
+		"target_price" : 78.09829999999998
+	},
+	{
+		"symbol" : "ED",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Electric Utilities",
+		"model" : "multiples",
+		"percent_change" : -2.65926800472256,
+		"current_price" : 84.7,
+		"target_price" : 82.4476
+	},
+	{
+		"symbol" : "D",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Electric Utilities",
+		"model" : "multiples",
+		"percent_change" : 3.6705390941130185,
+		"current_price" : 76.61,
+		"target_price" : 79.42199999999998
+	},
+	{
+		"symbol" : "DUK",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Electric Utilities",
+		"model" : "multiples",
+		"percent_change" : 4.355651787697066,
+		"current_price" : 90.06,
+		"target_price" : 93.98269999999998
+	},
+	{
+		"symbol" : "EIX",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Electric Utilities",
+		"model" : "multiples",
+		"percent_change" : 34.85878463476068,
+		"current_price" : 63.52,
+		"target_price" : 85.66229999999999
+	},
+	{
+		"symbol" : "ETR",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Electric Utilities",
+		"model" : "multiples",
+		"percent_change" : 10.269975658799856,
+		"current_price" : 94.49,
+		"target_price" : 104.19409999999998
+	},
+	{
+		"symbol" : "EVRG",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Electric Utilities",
+		"model" : "multiples",
+		"percent_change" : -4.236328468436809,
+		"current_price" : 56.87,
+		"target_price" : 54.460799999999985
+	},
+	{
+		"symbol" : "FE",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Electric Utilities",
+		"model" : "multiples",
+		"percent_change" : 17.38506304558678,
+		"current_price" : 41.24,
+		"target_price" : 48.40959999999999
+	},
+	{
+		"symbol" : "PPL",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Electric Utilities",
+		"model" : "multiples",
+		"percent_change" : 41.01589242053788,
+		"current_price" : 32.72,
+		"target_price" : 46.14039999999999
+	},
+	{
+		"symbol" : "PEG",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Electric Utilities",
+		"model" : "multiples",
+		"percent_change" : 2.7820835430296817,
+		"current_price" : 59.61,
+		"target_price" : 61.26839999999999
+	},
+	{
+		"symbol" : "SO",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Electric Utilities",
+		"model" : "multiples",
+		"percent_change" : 10.655272305909588,
+		"current_price" : 51.78,
+		"target_price" : 57.297299999999986
+	},
+	{
+		"symbol" : "WEC",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Electric Utilities",
+		"model" : "multiples",
+		"percent_change" : -15.087128460262797,
+		"current_price" : 78.39,
+		"target_price" : 66.5632
+	},
+	{
+		"symbol" : "ALL",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Property & Casualty Insurance",
+		"model" : "multiples",
+		"percent_change" : 85.32375139068463,
+		"current_price" : 95.02,
+		"target_price" : 176.09462857142853
+	},
+	{
+		"symbol" : "AIG",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Property & Casualty Insurance",
+		"model" : "multiples",
+		"percent_change" : 88.5572331913795,
+		"current_price" : 44.28,
+		"target_price" : 83.49314285714284
+	},
+	{
+		"symbol" : "CB",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Property & Casualty Insurance",
+		"model" : "multiples",
+		"percent_change" : 49.03767443795102,
+		"current_price" : 137.38,
+		"target_price" : 204.7479571428571
+	},
+	{
+		"symbol" : "CINF",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Property & Casualty Insurance",
+		"model" : "multiples",
+		"percent_change" : -23.143056664006405,
+		"current_price" : 85.92,
+		"target_price" : 66.0354857142857
+	},
+	{
+		"symbol" : "HIG",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Property & Casualty Insurance",
+		"model" : "multiples",
+		"percent_change" : 91.52626092999013,
+		"current_price" : 49.34,
+		"target_price" : 94.49905714285714
+	},
+	{
+		"symbol" : "PGR",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Property & Casualty Insurance",
+		"model" : "multiples",
+		"percent_change" : 31.682003050330433,
+		"current_price" : 73.06,
+		"target_price" : 96.20687142857142
+	},
+	{
+		"symbol" : "TRV",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Property & Casualty Insurance",
+		"model" : "multiples",
+		"percent_change" : 57.21690063308558,
+		"current_price" : 134.94,
+		"target_price" : 212.14848571428567
+	},
+	{
+		"symbol" : "GOOGL",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Interactive Media & Services",
+		"model" : "multiples",
+		"percent_change" : 40.75075007361914,
+		"current_price" : 1188.55,
+		"target_price" : 1672.8930400000002
+	},
+	{
+		"symbol" : "GOOG",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Interactive Media & Services",
+		"model" : "multiples",
+		"percent_change" : 41.26062182291052,
+		"current_price" : 1184.26,
+		"target_price" : 1672.8930400000002
+	},
+	{
+		"symbol" : "FB",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Interactive Media & Services",
+		"model" : "multiples",
+		"percent_change" : 66.12164267464323,
+		"current_price" : 160.47,
+		"target_price" : 266.5754
+	},
+	{
+		"symbol" : "TWTR",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Interactive Media & Services",
+		"model" : "multiples",
+		"percent_change" : -47.74234234234233,
+		"current_price" : 31.08,
+		"target_price" : 16.241680000000002
+	},
+	{
+		"symbol" : "TRIP",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Interactive Media & Services",
+		"model" : "multiples",
+		"percent_change" : -12.624395946999217,
+		"current_price" : 51.32,
+		"target_price" : 44.84116
+	},
+	{
+		"symbol" : "MO",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Tobacco",
+		"model" : "multiples",
+		"percent_change" : 18.107766143106453,
+		"current_price" : 57.3,
+		"target_price" : 67.67575
+	},
+	{
+		"symbol" : "PM",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Tobacco",
+		"model" : "multiples",
+		"percent_change" : -5.034718395238618,
+		"current_price" : 90.73,
+		"target_price" : 86.162
+	},
+	{
+		"symbol" : "AMZN",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Internet & Direct Marketing Retail",
+		"model" : "multiples",
+		"percent_change" : -43.90740177367047,
+		"current_price" : 1742.15,
+		"target_price" : 977.2171999999999
+	},
+	{
+		"symbol" : "BKNG",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Internet & Direct Marketing Retail",
+		"model" : "multiples",
+		"percent_change" : 111.85575318989027,
+		"current_price" : 1756.33,
+		"target_price" : 3720.88615
+	},
+	{
+		"symbol" : "EBAY",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Internet & Direct Marketing Retail",
+		"model" : "multiples",
+		"percent_change" : 116.7931486076647,
+		"current_price" : 36.27,
+		"target_price" : 78.63087499999999
+	},
+	{
+		"symbol" : "EXPE",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Internet & Direct Marketing Retail",
+		"model" : "multiples",
+		"percent_change" : 79.61731324803961,
+		"current_price" : 121.15,
+		"target_price" : 217.60637499999999
+	},
+	{
+		"symbol" : "AEE",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Multi-Utilities",
+		"model" : "multiples",
+		"percent_change" : -3.1609433181630333,
+		"current_price" : 72.51,
+		"target_price" : 70.21799999999999
+	},
+	{
+		"symbol" : "CNP",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Multi-Utilities",
+		"model" : "multiples",
+		"percent_change" : 14.11451334799928,
+		"current_price" : 30.58,
+		"target_price" : 34.89621818181818
+	},
+	{
+		"symbol" : "CMS",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Multi-Utilities",
+		"model" : "multiples",
+		"percent_change" : -3.840465391441531,
+		"current_price" : 55.32,
+		"target_price" : 53.195454545454545
+	},
+	{
+		"symbol" : "DTE",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Multi-Utilities",
+		"model" : "multiples",
+		"percent_change" : 6.615180506213406,
+		"current_price" : 123.34,
+		"target_price" : 131.49916363636362
+	},
+	{
+		"symbol" : "ES",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Multi-Utilities",
+		"model" : "multiples",
+		"percent_change" : 3.0167376827494747,
+		"current_price" : 71.26,
+		"target_price" : 73.40972727272728
+	},
+	{
+		"symbol" : "EXC",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Multi-Utilities",
+		"model" : "multiples",
+		"percent_change" : 34.08638834489448,
+		"current_price" : 49.67,
+		"target_price" : 66.60070909090909
+	},
+	{
+		"symbol" : "NEE",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Multi-Utilities",
+		"model" : "multiples",
+		"percent_change" : -6.356825445210208,
+		"current_price" : 190.87,
+		"target_price" : 178.73672727272728
+	},
+	{
+		"symbol" : "NI",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Multi-Utilities",
+		"model" : "multiples",
+		"percent_change" : -1.38454059309674,
+		"current_price" : 28.05,
+		"target_price" : 27.661636363636365
+	},
+	{
+		"symbol" : "PNW",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Multi-Utilities",
+		"model" : "multiples",
+		"percent_change" : 8.534806503320356,
+		"current_price" : 95.28,
+		"target_price" : 103.41196363636364
+	},
+	{
+		"symbol" : "SRE",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Multi-Utilities",
+		"model" : "multiples",
+		"percent_change" : 2.422054479816199,
+		"current_price" : 124.65,
+		"target_price" : 127.6690909090909
+	},
+	{
+		"symbol" : "XEL",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Multi-Utilities",
+		"model" : "multiples",
+		"percent_change" : -0.6613749757014131,
+		"current_price" : 56.12,
+		"target_price" : 55.748836363636364
+	},
+	{
+		"symbol" : "AXP",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Consumer Finance",
+		"model" : "multiples",
+		"percent_change" : -25.191017173051517,
+		"current_price" : 113.55,
+		"target_price" : 84.9456
+	},
+	{
+		"symbol" : "COF",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Consumer Finance",
+		"model" : "multiples",
+		"percent_change" : 36.225088339222594,
+		"current_price" : 84.9,
+		"target_price" : 115.65509999999999
+	},
+	{
+		"symbol" : "DFS",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Consumer Finance",
+		"model" : "multiples",
+		"percent_change" : 22.246130871572106,
+		"current_price" : 73.66,
+		"target_price" : 90.04650000000001
+	},
+	{
+		"symbol" : "SYF",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Consumer Finance",
+		"model" : "multiples",
+		"percent_change" : 36.85830324909747,
+		"current_price" : 33.24,
+		"target_price" : 45.4917
+	},
+	{
+		"symbol" : "AMT",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Specialized REITs",
+		"model" : "multiples",
+		"percent_change" : -15.000088234775072,
+		"current_price" : 188.89,
+		"target_price" : 160.55633333333336
+	},
+	{
+		"symbol" : "CCI",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Specialized REITs",
+		"model" : "multiples",
+		"percent_change" : -4.215911724334638,
+		"current_price" : 124.66,
+		"target_price" : 119.40444444444444
+	},
+	{
+		"symbol" : "DLR",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Specialized REITs",
+		"model" : "multiples",
+		"percent_change" : 23.179490136162293,
+		"current_price" : 115.63,
+		"target_price" : 142.43244444444446
+	},
+	{
+		"symbol" : "EQIX",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Specialized REITs",
+		"model" : "multiples",
+		"percent_change" : 0.29750556681428014,
+		"current_price" : 444.1,
+		"target_price" : 445.42122222222224
+	},
+	{
+		"symbol" : "EXR",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Specialized REITs",
+		"model" : "multiples",
+		"percent_change" : 3.4391214209670924,
+		"current_price" : 99.15,
+		"target_price" : 102.55988888888888
+	},
+	{
+		"symbol" : "IRM",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Specialized REITs",
+		"model" : "multiples",
+		"percent_change" : 37.167655881039,
+		"current_price" : 34.82,
+		"target_price" : 47.76177777777778
+	},
+	{
+		"symbol" : "PSA",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Specialized REITs",
+		"model" : "multiples",
+		"percent_change" : 4.770287370397587,
+		"current_price" : 217.76,
+		"target_price" : 228.14777777777778
+	},
+	{
+		"symbol" : "SBAC",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Specialized REITs",
+		"model" : "multiples",
+		"percent_change" : -12.956891951462838,
+		"current_price" : 191.56,
+		"target_price" : 166.7397777777778
+	},
+	{
+		"symbol" : "WY",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Specialized REITs",
+		"model" : "multiples",
+		"percent_change" : -25.87196180555555,
+		"current_price" : 25.6,
+		"target_price" : 18.97677777777778
+	},
+	{
+		"symbol" : "AWK",
+		"gics_sector" : "Utilities",
+		"gics_sub_industry" : "Water Utilities",
+		"model" : "multiples",
+		"percent_change" : 8.493103776277,
+		"current_price" : 105.13,
+		"target_price" : 114.0588
+	},
+	{
+		"symbol" : "ABC",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Distributors",
+		"model" : "multiples",
+		"percent_change" : 23.975307874113703,
+		"current_price" : 80.39,
+		"target_price" : 99.66375000000001
+	},
+	{
+		"symbol" : "BMY",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Distributors",
+		"model" : "multiples",
+		"percent_change" : 22.893602085840364,
+		"current_price" : 49.86,
+		"target_price" : 61.274750000000004
+	},
+	{
+		"symbol" : "CAH",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Distributors",
+		"model" : "multiples",
+		"percent_change" : 49.51150690414248,
+		"current_price" : 49.97,
+		"target_price" : 74.7109
+	},
+	{
+		"symbol" : "HSIC",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Distributors",
+		"model" : "multiples",
+		"percent_change" : -15.035797925727664,
+		"current_price" : 59.78,
+		"target_price" : 50.7916
+	},
+	{
+		"symbol" : "MCK",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Distributors",
+		"model" : "multiples",
+		"percent_change" : 64.59623465436269,
+		"current_price" : 121.37,
+		"target_price" : 199.77045
+	},
+	{
+		"symbol" : "WAT",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Distributors",
+		"model" : "multiples",
+		"percent_change" : -43.71396827985485,
+		"current_price" : 245.27,
+		"target_price" : 138.05275
+	},
+	{
+		"symbol" : "AME",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Electrical Components & Equipment",
+		"model" : "multiples",
+		"percent_change" : -0.09050880626222854,
+		"current_price" : 81.76,
+		"target_price" : 81.686
+	},
+	{
+		"symbol" : "ETN",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Electrical Components & Equipment",
+		"model" : "multiples",
+		"percent_change" : 47.60453587654232,
+		"current_price" : 82.101,
+		"target_price" : 121.18480000000001
+	},
+	{
+		"symbol" : "EMR",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Electrical Components & Equipment",
+		"model" : "multiples",
+		"percent_change" : 11.229666671512275,
+		"current_price" : 68.791,
+		"target_price" : 76.516
+	},
+	{
+		"symbol" : "ROK",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Electrical Components & Equipment",
+		"model" : "multiples",
+		"percent_change" : 3.4057193428840034,
+		"current_price" : 180.79,
+		"target_price" : 186.94719999999998
+	},
+	{
+		"symbol" : "APH",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Electronic Components",
+		"model" : "multiples",
+		"percent_change" : -7.208582206853201,
+		"current_price" : 95.43,
+		"target_price" : 88.55085
+	},
+	{
+		"symbol" : "GLW",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Electronic Components",
+		"model" : "multiples",
+		"percent_change" : 29.868995633187765,
+		"current_price" : 34.35,
+		"target_price" : 44.61
+	},
+	{
+		"symbol" : "APC",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Exploration & Production",
+		"model" : "multiples",
+		"percent_change" : -36.92102973540099,
+		"current_price" : 45.09,
+		"target_price" : 28.442307692307693
+	},
+	{
+		"symbol" : "APA",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Exploration & Production",
+		"model" : "multiples",
+		"percent_change" : -66.38323116472216,
+		"current_price" : 35.01,
+		"target_price" : 11.76923076923077
+	},
+	{
+		"symbol" : "COG",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Exploration & Production",
+		"model" : "multiples",
+		"percent_change" : 36.060471320586956,
+		"current_price" : 25.95,
+		"target_price" : 35.307692307692314
+	},
+	{
+		"symbol" : "XEC",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Exploration & Production",
+		"model" : "multiples",
+		"percent_change" : 54.70536057257621,
+		"current_price" : 71.891,
+		"target_price" : 111.21923076923078
+	},
+	{
+		"symbol" : "CXO",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Exploration & Production",
+		"model" : "multiples",
+		"percent_change" : -18.77990516431251,
+		"current_price" : 107.23,
+		"target_price" : 87.0923076923077
+	},
+	{
+		"symbol" : "COP",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Exploration & Production",
+		"model" : "multiples",
+		"percent_change" : 0.3834207502303927,
+		"current_price" : 67.61,
+		"target_price" : 67.86923076923077
+	},
+	{
+		"symbol" : "DVN",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Exploration & Production",
+		"model" : "multiples",
+		"percent_change" : -17.063762196505557,
+		"current_price" : 30.51,
+		"target_price" : 25.303846153846155
+	},
+	{
+		"symbol" : "FANG",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Exploration & Production",
+		"model" : "multiples",
+		"percent_change" : 42.79039307736457,
+		"current_price" : 104.54,
+		"target_price" : 149.27307692307693
+	},
+	{
+		"symbol" : "EOG",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Exploration & Production",
+		"model" : "multiples",
+		"percent_change" : -4.401593641500941,
+		"current_price" : 91.923,
+		"target_price" : 87.87692307692309
+	},
+	{
+		"symbol" : "MRO",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Exploration & Production",
+		"model" : "multiples",
+		"percent_change" : -57.13716990312735,
+		"current_price" : 17.39,
+		"target_price" : 7.453846153846154
+	},
+	{
+		"symbol" : "NBL",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Exploration & Production",
+		"model" : "multiples",
+		"percent_change" : -84.34065934065936,
+		"current_price" : 23.8,
+		"target_price" : 3.726923076923077
+	},
+	{
+		"symbol" : "OXY",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Exploration & Production",
+		"model" : "multiples",
+		"percent_change" : -6.622678481030104,
+		"current_price" : 67.01100000000001,
+		"target_price" : 62.573076923076925
+	},
+	{
+		"symbol" : "PXD",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Exploration & Production",
+		"model" : "multiples",
+		"percent_change" : 3.752900296413064,
+		"current_price" : 138.58,
+		"target_price" : 143.78076923076924
+	},
+	{
+		"symbol" : "ANTM",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Managed Health Care",
+		"model" : "multiples",
+		"percent_change" : 13.198909904941095,
+		"current_price" : 308.23,
+		"target_price" : 348.91299999999995
+	},
+	{
+		"symbol" : "CNC",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Managed Health Care",
+		"model" : "multiples",
+		"percent_change" : 29.835916442048514,
+		"current_price" : 59.36,
+		"target_price" : 77.0706
+	},
+	{
+		"symbol" : "CI",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Managed Health Care",
+		"model" : "multiples",
+		"percent_change" : 78.91819759439886,
+		"current_price" : 167.11,
+		"target_price" : 298.99019999999996
+	},
+	{
+		"symbol" : "HUM",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Managed Health Care",
+		"model" : "multiples",
+		"percent_change" : 12.93468476450364,
+		"current_price" : 282.17,
+		"target_price" : 318.66779999999994
+	},
+	{
+		"symbol" : "UNH",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Managed Health Care",
+		"model" : "multiples",
+		"percent_change" : 4.461333333333329,
+		"current_price" : 255,
+		"target_price" : 266.3764
+	},
+	{
+		"symbol" : "WCG",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Managed Health Care",
+		"model" : "multiples",
+		"percent_change" : 1.0776013389394536,
+		"current_price" : 244.97,
+		"target_price" : 247.60979999999998
+	},
+	{
+		"symbol" : "AON",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Insurance Brokers",
+		"model" : "multiples",
+		"percent_change" : 12.893026004728132,
+		"current_price" : 169.2,
+		"target_price" : 191.015
+	},
+	{
+		"symbol" : "AJG",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Insurance Brokers",
+		"model" : "multiples",
+		"percent_change" : -0.27316735822960775,
+		"current_price" : 79.53,
+		"target_price" : 79.31275
+	},
+	{
+		"symbol" : "MMC",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Insurance Brokers",
+		"model" : "multiples",
+		"percent_change" : 4.7280329103032885,
+		"current_price" : 92.98,
+		"target_price" : 97.376125
+	},
+	{
+		"symbol" : "WLTW",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Insurance Brokers",
+		"model" : "multiples",
+		"percent_change" : 27.49949735753675,
+		"current_price" : 174.08,
+		"target_price" : 221.951125
+	},
+	{
+		"symbol" : "AIV",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Residential REITs",
+		"model" : "multiples",
+		"percent_change" : 7.0241012251456025,
+		"current_price" : 49.79,
+		"target_price" : 53.287299999999995
+	},
+	{
+		"symbol" : "AVB",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Residential REITs",
+		"model" : "multiples",
+		"percent_change" : 0.33651115618662825,
+		"current_price" : 197.2,
+		"target_price" : 197.86360000000002
+	},
+	{
+		"symbol" : "EQR",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Residential REITs",
+		"model" : "multiples",
+		"percent_change" : -2.7173560421735616,
+		"current_price" : 73.98,
+		"target_price" : 71.9697
+	},
+	{
+		"symbol" : "ESS",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Residential REITs",
+		"model" : "multiples",
+		"percent_change" : -3.06511790393012,
+		"current_price" : 286.25,
+		"target_price" : 277.47610000000003
+	},
+	{
+		"symbol" : "MAA",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Residential REITs",
+		"model" : "multiples",
+		"percent_change" : 23.089783281733748,
+		"current_price" : 106.59,
+		"target_price" : 131.2014
+	},
+	{
+		"symbol" : "UDR",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Residential REITs",
+		"model" : "multiples",
+		"percent_change" : -1.9641336023313096,
+		"current_price" : 44.61,
+		"target_price" : 43.7338
+	},
+	{
+		"symbol" : "AAPL",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Technology Hardware, Storage & Peripherals",
+		"model" : "multiples",
+		"percent_change" : -42.117469772719204,
+		"current_price" : 188.02,
+		"target_price" : 108.83073333333336
+	},
+	{
+		"symbol" : "HPE",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Technology Hardware, Storage & Peripherals",
+		"model" : "multiples",
+		"percent_change" : -1.589436026936027,
+		"current_price" : 15.84,
+		"target_price" : 15.588233333333333
+	},
+	{
+		"symbol" : "HPQ",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Technology Hardware, Storage & Peripherals",
+		"model" : "multiples",
+		"percent_change" : 2.5841269841270047,
+		"current_price" : 19.95,
+		"target_price" : 20.465533333333337
+	},
+	{
+		"symbol" : "STX",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Technology Hardware, Storage & Peripherals",
+		"model" : "multiples",
+		"percent_change" : -7.464424141749697,
+		"current_price" : 48.16,
+		"target_price" : 44.56513333333334
+	},
+	{
+		"symbol" : "WDC",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Technology Hardware, Storage & Peripherals",
+		"model" : "multiples",
+		"percent_change" : -6.921377786981423,
+		"current_price" : 48.29,
+		"target_price" : 44.94766666666667
+	},
+	{
+		"symbol" : "XRX",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Technology Hardware, Storage & Peripherals",
+		"model" : "multiples",
+		"percent_change" : 12.334062272206618,
+		"current_price" : 32.01,
+		"target_price" : 35.958133333333336
+	},
+	{
+		"symbol" : "AMAT",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Semiconductor Equipment",
+		"model" : "multiples",
+		"percent_change" : -16.553000000000004,
+		"current_price" : 40,
+		"target_price" : 33.3788
+	},
+	{
+		"symbol" : "KLAC",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Semiconductor Equipment",
+		"model" : "multiples",
+		"percent_change" : -20.06829051273496,
+		"current_price" : 119.88,
+		"target_price" : 95.82213333333333
+	},
+	{
+		"symbol" : "LRCX",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Semiconductor Equipment",
+		"model" : "multiples",
+		"percent_change" : -12.487347391786898,
+		"current_price" : 180.2,
+		"target_price" : 157.6978
+	},
+	{
+		"symbol" : "APTV",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Auto Parts & Equipment",
+		"model" : "multiples",
+		"percent_change" : -20.362716049382705,
+		"current_price" : 81,
+		"target_price" : 64.5062
+	},
+	{
+		"symbol" : "BWA",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Auto Parts & Equipment",
+		"model" : "multiples",
+		"percent_change" : 31.31607700312175,
+		"current_price" : 38.44,
+		"target_price" : 50.4779
+	},
+	{
+		"symbol" : "ADM",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Agricultural Products",
+		"model" : "multiples",
+		"percent_change" : 1.166666666666674,
+		"current_price" : 42.48,
+		"target_price" : 42.9756
+	},
+	{
+		"symbol" : "ARNC",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Aerospace & Defense",
+		"model" : "multiples",
+		"percent_change" : 51.633905356214235,
+		"current_price" : 19.23,
+		"target_price" : 29.1592
+	},
+	{
+		"symbol" : "BA",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Aerospace & Defense",
+		"model" : "multiples",
+		"percent_change" : -3.8596217900504888,
+		"current_price" : 372.28,
+		"target_price" : 357.9114
+	},
+	{
+		"symbol" : "GD",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Aerospace & Defense",
+		"model" : "multiples",
+		"percent_change" : 21.384982815867673,
+		"current_price" : 171.67,
+		"target_price" : 208.38160000000002
+	},
+	{
+		"symbol" : "HRS",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Aerospace & Defense",
+		"model" : "multiples",
+		"percent_change" : -12.78763012859768,
+		"current_price" : 163.3,
+		"target_price" : 142.4178
+	},
+	{
+		"symbol" : "HII",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Aerospace & Defense",
+		"model" : "multiples",
+		"percent_change" : 29.014512318596047,
+		"current_price" : 207.41,
+		"target_price" : 267.58900000000006
+	},
+	{
+		"symbol" : "LLL",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Aerospace & Defense",
+		"model" : "multiples",
+		"percent_change" : -2.7953410981697018,
+		"current_price" : 210.35,
+		"target_price" : 204.47000000000003
+	},
+	{
+		"symbol" : "LMT",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Aerospace & Defense",
+		"model" : "multiples",
+		"percent_change" : 16.008466603951106,
+		"current_price" : 297.64,
+		"target_price" : 345.28760000000005
+	},
+	{
+		"symbol" : "NOC",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Aerospace & Defense",
+		"model" : "multiples",
+		"percent_change" : 22.504710975299236,
+		"current_price" : 274.89,
+		"target_price" : 336.75320000000005
+	},
+	{
+		"symbol" : "RTN",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Aerospace & Defense",
+		"model" : "multiples",
+		"percent_change" : 14.337346723630922,
+		"current_price" : 180.23,
+		"target_price" : 206.0702
+	},
+	{
+		"symbol" : "TXT",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Aerospace & Defense",
+		"model" : "multiples",
+		"percent_change" : 24.219683990100894,
+		"current_price" : 52.53,
+		"target_price" : 65.2526
+	},
+	{
+		"symbol" : "TDG",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Aerospace & Defense",
+		"model" : "multiples",
+		"percent_change" : -36.2949651501993,
+		"current_price" : 449.07,
+		"target_price" : 286.0802
+	},
+	{
+		"symbol" : "UTX",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Aerospace & Defense",
+		"model" : "multiples",
+		"percent_change" : 11.107486209613878,
+		"current_price" : 126.9,
+		"target_price" : 140.99540000000002
+	},
+	{
+		"symbol" : "ANET",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Communications Equipment",
+		"model" : "multiples",
+		"percent_change" : -31.458181818181824,
+		"current_price" : 299.2,
+		"target_price" : 205.07711999999998
+	},
+	{
+		"symbol" : "CSCO",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Communications Equipment",
+		"model" : "multiples",
+		"percent_change" : 27.439955148570355,
+		"current_price" : 53.51,
+		"target_price" : 68.19312
+	},
+	{
+		"symbol" : "FFIV",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Communications Equipment",
+		"model" : "multiples",
+		"percent_change" : 38.660792951541815,
+		"current_price" : 154.36,
+		"target_price" : 214.03679999999997
+	},
+	{
+		"symbol" : "JNPR",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Communications Equipment",
+		"model" : "multiples",
+		"percent_change" : 29.349620637329277,
+		"current_price" : 26.36,
+		"target_price" : 34.09656
+	},
+	{
+		"symbol" : "MSI",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Communications Equipment",
+		"model" : "multiples",
+		"percent_change" : 30.37414946619217,
+		"current_price" : 140.5,
+		"target_price" : 183.17568
+	},
+	{
+		"symbol" : "AIZ",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Multi-line Insurance",
+		"model" : "multiples",
+		"percent_change" : 19.09174189234369,
+		"current_price" : 99.7,
+		"target_price" : 118.73446666666666
+	},
+	{
+		"symbol" : "LNC",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Multi-line Insurance",
+		"model" : "multiples",
+		"percent_change" : 101.31921171883236,
+		"current_price" : 63.26,
+		"target_price" : 127.35453333333335
+	},
+	{
+		"symbol" : "L",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Multi-line Insurance",
+		"model" : "multiples",
+		"percent_change" : -8.096123390484047,
+		"current_price" : 48.41,
+		"target_price" : 44.49066666666667
+	},
+	{
+		"symbol" : "T",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Integrated Telecommunication Services",
+		"model" : "multiples",
+		"percent_change" : 21.63636363636363,
+		"current_price" : 30.8,
+		"target_price" : 37.464
+	},
+	{
+		"symbol" : "CTL",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Integrated Telecommunication Services",
+		"model" : "multiples",
+		"percent_change" : 6.911902789284724,
+		"current_price" : 12.07,
+		"target_price" : 12.904266666666667
+	},
+	{
+		"symbol" : "VZ",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Integrated Telecommunication Services",
+		"model" : "multiples",
+		"percent_change" : -16.48860570575742,
+		"current_price" : 58.07,
+		"target_price" : 48.495066666666666
+	},
+	{
+		"symbol" : "ADP",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Internet Software & Services",
+		"model" : "multiples",
+		"percent_change" : 23.962909690348447,
+		"current_price" : 154.69,
+		"target_price" : 191.758225
+	},
+	{
+		"symbol" : "CTXS",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Internet Software & Services",
+		"model" : "multiples",
+		"percent_change" : 61.03582447157675,
+		"current_price" : 101.56,
+		"target_price" : 163.54798333333335
+	},
+	{
+		"symbol" : "FIS",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Internet Software & Services",
+		"model" : "multiples",
+		"percent_change" : 145.72345541990387,
+		"current_price" : 108.12,
+		"target_price" : 265.67620000000005
+	},
+	{
+		"symbol" : "FISV",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Internet Software & Services",
+		"model" : "multiples",
+		"percent_change" : 44.782203758329295,
+		"current_price" : 85.09100000000002,
+		"target_price" : 123.19662500000001
+	},
+	{
+		"symbol" : "INTU",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Internet Software & Services",
+		"model" : "multiples",
+		"percent_change" : -26.84137823995033,
+		"current_price" : 257.72,
+		"target_price" : 188.54440000000002
+	},
+	{
+		"symbol" : "MA",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Internet Software & Services",
+		"model" : "multiples",
+		"percent_change" : 17.020794449990614,
+		"current_price" : 230.39,
+		"target_price" : 269.60420833333336
+	},
+	{
+		"symbol" : "NTAP",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Internet Software & Services",
+		"model" : "multiples",
+		"percent_change" : 115.60734906567431,
+		"current_price" : 66.911,
+		"target_price" : 144.26503333333335
+	},
+	{
+		"symbol" : "PAYX",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Internet Software & Services",
+		"model" : "multiples",
+		"percent_change" : 28.304494452849244,
+		"current_price" : 79.32,
+		"target_price" : 101.77112500000001
+	},
+	{
+		"symbol" : "CRM",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Internet Software & Services",
+		"model" : "multiples",
+		"percent_change" : -71.11515385407017,
+		"current_price" : 161.95,
+		"target_price" : 46.77900833333334
+	},
+	{
+		"symbol" : "TSS",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Internet Software & Services",
+		"model" : "multiples",
+		"percent_change" : 76.69887312928797,
+		"current_price" : 93.77,
+		"target_price" : 165.69053333333332
+	},
+	{
+		"symbol" : "V",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Internet Software & Services",
+		"model" : "multiples",
+		"percent_change" : 22.594712614007914,
+		"current_price" : 154.96,
+		"target_price" : 189.97276666666667
+	},
+	{
+		"symbol" : "WU",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Internet Software & Services",
+		"model" : "multiples",
+		"percent_change" : 267.3055097176385,
+		"current_price" : 18.18,
+		"target_price" : 66.77614166666667
+	},
+	{
+		"symbol" : "AZO",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Specialty Stores",
+		"model" : "multiples",
+		"percent_change" : 47.723695404831936,
+		"current_price" : 975.59,
+		"target_price" : 1441.1776
+	},
+	{
+		"symbol" : "KMX",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Specialty Stores",
+		"model" : "multiples",
+		"percent_change" : 83.03102441174848,
+		"current_price" : 60.49,
+		"target_price" : 110.71546666666666
+	},
+	{
+		"symbol" : "GPC",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Specialty Stores",
+		"model" : "multiples",
+		"percent_change" : 29.841207715963108,
+		"current_price" : 107.31,
+		"target_price" : 139.3326
+	},
+	{
+		"symbol" : "ORLY",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Specialty Stores",
+		"model" : "multiples",
+		"percent_change" : 10.791866240908286,
+		"current_price" : 375.8,
+		"target_price" : 416.35583333333335
+	},
+	{
+		"symbol" : "TSCO",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Specialty Stores",
+		"model" : "multiples",
+		"percent_change" : 22.975178094390028,
+		"current_price" : 89.84,
+		"target_price" : 110.4809
+	},
+	{
+		"symbol" : "ULTA",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Specialty Stores",
+		"model" : "multiples",
+		"percent_change" : -12.608117585179135,
+		"current_price" : 342.22,
+		"target_price" : 299.0725
+	},
+	{
+		"symbol" : "AVY",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Paper Packaging",
+		"model" : "multiples",
+		"percent_change" : -21.230645161290308,
+		"current_price" : 111.6,
+		"target_price" : 87.90660000000001
+	},
+	{
+		"symbol" : "IP",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Paper Packaging",
+		"model" : "multiples",
+		"percent_change" : 50.49967553536667,
+		"current_price" : 46.23,
+		"target_price" : 69.57600000000001
+	},
+	{
+		"symbol" : "PKG",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Paper Packaging",
+		"model" : "multiples",
+		"percent_change" : 15.887496028125977,
+		"current_price" : 97.561,
+		"target_price" : 113.06099999999999
+	},
+	{
+		"symbol" : "SEE",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Paper Packaging",
+		"model" : "multiples",
+		"percent_change" : -20.346684175968466,
+		"current_price" : 45.69,
+		"target_price" : 36.393600000000006
+	},
+	{
+		"symbol" : "WRK",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Paper Packaging",
+		"model" : "multiples",
+		"percent_change" : 42.25862068965519,
+		"current_price" : 38.28,
+		"target_price" : 54.45660000000001
+	},
+	{
+		"symbol" : "BHGE",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Equipment & Services",
+		"model" : "multiples",
+		"percent_change" : -276.0028388928318,
+		"current_price" : 28.18,
+		"target_price" : -49.597600000000014
+	},
+	{
+		"symbol" : "HAL",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Equipment & Services",
+		"model" : "multiples",
+		"percent_change" : -331.264288188431,
+		"current_price" : 28.87,
+		"target_price" : -66.76600000000002
+	},
+	{
+		"symbol" : "NOV",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Equipment & Services",
+		"model" : "multiples",
+		"percent_change" : -130.52594146723092,
+		"current_price" : 28.121,
+		"target_price" : -8.584200000000003
+	},
+	{
+		"symbol" : "SLB",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Equipment & Services",
+		"model" : "multiples",
+		"percent_change" : -274.8779981549816,
+		"current_price" : 43.36,
+		"target_price" : -75.82710000000002
+	},
+	{
+		"symbol" : "FTI",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Equipment & Services",
+		"model" : "multiples",
+		"percent_change" : -378.6013745704468,
+		"current_price" : 23.28,
+		"target_price" : -64.85840000000002
+	},
+	{
+		"symbol" : "BLL",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Metal & Glass Containers",
+		"model" : "multiples",
+		"percent_change" : 18.64046302695231,
+		"current_price" : 57.88,
+		"target_price" : 68.6691
+	},
+	{
+		"symbol" : "BAC",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Diversified Banks",
+		"model" : "multiples",
+		"percent_change" : 9.999999999999973,
+		"current_price" : 29.82,
+		"target_price" : 32.80199999999999
+	},
+	{
+		"symbol" : "C",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Diversified Banks",
+		"model" : "multiples",
+		"percent_change" : 30.513423327771864,
+		"current_price" : 65.93,
+		"target_price" : 86.0475
+	},
+	{
+		"symbol" : "CMA",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Diversified Banks",
+		"model" : "multiples",
+		"percent_change" : 13.96743063932446,
+		"current_price" : 82.9,
+		"target_price" : 94.47899999999998
+	},
+	{
+		"symbol" : "JPM",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Diversified Banks",
+		"model" : "multiples",
+		"percent_change" : 4.843268961656863,
+		"current_price" : 107.19,
+		"target_price" : 112.38149999999999
+	},
+	{
+		"symbol" : "USB",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Diversified Banks",
+		"model" : "multiples",
+		"percent_change" : -4.208770257388008,
+		"current_price" : 52.45,
+		"target_price" : 50.24249999999999
+	},
+	{
+		"symbol" : "WFC",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Diversified Banks",
+		"model" : "multiples",
+		"percent_change" : 10.742108213643647,
+		"current_price" : 51.731,
+		"target_price" : 57.288
+	},
+	{
+		"symbol" : "BBT",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Regional Banks",
+		"model" : "multiples",
+		"percent_change" : 8.142333597464344,
+		"current_price" : 50.48,
+		"target_price" : 54.59025
+	},
+	{
+		"symbol" : "CFG",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Regional Banks",
+		"model" : "multiples",
+		"percent_change" : 35.64010989010989,
+		"current_price" : 36.4,
+		"target_price" : 49.373
+	},
+	{
+		"symbol" : "FITB",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Regional Banks",
+		"model" : "multiples",
+		"percent_change" : 22.117524339360198,
+		"current_price" : 28.76,
+		"target_price" : 35.120999999999995
+	},
+	{
+		"symbol" : "FRC",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Regional Banks",
+		"model" : "multiples",
+		"percent_change" : -35.5421172453045,
+		"current_price" : 105.42,
+		"target_price" : 67.9515
+	},
+	{
+		"symbol" : "HBAN",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Regional Banks",
+		"model" : "multiples",
+		"percent_change" : 22.496408045977017,
+		"current_price" : 13.92,
+		"target_price" : 17.0515
+	},
+	{
+		"symbol" : "KEY",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Regional Banks",
+		"model" : "multiples",
+		"percent_change" : 32.85129796839731,
+		"current_price" : 17.72,
+		"target_price" : 23.54125
+	},
+	{
+		"symbol" : "MTB",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Regional Banks",
+		"model" : "multiples",
+		"percent_change" : 6.472557660390309,
+		"current_price" : 174.73,
+		"target_price" : 186.03949999999998
+	},
+	{
+		"symbol" : "PNC",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Regional Banks",
+		"model" : "multiples",
+		"percent_change" : 9.129322111010008,
+		"current_price" : 131.88,
+		"target_price" : 143.91975
+	},
+	{
+		"symbol" : "RF",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Regional Banks",
+		"model" : "multiples",
+		"percent_change" : 25.89542892924232,
+		"current_price" : 15.97,
+		"target_price" : 20.1055
+	},
+	{
+		"symbol" : "STI",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Regional Banks",
+		"model" : "multiples",
+		"percent_change" : 14.444099860443476,
+		"current_price" : 64.49,
+		"target_price" : 73.80499999999999
+	},
+	{
+		"symbol" : "SIVB",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Regional Banks",
+		"model" : "multiples",
+		"percent_change" : 3.6731330163423572,
+		"current_price" : 250.27,
+		"target_price" : 259.46275
+	},
+	{
+		"symbol" : "ZION",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Regional Banks",
+		"model" : "multiples",
+		"percent_change" : 12.907673860911279,
+		"current_price" : 50.04,
+		"target_price" : 56.499
+	},
+	{
+		"symbol" : "BBY",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Computer & Electronics Retail",
+		"model" : "multiples",
+		"percent_change" : 5.615034168564924,
+		"current_price" : 70.24,
+		"target_price" : 74.184
+	},
+	{
+		"symbol" : "HRB",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Specialized Consumer Services",
+		"model" : "multiples",
+		"percent_change" : -33.90131578947369,
+		"current_price" : 24.32,
+		"target_price" : 16.0752
+	},
+	{
+		"symbol" : "CHRW",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Air Freight & Logistics",
+		"model" : "multiples",
+		"percent_change" : -5.128592201218756,
+		"current_price" : 90.091,
+		"target_price" : 85.4706
+	},
+	{
+		"symbol" : "EXPD",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Air Freight & Logistics",
+		"model" : "multiples",
+		"percent_change" : -20.87405278285864,
+		"current_price" : 76.54,
+		"target_price" : 60.563
+	},
+	{
+		"symbol" : "FDX",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Air Freight & Logistics",
+		"model" : "multiples",
+		"percent_change" : 48.807346491228095,
+		"current_price" : 182.4,
+		"target_price" : 271.42460000000005
+	},
+	{
+		"symbol" : "UPS",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Air Freight & Logistics",
+		"model" : "multiples",
+		"percent_change" : 16.826090884452093,
+		"current_price" : 110.69,
+		"target_price" : 129.31480000000002
+	},
+	{
+		"symbol" : "CPB",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Packaged Foods & Meats",
+		"model" : "multiples",
+		"percent_change" : 8.904393199798024,
+		"current_price" : 36.56,
+		"target_price" : 39.81544615384616
+	},
+	{
+		"symbol" : "CAG",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Packaged Foods & Meats",
+		"model" : "multiples",
+		"percent_change" : 43.35720716214869,
+		"current_price" : 23.07,
+		"target_price" : 33.0725076923077
+	},
+	{
+		"symbol" : "GIS",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Packaged Foods & Meats",
+		"model" : "multiples",
+		"percent_change" : 3.839175524181851,
+		"current_price" : 47.62,
+		"target_price" : 49.448215384615395
+	},
+	{
+		"symbol" : "HSY",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Packaged Foods & Meats",
+		"model" : "multiples",
+		"percent_change" : -17.780380856928062,
+		"current_price" : 110.52,
+		"target_price" : 90.8691230769231
+	},
+	{
+		"symbol" : "HRL",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Packaged Foods & Meats",
+		"model" : "multiples",
+		"percent_change" : -30.951947934556607,
+		"current_price" : 42.55,
+		"target_price" : 29.379946153846163
+	},
+	{
+		"symbol" : "SJM",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Packaged Foods & Meats",
+		"model" : "multiples",
+		"percent_change" : 21.962271609907617,
+		"current_price" : 107.02,
+		"target_price" : 130.52402307692313
+	},
+	{
+		"symbol" : "K",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Packaged Foods & Meats",
+		"model" : "multiples",
+		"percent_change" : 647.4669239745087,
+		"current_price" : 8.57,
+		"target_price" : 64.0579153846154
+	},
+	{
+		"symbol" : "k",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Packaged Foods & Meats",
+		"model" : "multiples",
+		"percent_change" : 18.188035764973055,
+		"current_price" : 54.2,
+		"target_price" : 64.0579153846154
+	},
+	{
+		"symbol" : "KHC",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Packaged Foods & Meats",
+		"model" : "multiples",
+		"percent_change" : 47.36362544729703,
+		"current_price" : 32.03,
+		"target_price" : 47.20056923076924
+	},
+	{
+		"symbol" : "LW",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Packaged Foods & Meats",
+		"model" : "multiples",
+		"percent_change" : -29.947672499174644,
+		"current_price" : 69.9,
+		"target_price" : 48.96657692307693
+	},
+	{
+		"symbol" : "MKC",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Packaged Foods & Meats",
+		"model" : "multiples",
+		"percent_change" : -40.098976071899095,
+		"current_price" : 140.71,
+		"target_price" : 84.28673076923079
+	},
+	{
+		"symbol" : "MDLZ",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Packaged Foods & Meats",
+		"model" : "multiples",
+		"percent_change" : -16.451835009287112,
+		"current_price" : 48.04,
+		"target_price" : 40.13653846153847
+	},
+	{
+		"symbol" : "TSN",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Packaged Foods & Meats",
+		"model" : "multiples",
+		"percent_change" : 45.23615019604615,
+		"current_price" : 65.33,
+		"target_price" : 94.88277692307695
+	},
+	{
+		"symbol" : "CPRI",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Apparel, Accessories & Luxury Goods",
+		"model" : "multiples",
+		"percent_change" : 179.69032093625873,
+		"current_price" : 47.081,
+		"target_price" : 131.68099999999998
+	},
+	{
+		"symbol" : "HBI",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Apparel, Accessories & Luxury Goods",
+		"model" : "multiples",
+		"percent_change" : 163.76141013534783,
+		"current_price" : 17.65,
+		"target_price" : 46.553888888888885
+	},
+	{
+		"symbol" : "NKE",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Apparel, Accessories & Luxury Goods",
+		"model" : "multiples",
+		"percent_change" : -20.33358257769277,
+		"current_price" : 87.821,
+		"target_price" : 69.96384444444443
+	},
+	{
+		"symbol" : "RL",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Apparel, Accessories & Luxury Goods",
+		"model" : "multiples",
+		"percent_change" : 50.56245247743517,
+		"current_price" : 124.21,
+		"target_price" : 187.0136222222222
+	},
+	{
+		"symbol" : "PVH",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Apparel, Accessories & Luxury Goods",
+		"model" : "multiples",
+		"percent_change" : 126.75738996062012,
+		"current_price" : 111.45,
+		"target_price" : 252.7211111111111
+	},
+	{
+		"symbol" : "TPR",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Apparel, Accessories & Luxury Goods",
+		"model" : "multiples",
+		"percent_change" : 109.97503879106793,
+		"current_price" : 32.94,
+		"target_price" : 69.16577777777778
+	},
+	{
+		"symbol" : "TIF",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Apparel, Accessories & Luxury Goods",
+		"model" : "multiples",
+		"percent_change" : 27.61415282771215,
+		"current_price" : 97.35,
+		"target_price" : 124.23237777777777
+	},
+	{
+		"symbol" : "UAA",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Apparel, Accessories & Luxury Goods",
+		"model" : "multiples",
+		"percent_change" : -60.721551081282634,
+		"current_price" : 22.35,
+		"target_price" : 8.778733333333333
+	},
+	{
+		"symbol" : "VFC",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Apparel, Accessories & Luxury Goods",
+		"model" : "multiples",
+		"percent_change" : 15.915842638748467,
+		"current_price" : 86.061,
+		"target_price" : 99.75833333333333
+	},
+	{
+		"symbol" : "CCL",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Hotels, Resorts & Cruise Lines",
+		"model" : "multiples",
+		"percent_change" : 50.39065387968614,
+		"current_price" : 57.35,
+		"target_price" : 86.24904000000001
+	},
+	{
+		"symbol" : "HLT",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Hotels, Resorts & Cruise Lines",
+		"model" : "multiples",
+		"percent_change" : -20.63918338939797,
+		"current_price" : 86.21,
+		"target_price" : 68.41696
+	},
+	{
+		"symbol" : "MAR",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Hotels, Resorts & Cruise Lines",
+		"model" : "multiples",
+		"percent_change" : -11.611939820742624,
+		"current_price" : 124.96,
+		"target_price" : 110.44972000000001
+	},
+	{
+		"symbol" : "NCLH",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Hotels, Resorts & Cruise Lines",
+		"model" : "multiples",
+		"percent_change" : 72.04551282051284,
+		"current_price" : 56.16,
+		"target_price" : 96.62076
+	},
+	{
+		"symbol" : "RCL",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Hotels, Resorts & Cruise Lines",
+		"model" : "multiples",
+		"percent_change" : 53.35090448013528,
+		"current_price" : 118.3,
+		"target_price" : 181.41412000000003
+	},
+	{
+		"symbol" : "CAT",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Construction Machinery & Heavy Trucks",
+		"model" : "multiples",
+		"percent_change" : 4.555704697986589,
+		"current_price" : 134.1,
+		"target_price" : 140.2092
+	},
+	{
+		"symbol" : "PCAR",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Construction Machinery & Heavy Trucks",
+		"model" : "multiples",
+		"percent_change" : 7.50051162110803,
+		"current_price" : 68.41,
+		"target_price" : 73.5411
+	},
+	{
+		"symbol" : "CBOE",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Financial Exchanges & Data",
+		"model" : "multiples",
+		"percent_change" : 26.531036035163087,
+		"current_price" : 95.831,
+		"target_price" : 121.25595714285714
+	},
+	{
+		"symbol" : "CME",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Financial Exchanges & Data",
+		"model" : "multiples",
+		"percent_change" : 2.4808909966953387,
+		"current_price" : 169.89,
+		"target_price" : 174.1047857142857
+	},
+	{
+		"symbol" : "ICE",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Financial Exchanges & Data",
+		"model" : "multiples",
+		"percent_change" : 26.110000574415533,
+		"current_price" : 74.61,
+		"target_price" : 94.09067142857143
+	},
+	{
+		"symbol" : "MCO",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Financial Exchanges & Data",
+		"model" : "multiples",
+		"percent_change" : 9.761813788840811,
+		"current_price" : 177.97,
+		"target_price" : 195.3431
+	},
+	{
+		"symbol" : "MSCI",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Financial Exchanges & Data",
+		"model" : "multiples",
+		"percent_change" : -22.280335729620955,
+		"current_price" : 190.97,
+		"target_price" : 148.42124285714286
+	},
+	{
+		"symbol" : "NDAQ",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Financial Exchanges & Data",
+		"model" : "multiples",
+		"percent_change" : 49.804249762583105,
+		"current_price" : 84.24,
+		"target_price" : 126.1951
+	},
+	{
+		"symbol" : "SPGI",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Financial Exchanges & Data",
+		"model" : "multiples",
+		"percent_change" : 8.520929974167373,
+		"current_price" : 205.72,
+		"target_price" : 223.24925714285712
+	},
+	{
+		"symbol" : "CBRE",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Real Estate Services",
+		"model" : "multiples",
+		"percent_change" : 8.874828060522692,
+		"current_price" : 50.89,
+		"target_price" : 55.4064
+	},
+	{
+		"symbol" : "CBS",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Broadcasting",
+		"model" : "multiples",
+		"percent_change" : 35.99524209347887,
+		"current_price" : 47.64,
+		"target_price" : 64.78813333333333
+	},
+	{
+		"symbol" : "DISCA",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Broadcasting",
+		"model" : "multiples",
+		"percent_change" : 54.275676337373,
+		"current_price" : 27.23,
+		"target_price" : 42.00926666666667
+	},
+	{
+		"symbol" : "DISCK",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Broadcasting",
+		"model" : "multiples",
+		"percent_change" : 65.67543859649125,
+		"current_price" : 25.84,
+		"target_price" : 42.81053333333334
+	},
+	{
+		"symbol" : "CERN",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Technology",
+		"model" : "multiples",
+		"percent_change" : 7.260273972602747,
+		"current_price" : 57.67,
+		"target_price" : 61.857000000000006
+	},
+	{
+		"symbol" : "CF",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Fertilizers & Agricultural Chemicals",
+		"model" : "multiples",
+		"percent_change" : 2.1727493917274967,
+		"current_price" : 42.47,
+		"target_price" : 43.39276666666667
+	},
+	{
+		"symbol" : "FMC",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Fertilizers & Agricultural Chemicals",
+		"model" : "multiples",
+		"percent_change" : 47.401326053042105,
+		"current_price" : 76.92,
+		"target_price" : 113.38109999999999
+	},
+	{
+		"symbol" : "MOS",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Fertilizers & Agricultural Chemicals",
+		"model" : "multiples",
+		"percent_change" : 64.07879422718808,
+		"current_price" : 28.64,
+		"target_price" : 46.99216666666667
+	},
+	{
+		"symbol" : "SCHW",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Investment Banking & Brokerage",
+		"model" : "multiples",
+		"percent_change" : -24.344270152505445,
+		"current_price" : 45.9,
+		"target_price" : 34.72598
+	},
+	{
+		"symbol" : "ETFC",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Investment Banking & Brokerage",
+		"model" : "multiples",
+		"percent_change" : 3.9178463399878924,
+		"current_price" : 49.59,
+		"target_price" : 51.53286
+	},
+	{
+		"symbol" : "GS",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Investment Banking & Brokerage",
+		"model" : "multiples",
+		"percent_change" : 44.167511236232535,
+		"current_price" : 202.47,
+		"target_price" : 291.89596
+	},
+	{
+		"symbol" : "MS",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Investment Banking & Brokerage",
+		"model" : "multiples",
+		"percent_change" : 35.28403361344539,
+		"current_price" : 44.03,
+		"target_price" : 59.565560000000005
+	},
+	{
+		"symbol" : "RJF",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Investment Banking & Brokerage",
+		"model" : "multiples",
+		"percent_change" : 7.07670867668445,
+		"current_price" : 82.52,
+		"target_price" : 88.3597
+	},
+	{
+		"symbol" : "CHTR",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Cable & Satellite",
+		"model" : "multiples",
+		"percent_change" : -34.752418264073505,
+		"current_price" : 357.35,
+		"target_price" : 233.16223333333335
+	},
+	{
+		"symbol" : "CMCSA",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Cable & Satellite",
+		"model" : "multiples",
+		"percent_change" : 117.93795925183699,
+		"current_price" : 39.92,
+		"target_price" : 87.00083333333333
+	},
+	{
+		"symbol" : "DISH",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Cable & Satellite",
+		"model" : "multiples",
+		"percent_change" : 146.96318008845006,
+		"current_price" : 32.41,
+		"target_price" : 80.04076666666666
+	},
+	{
+		"symbol" : "CVX",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Integrated Oil & Gas",
+		"model" : "multiples",
+		"percent_change" : -184.2389577375278,
+		"current_price" : 125.88,
+		"target_price" : -106.03999999999999
+	},
+	{
+		"symbol" : "XOM",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Integrated Oil & Gas",
+		"model" : "multiples",
+		"percent_change" : -180.65038644959714,
+		"current_price" : 81.08,
+		"target_price" : -65.39133333333334
+	},
+	{
+		"symbol" : "HES",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Integrated Oil & Gas",
+		"model" : "multiples",
+		"percent_change" : -344.54591577879245,
+		"current_price" : 59.13,
+		"target_price" : -144.6
+	},
+	{
+		"symbol" : "CMG",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Restaurants",
+		"model" : "multiples",
+		"percent_change" : -32.93943275388837,
+		"current_price" : 655.8,
+		"target_price" : 439.7832
+	},
+	{
+		"symbol" : "DRI",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Restaurants",
+		"model" : "multiples",
+		"percent_change" : 84.03249617427313,
+		"current_price" : 111.09,
+		"target_price" : 204.44170000000003
+	},
+	{
+		"symbol" : "MCD",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Restaurants",
+		"model" : "multiples",
+		"percent_change" : 59.18972546887742,
+		"current_price" : 183.95,
+		"target_price" : 292.8295
+	},
+	{
+		"symbol" : "SBUX",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Restaurants",
+		"model" : "multiples",
+		"percent_change" : 37.958215697346134,
+		"current_price" : 70.84,
+		"target_price" : 97.7296
+	},
+	{
+		"symbol" : "YUM",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Restaurants",
+		"model" : "multiples",
+		"percent_change" : 36.207102952913004,
+		"current_price" : 100.24,
+		"target_price" : 136.534
+	},
+	{
+		"symbol" : "CHD",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Household Products",
+		"model" : "multiples",
+		"percent_change" : -12.31236912952437,
+		"current_price" : 66.86,
+		"target_price" : 58.627950000000006
+	},
+	{
+		"symbol" : "CLX",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Household Products",
+		"model" : "multiples",
+		"percent_change" : -5.399307079701495,
+		"current_price" : 159.47,
+		"target_price" : 150.85972500000003
+	},
+	{
+		"symbol" : "CL",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Household Products",
+		"model" : "multiples",
+		"percent_change" : 1.743815055061092,
+		"current_price" : 66.29,
+		"target_price" : 67.445975
+	},
+	{
+		"symbol" : "KMB",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Household Products",
+		"model" : "multiples",
+		"percent_change" : 31.35081960357952,
+		"current_price" : 119.57,
+		"target_price" : 157.05617500000002
+	},
+	{
+		"symbol" : "CTAS",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Diversified Support Services",
+		"model" : "multiples",
+		"percent_change" : 22.358340560855726,
+		"current_price" : 207.54,
+		"target_price" : 253.94249999999997
+	},
+	{
+		"symbol" : "CPRT",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Diversified Support Services",
+		"model" : "multiples",
+		"percent_change" : 25.710780165848675,
+		"current_price" : 59.09,
+		"target_price" : 74.28249999999998
+	},
+	{
+		"symbol" : "KO",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Soft Drinks",
+		"model" : "multiples",
+		"percent_change" : 17.210599721059978,
+		"current_price" : 45.41,
+		"target_price" : 53.22533333333333
+	},
+	{
+		"symbol" : "MNST",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Soft Drinks",
+		"model" : "multiples",
+		"percent_change" : -14.270627062706264,
+		"current_price" : 60.6,
+		"target_price" : 51.952000000000005
+	},
+	{
+		"symbol" : "PEP",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Soft Drinks",
+		"model" : "multiples",
+		"percent_change" : 19.43947016855689,
+		"current_price" : 117.27,
+		"target_price" : 140.06666666666666
+	},
+	{
+		"symbol" : "STZ",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Distillers & Vintners",
+		"model" : "multiples",
+		"percent_change" : 5.164484451718489,
+		"current_price" : 171.08,
+		"target_price" : 179.9154
+	},
+	{
+		"symbol" : "COST",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Hypermarkets & Super Centers",
+		"model" : "multiples",
+		"percent_change" : -8.506868422164935,
+		"current_price" : 236.59,
+		"target_price" : 216.46359999999999
+	},
+	{
+		"symbol" : "WMT",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Hypermarkets & Super Centers",
+		"model" : "multiples",
+		"percent_change" : 30.926340293595274,
+		"current_price" : 99.661,
+		"target_price" : 130.4825
+	},
+	{
+		"symbol" : "COTY",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Personal Products",
+		"model" : "multiples",
+		"percent_change" : 42.62111801242236,
+		"current_price" : 11.27,
+		"target_price" : 16.0734
+	},
+	{
+		"symbol" : "EL",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Personal Products",
+		"model" : "multiples",
+		"percent_change" : -21.316942571019823,
+		"current_price" : 163.1,
+		"target_price" : 128.33206666666666
+	},
+	{
+		"symbol" : "PG",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Personal Products",
+		"model" : "multiples",
+		"percent_change" : 12.096804912488079,
+		"current_price" : 101.51,
+		"target_price" : 113.78946666666666
+	},
+	{
+		"symbol" : "CSX",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Railroads",
+		"model" : "multiples",
+		"percent_change" : 12.934947408319895,
+		"current_price" : 73.87100000000002,
+		"target_price" : 83.42617500000001
+	},
+	{
+		"symbol" : "KSU",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Railroads",
+		"model" : "multiples",
+		"percent_change" : 15.724819059107359,
+		"current_price" : 116.06,
+		"target_price" : 134.310225
+	},
+	{
+		"symbol" : "NSC",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Railroads",
+		"model" : "multiples",
+		"percent_change" : 12.58886210485948,
+		"current_price" : 182.53,
+		"target_price" : 205.50845
+	},
+	{
+		"symbol" : "UNP",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Railroads",
+		"model" : "multiples",
+		"percent_change" : 7.368037175168434,
+		"current_price" : 166.24,
+		"target_price" : 178.488625
+	},
+	{
+		"symbol" : "CMI",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Industrial Machinery",
+		"model" : "multiples",
+		"percent_change" : 86.58565348281945,
+		"current_price" : 160.55,
+		"target_price" : 299.56326666666666
+	},
+	{
+		"symbol" : "DOV",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Industrial Machinery",
+		"model" : "multiples",
+		"percent_change" : 19.780974304107076,
+		"current_price" : 92.531,
+		"target_price" : 110.83453333333333
+	},
+	{
+		"symbol" : "FLS",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Industrial Machinery",
+		"model" : "multiples",
+		"percent_change" : -8.240613705097001,
+		"current_price" : 45.19,
+		"target_price" : 41.46606666666666
+	},
+	{
+		"symbol" : "FTV",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Industrial Machinery",
+		"model" : "multiples",
+		"percent_change" : -17.763577508692013,
+		"current_price" : 83.41,
+		"target_price" : 68.59339999999999
+	},
+	{
+		"symbol" : "GWW",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Industrial Machinery",
+		"model" : "multiples",
+		"percent_change" : 15.531274139795629,
+		"current_price" : 302.06,
+		"target_price" : 348.9737666666667
+	},
+	{
+		"symbol" : "ITW",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Industrial Machinery",
+		"model" : "multiples",
+		"percent_change" : 6.226463979456134,
+		"current_price" : 145.38,
+		"target_price" : 154.43203333333332
+	},
+	{
+		"symbol" : "IR",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Industrial Machinery",
+		"model" : "multiples",
+		"percent_change" : 13.852623384711183,
+		"current_price" : 107.05,
+		"target_price" : 121.87923333333332
+	},
+	{
+		"symbol" : "PH",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Industrial Machinery",
+		"model" : "multiples",
+		"percent_change" : 29.80117966984564,
+		"current_price" : 174.06,
+		"target_price" : 225.93193333333332
+	},
+	{
+		"symbol" : "PNR",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Industrial Machinery",
+		"model" : "multiples",
+		"percent_change" : 13.797354133210957,
+		"current_price" : 43.59,
+		"target_price" : 49.60426666666666
+	},
+	{
+		"symbol" : "SNA",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Industrial Machinery",
+		"model" : "multiples",
+		"percent_change" : 50.30783265177728,
+		"current_price" : 158.95,
+		"target_price" : 238.91429999999997
+	},
+	{
+		"symbol" : "SWK",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Industrial Machinery",
+		"model" : "multiples",
+		"percent_change" : 23.315249521822267,
+		"current_price" : 134.19,
+		"target_price" : 165.4767333333333
+	},
+	{
+		"symbol" : "XYL",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Industrial Machinery",
+		"model" : "multiples",
+		"percent_change" : -17.873468571404274,
+		"current_price" : 78.331,
+		"target_price" : 64.33053333333332
+	},
+	{
+		"symbol" : "CVS",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Services",
+		"model" : "multiples",
+		"percent_change" : 44.2564980325034,
+		"current_price" : 56.67100000000001,
+		"target_price" : 81.75160000000001
+	},
+	{
+		"symbol" : "LH",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Services",
+		"model" : "multiples",
+		"percent_change" : -12.784040286655024,
+		"current_price" : 154.89,
+		"target_price" : 135.08880000000002
+	},
+	{
+		"symbol" : "DGX",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Services",
+		"model" : "multiples",
+		"percent_change" : -12.44870349492672,
+		"current_price" : 88.7,
+		"target_price" : 77.658
+	},
+	{
+		"symbol" : "DHI",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Homebuilding",
+		"model" : "multiples",
+		"percent_change" : -19.71395617070358,
+		"current_price" : 40.46,
+		"target_price" : 32.48373333333333
+	},
+	{
+		"symbol" : "LEN",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Homebuilding",
+		"model" : "multiples",
+		"percent_change" : 4.232622927984402,
+		"current_price" : 47.86,
+		"target_price" : 49.885733333333334
+	},
+	{
+		"symbol" : "PHM",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Homebuilding",
+		"model" : "multiples",
+		"percent_change" : -0.883139607549054,
+		"current_price" : 26.67,
+		"target_price" : 26.43446666666667
+	},
+	{
+		"symbol" : "DVA",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Facilities",
+		"model" : "multiples",
+		"percent_change" : 20.893203510591263,
+		"current_price" : 52.07100000000001,
+		"target_price" : 62.95029999999999
+	},
+	{
+		"symbol" : "HCA",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Facilities",
+		"model" : "multiples",
+		"percent_change" : 5.770909090909085,
+		"current_price" : 134.75,
+		"target_price" : 142.5263
+	},
+	{
+		"symbol" : "UHS",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Health Care Facilities",
+		"model" : "multiples",
+		"percent_change" : 4.608362779740864,
+		"current_price" : 135.84,
+		"target_price" : 142.1
+	},
+	{
+		"symbol" : "DE",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Agricultural & Farm Machinery",
+		"model" : "multiples",
+		"percent_change" : 19.58583905177791,
+		"current_price" : 160.3,
+		"target_price" : 191.6961
+	},
+	{
+		"symbol" : "DG",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "General Merchandise Stores",
+		"model" : "multiples",
+		"percent_change" : -1.977001630481417,
+		"current_price" : 116.53,
+		"target_price" : 114.2262
+	},
+	{
+		"symbol" : "DLTR",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "General Merchandise Stores",
+		"model" : "multiples",
+		"percent_change" : -8.457091952885271,
+		"current_price" : 101.03,
+		"target_price" : 92.48580000000001
+	},
+	{
+		"symbol" : "KSS",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "General Merchandise Stores",
+		"model" : "multiples",
+		"percent_change" : 54.4497981508009,
+		"current_price" : 69.111,
+		"target_price" : 106.74180000000001
+	},
+	{
+		"symbol" : "TGT",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "General Merchandise Stores",
+		"model" : "multiples",
+		"percent_change" : 32.48134975154403,
+		"current_price" : 77.881,
+		"target_price" : 103.1778
+	},
+	{
+		"symbol" : "DWDP",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Diversified Chemicals",
+		"model" : "multiples",
+		"percent_change" : -15.640282557507707,
+		"current_price" : 55.21,
+		"target_price" : 46.574999999999996
+	},
+	{
+		"symbol" : "EMN",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Diversified Chemicals",
+		"model" : "multiples",
+		"percent_change" : 28.396635228141733,
+		"current_price" : 78.46,
+		"target_price" : 100.74
+	},
+	{
+		"symbol" : "DRE",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Industrial REITs",
+		"model" : "multiples",
+		"percent_change" : 5.807679630850358,
+		"current_price" : 30.34,
+		"target_price" : 32.10205
+	},
+	{
+		"symbol" : "PLD",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Industrial REITs",
+		"model" : "multiples",
+		"percent_change" : 3.3326040931545453,
+		"current_price" : 70.85,
+		"target_price" : 73.21114999999999
+	},
+	{
+		"symbol" : "EFX",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Research & Consulting Services",
+		"model" : "multiples",
+		"percent_change" : 18.797844024487613,
+		"current_price" : 112.71,
+		"target_price" : 133.89704999999998
+	},
+	{
+		"symbol" : "INFO",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Research & Consulting Services",
+		"model" : "multiples",
+		"percent_change" : -9.452342195695422,
+		"current_price" : 55.29,
+		"target_price" : 50.0638
+	},
+	{
+		"symbol" : "NLSN",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Research & Consulting Services",
+		"model" : "multiples",
+		"percent_change" : 34.27457813646366,
+		"current_price" : 27.26,
+		"target_price" : 36.603249999999996
+	},
+	{
+		"symbol" : "VRSK",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Research & Consulting Services",
+		"model" : "multiples",
+		"percent_change" : -18.157665708291248,
+		"current_price" : 128.69,
+		"target_price" : 105.32289999999999
+	},
+	{
+		"symbol" : "RE",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Reinsurance",
+		"model" : "multiples",
+		"percent_change" : 398.75493443441184,
+		"current_price" : 220.39,
+		"target_price" : 1099.2060000000001
+	},
+	{
+		"symbol" : "FRT",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Retail REITs",
+		"model" : "multiples",
+		"percent_change" : -20.754475413550875,
+		"current_price" : 132.39,
+		"target_price" : 104.91314999999999
+	},
+	{
+		"symbol" : "KIM",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Retail REITs",
+		"model" : "multiples",
+		"percent_change" : 36.74139570260505,
+		"current_price" : 17.53,
+		"target_price" : 23.970766666666666
+	},
+	{
+		"symbol" : "MAC",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Retail REITs",
+		"model" : "multiples",
+		"percent_change" : 37.14046613483498,
+		"current_price" : 42.62,
+		"target_price" : 58.44926666666667
+	},
+	{
+		"symbol" : "O",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Retail REITs",
+		"model" : "multiples",
+		"percent_change" : -24.16260620569874,
+		"current_price" : 71.01,
+		"target_price" : 53.85213333333333
+	},
+	{
+		"symbol" : "REG",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Retail REITs",
+		"model" : "multiples",
+		"percent_change" : -1.4441600744532326,
+		"current_price" : 64.47,
+		"target_price" : 63.53895
+	},
+	{
+		"symbol" : "SPG",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Retail REITs",
+		"model" : "multiples",
+		"percent_change" : 16.594370829270158,
+		"current_price" : 174.33,
+		"target_price" : 203.25896666666668
+	},
+	{
+		"symbol" : "FLT",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Data Processing & Outsources Services",
+		"model" : "multiples",
+		"percent_change" : 10.854579439252321,
+		"current_price" : 240.75,
+		"target_price" : 266.88239999999996
+	},
+	{
+		"symbol" : "FLIR",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Electronic Equipment & Instruments",
+		"model" : "multiples",
+		"percent_change" : 20.611697806661237,
+		"current_price" : 49.24,
+		"target_price" : 59.389199999999995
+	},
+	{
+		"symbol" : "KEYS",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Electronic Equipment & Instruments",
+		"model" : "multiples",
+		"percent_change" : 6.5640307907627715,
+		"current_price" : 85.74,
+		"target_price" : 91.368
+	},
+	{
+		"symbol" : "FLR",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Construction & Engineering",
+		"model" : "multiples",
+		"percent_change" : 21.237795275590532,
+		"current_price" : 38.1,
+		"target_price" : 46.191599999999994
+	},
+	{
+		"symbol" : "JEC",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Construction & Engineering",
+		"model" : "multiples",
+		"percent_change" : 16.338983050847457,
+		"current_price" : 74.34,
+		"target_price" : 86.4864
+	},
+	{
+		"symbol" : "PWR",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Construction & Engineering",
+		"model" : "multiples",
+		"percent_change" : 41.86367281475542,
+		"current_price" : 37.41,
+		"target_price" : 53.0712
+	},
+	{
+		"symbol" : "FL",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Apparel Retail",
+		"model" : "multiples",
+		"percent_change" : 36.42506265664161,
+		"current_price" : 59.85,
+		"target_price" : 81.6504
+	},
+	{
+		"symbol" : "GPS",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Apparel Retail",
+		"model" : "multiples",
+		"percent_change" : 52.96549295774652,
+		"current_price" : 25.56,
+		"target_price" : 39.09798000000001
+	},
+	{
+		"symbol" : "LB",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Apparel Retail",
+		"model" : "multiples",
+		"percent_change" : 34.997158469945376,
+		"current_price" : 27.45,
+		"target_price" : 37.056720000000006
+	},
+	{
+		"symbol" : "ROST",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Apparel Retail",
+		"model" : "multiples",
+		"percent_change" : -22.808967310794333,
+		"current_price" : 91.131,
+		"target_price" : 70.34496000000001
+	},
+	{
+		"symbol" : "TJX",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Apparel Retail",
+		"model" : "multiples",
+		"percent_change" : -21.714957020057298,
+		"current_price" : 52.35,
+		"target_price" : 40.982220000000005
+	},
+	{
+		"symbol" : "F",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Automobile Manufacturers",
+		"model" : "multiples",
+		"percent_change" : -12.462077012835488,
+		"current_price" : 8.57,
+		"target_price" : 7.501999999999999
+	},
+	{
+		"symbol" : "GM",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Automobile Manufacturers",
+		"model" : "multiples",
+		"percent_change" : 5.7819905213270095,
+		"current_price" : 37.98,
+		"target_price" : 40.175999999999995
+	},
+	{
+		"symbol" : "FTNT",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Systems Software",
+		"model" : "multiples",
+		"percent_change" : -9.20807153309433,
+		"current_price" : 84.51100000000002,
+		"target_price" : 76.72916666666667
+	},
+	{
+		"symbol" : "MSFT",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Systems Software",
+		"model" : "multiples",
+		"percent_change" : 130.24623628476658,
+		"current_price" : 117.57,
+		"target_price" : 270.70050000000003
+	},
+	{
+		"symbol" : "RHT",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Systems Software",
+		"model" : "multiples",
+		"percent_change" : -11.219661973896471,
+		"current_price" : 181.84,
+		"target_price" : 161.43816666666666
+	},
+	{
+		"symbol" : "FCX",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Copper",
+		"model" : "multiples",
+		"percent_change" : -71.06180665610144,
+		"current_price" : 12.62,
+		"target_price" : 3.652
+	},
+	{
+		"symbol" : "GRMN",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Consumer Electronics",
+		"model" : "multiples",
+		"percent_change" : 0.539011316259679,
+		"current_price" : 83.95,
+		"target_price" : 84.4025
+	},
+	{
+		"symbol" : "GT",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Tires & Rubber",
+		"model" : "multiples",
+		"percent_change" : -4.717818999437875,
+		"current_price" : 17.79,
+		"target_price" : 16.9507
+	},
+	{
+		"symbol" : "HOG",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Motorcycle Manufacturers",
+		"model" : "multiples",
+		"percent_change" : -6.5703211517164934,
+		"current_price" : 36.12,
+		"target_price" : 33.7468
+	},
+	{
+		"symbol" : "HAS",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Leisure Products",
+		"model" : "multiples",
+		"percent_change" : -75.34247990815156,
+		"current_price" : 87.1,
+		"target_price" : 21.4767
+	},
+	{
+		"symbol" : "MAT",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Leisure Products",
+		"model" : "multiples",
+		"percent_change" : -108.29359673024524,
+		"current_price" : 14.68,
+		"target_price" : -1.2175
+	},
+	{
+		"symbol" : "HCP",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Health Care REITs",
+		"model" : "multiples",
+		"percent_change" : -3.587134886773876,
+		"current_price" : 30.47,
+		"target_price" : 29.377
+	},
+	{
+		"symbol" : "VTR",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Health Care REITs",
+		"model" : "multiples",
+		"percent_change" : 4.850081015319742,
+		"current_price" : 61.511,
+		"target_price" : 64.49433333333333
+	},
+	{
+		"symbol" : "WELL",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Health Care REITs",
+		"model" : "multiples",
+		"percent_change" : -6.638203710302529,
+		"current_price" : 75.771,
+		"target_price" : 70.74116666666667
+	},
+	{
+		"symbol" : "HP",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Drilling",
+		"model" : "multiples",
+		"percent_change" : 1064.2691617351743,
+		"current_price" : 56.271,
+		"target_price" : 655.1459
+	},
+	{
+		"symbol" : "HFC",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Refining & Marketing",
+		"model" : "multiples",
+		"percent_change" : -1.0905817699450677,
+		"current_price" : 52.77,
+		"target_price" : 52.19449999999999
+	},
+	{
+		"symbol" : "MPC",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Refining & Marketing",
+		"model" : "multiples",
+		"percent_change" : -5.03777323174563,
+		"current_price" : 62.081,
+		"target_price" : 58.9535
+	},
+	{
+		"symbol" : "PSX",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Refining & Marketing",
+		"model" : "multiples",
+		"percent_change" : -20.217661061588338,
+		"current_price" : 98.72,
+		"target_price" : 78.76112499999999
+	},
+	{
+		"symbol" : "VLO",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Refining & Marketing",
+		"model" : "multiples",
+		"percent_change" : -20.57238533273393,
+		"current_price" : 86.751,
+		"target_price" : 68.90424999999999
+	},
+	{
+		"symbol" : "HD",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Home Improvement Retail",
+		"model" : "multiples",
+		"percent_change" : 5.432777232580976,
+		"current_price" : 183.42,
+		"target_price" : 193.3848
+	},
+	{
+		"symbol" : "LOW",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Home Improvement Retail",
+		"model" : "multiples",
+		"percent_change" : 14.11572438162546,
+		"current_price" : 101.88,
+		"target_price" : 116.26110000000001
+	},
+	{
+		"symbol" : "HST",
+		"gics_sector" : "Real Estate",
+		"gics_sub_industry" : "Hotel & Resort REITs",
+		"model" : "multiples",
+		"percent_change" : 0.023437500000000888,
+		"current_price" : 19.2,
+		"target_price" : 19.2045
+	},
+	{
+		"symbol" : "ILMN",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Life Sciences Tools & Services",
+		"model" : "multiples",
+		"percent_change" : -5.770079795931701,
+		"current_price" : 305.78,
+		"target_price" : 288.13625
+	},
+	{
+		"symbol" : "MTD",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Life Sciences Tools & Services",
+		"model" : "multiples",
+		"percent_change" : 41.394268858581846,
+		"current_price" : 706.84,
+		"target_price" : 999.43125
+	},
+	{
+		"symbol" : "IPG",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Advertising",
+		"model" : "multiples",
+		"percent_change" : 4.866501575866733,
+		"current_price" : 22.21,
+		"target_price" : 23.290850000000002
+	},
+	{
+		"symbol" : "OMC",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Advertising",
+		"model" : "multiples",
+		"percent_change" : -2.136899973183157,
+		"current_price" : 74.58,
+		"target_price" : 72.9863
+	},
+	{
+		"symbol" : "IPGP",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Electronic Manufacturing Services",
+		"model" : "multiples",
+		"percent_change" : -26.353712374581935,
+		"current_price" : 149.5,
+		"target_price" : 110.1012
+	},
+	{
+		"symbol" : "TEL",
+		"gics_sector" : "Information Technology",
+		"gics_sub_industry" : "Electronic Manufacturing Services",
+		"model" : "multiples",
+		"percent_change" : 14.833213342932575,
+		"current_price" : 83.34,
+		"target_price" : 95.70200000000001
+	},
+	{
+		"symbol" : "IQV",
+		"gics_sector" : "Health Care",
+		"gics_sub_industry" : "Life Sciences Tools & Service",
+		"model" : "multiples",
+		"percent_change" : 14.667668437237893,
+		"current_price" : 143.08,
+		"target_price" : 164.0665
+	},
+	{
+		"symbol" : "JBHT",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Trucking",
+		"model" : "multiples",
+		"percent_change" : 9.90598290598292,
+		"current_price" : 104.13,
+		"target_price" : 114.44510000000001
+	},
+	{
+		"symbol" : "JEF",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Multi-Sector Holdings",
+		"model" : "multiples",
+		"percent_change" : -26.064321608040192,
+		"current_price" : 19.9,
+		"target_price" : 14.7132
+	},
+	{
+		"symbol" : "KMI",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Storage & Transportation",
+		"model" : "multiples",
+		"percent_change" : 37.11855927963981,
+		"current_price" : 19.99,
+		"target_price" : 27.409999999999997
+	},
+	{
+		"symbol" : "OKE",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Storage & Transportation",
+		"model" : "multiples",
+		"percent_change" : 18.26578520132803,
+		"current_price" : 68.37100000000001,
+		"target_price" : 80.8595
+	},
+	{
+		"symbol" : "WMB",
+		"gics_sector" : "Energy",
+		"gics_sub_industry" : "Oil & Gas Storage & Transportation",
+		"model" : "multiples",
+		"percent_change" : -5.312702410939193,
+		"current_price" : 27.79,
+		"target_price" : 26.313599999999997
+	},
+	{
+		"symbol" : "KR",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Food Retail",
+		"model" : "multiples",
+		"percent_change" : 5.731975560081464,
+		"current_price" : 24.55,
+		"target_price" : 25.9572
+	},
+	{
+		"symbol" : "LEG",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Home Furnishings",
+		"model" : "multiples",
+		"percent_change" : -18.207415990730023,
+		"current_price" : 43.15,
+		"target_price" : 35.293499999999995
+	},
+	{
+		"symbol" : "MHK",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Home Furnishings",
+		"model" : "multiples",
+		"percent_change" : 21.07018763029883,
+		"current_price" : 129.51,
+		"target_price" : 156.798
+	},
+	{
+		"symbol" : "LKQ",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Distributors",
+		"model" : "multiples",
+		"percent_change" : 9.576271186440664,
+		"current_price" : 28.32,
+		"target_price" : 31.031999999999996
+	},
+	{
+		"symbol" : "M",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Department Stores",
+		"model" : "multiples",
+		"percent_change" : 18.26852239430722,
+		"current_price" : 23.89,
+		"target_price" : 28.254349999999995
+	},
+	{
+		"symbol" : "JWN",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Department Stores",
+		"model" : "multiples",
+		"percent_change" : -22.698348042543564,
+		"current_price" : 44.19,
+		"target_price" : 34.1596
+	},
+	{
+		"symbol" : "MLM",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Construction Materials",
+		"model" : "multiples",
+		"percent_change" : 20.310627821091508,
+		"current_price" : 194.96,
+		"target_price" : 234.5576
+	},
+	{
+		"symbol" : "VMC",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Construction Materials",
+		"model" : "multiples",
+		"percent_change" : 9.549530578222353,
+		"current_price" : 113.97,
+		"target_price" : 124.85360000000001
+	},
+	{
+		"symbol" : "MGM",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Casinos & Gaming",
+		"model" : "multiples",
+		"percent_change" : -2.1622857142857232,
+		"current_price" : 26.25,
+		"target_price" : 25.682399999999998
+	},
+	{
+		"symbol" : "WYNN",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Casinos & Gaming",
+		"model" : "multiples",
+		"percent_change" : 17.60981489453293,
+		"current_price" : 116.15,
+		"target_price" : 136.6038
+	},
+	{
+		"symbol" : "TAP",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Brewers",
+		"model" : "multiples",
+		"percent_change" : -7.564561115668589,
+		"current_price" : 60.95,
+		"target_price" : 56.3394
+	},
+	{
+		"symbol" : "NFLX",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Movies & Entertainment",
+		"model" : "multiples",
+		"percent_change" : -48.625598448162,
+		"current_price" : 363.44,
+		"target_price" : 186.715125
+	},
+	{
+		"symbol" : "FOXA",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Movies & Entertainment",
+		"model" : "multiples",
+		"percent_change" : 78.62923481308411,
+		"current_price" : 51.36,
+		"target_price" : 91.74397499999999
+	},
+	{
+		"symbol" : "VIAB",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Movies & Entertainment",
+		"model" : "multiples",
+		"percent_change" : 598.17095323741,
+		"current_price" : 27.8,
+		"target_price" : 194.091525
+	},
+	{
+		"symbol" : "DIS",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Movies & Entertainment",
+		"model" : "multiples",
+		"percent_change" : 188.9557328500707,
+		"current_price" : 113.12,
+		"target_price" : 326.866725
+	},
+	{
+		"symbol" : "NWL",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Housewares & Specialties",
+		"model" : "multiples",
+		"percent_change" : -44.73591989987485,
+		"current_price" : 15.98,
+		"target_price" : 8.831199999999999
+	},
+	{
+		"symbol" : "NEM",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Gold",
+		"model" : "multiples",
+		"percent_change" : -12.608484848484844,
+		"current_price" : 33,
+		"target_price" : 28.8392
+	},
+	{
+		"symbol" : "NWSA",
+		"gics_sector" : "Communication Services",
+		"gics_sub_industry" : "Publishing",
+		"model" : "multiples",
+		"percent_change" : -13.641838351822495,
+		"current_price" : 12.62,
+		"target_price" : 10.8984
+	},
+	{
+		"symbol" : "NUE",
+		"gics_sector" : "Materials",
+		"gics_sub_industry" : "Steel",
+		"model" : "multiples",
+		"percent_change" : -21.138516380920038,
+		"current_price" : 58.91,
+		"target_price" : 46.457300000000004
+	},
+	{
+		"symbol" : "PBCT",
+		"gics_sector" : "Financials",
+		"gics_sub_industry" : "Thrifts & Mortgage Finance",
+		"model" : "multiples",
+		"percent_change" : 6.909090909090894,
+		"current_price" : 17.6,
+		"target_price" : 18.816
+	},
+	{
+		"symbol" : "RSG",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Environmental & Facilities Services",
+		"model" : "multiples",
+		"percent_change" : 47.35692580400098,
+		"current_price" : 78.98,
+		"target_price" : 116.38249999999998
+	},
+	{
+		"symbol" : "ROL",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Environmental & Facilities Services",
+		"model" : "multiples",
+		"percent_change" : -32.7306660161015,
+		"current_price" : 40.99,
+		"target_price" : 27.573699999999995
+	},
+	{
+		"symbol" : "WM",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Environmental & Facilities Services",
+		"model" : "multiples",
+		"percent_change" : 54.32909270216959,
+		"current_price" : 101.4,
+		"target_price" : 156.48969999999997
+	},
+	{
+		"symbol" : "RHI",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Human Resource & Employment Services",
+		"model" : "multiples",
+		"percent_change" : 12.99309516661662,
+		"current_price" : 66.62,
+		"target_price" : 75.276
+	},
+	{
+		"symbol" : "SYY",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Food Distributors",
+		"model" : "multiples",
+		"percent_change" : 8.302738489316905,
+		"current_price" : 66.46,
+		"target_price" : 71.97800000000001
+	},
+	{
+		"symbol" : "URI",
+		"gics_sector" : "Industrials",
+		"gics_sub_industry" : "Trading Companies & Distributors",
+		"model" : "multiples",
+		"percent_change" : 18.695503699487766,
+		"current_price" : 122.99,
+		"target_price" : 145.9836
+	},
+	{
+		"symbol" : "WBA",
+		"gics_sector" : "Consumer Staples",
+		"gics_sub_industry" : "Drug Retail",
+		"model" : "multiples",
+		"percent_change" : 6.328471781864306,
+		"current_price" : 63.08,
+		"target_price" : 67.072
+	},
+	{
+		"symbol" : "WHR",
+		"gics_sector" : "Consumer Discretionary",
+		"gics_sub_industry" : "Household Appliances",
+		"model" : "multiples",
+		"percent_change" : -3.337033980946686,
+		"current_price" : 133.31,
+		"target_price" : 128.86139999999997
+	}
+]

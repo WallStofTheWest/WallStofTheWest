@@ -2,6 +2,8 @@
 import requests
 import json
 import pandas as pd
+from Config import pwd, user, host, port, dbname 
+
 
 # SQL Alchemy
 from sqlalchemy import create_engine,Column, Integer, String, Float, Double
@@ -20,16 +22,16 @@ pymysql.install_as_MySQLdb()
 
 # --------------------------------------------------------------------
 # ESTABLISH DATABASE CONNECTION USING VIV'S AWESOME CODE :)
-# --------------------------------------------------------------------
-host="stock-data-analysis.ciuxgx1cjbsw.us-east-2.rds.amazonaws.com"
+# # --------------------------------------------------------------------
+# host="stock-data-analysis.ciuxgx1cjbsw.us-east-2.rds.amazonaws.com"
 
-port=3306
+# port=3306
 
-dbname="stock_data"
+# dbname="stock_data"
 
-user="ucbx"
+# user="ucbx"
 
-password="Welcome123"
+password= pwd
 
 conn = pymysql.connect(host, user=user,port=port,
 

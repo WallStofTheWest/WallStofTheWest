@@ -1,0 +1,415 @@
+,symbol,gics_sector,gics_sub_industry,model,percent_change,current_price,target_price
+0,XRAY,Health Care,Health Care Supplies,ev_sales_multiple,60.873073090393945,37.21,59.86087049693559
+1,XOM,Energy,Integrated Oil & Gas,ev_sales_multiple,123.47828862028453,68.19,152.38984501017202
+2,XEC,Energy,Oil & Gas Exploration & Production,ev_sales_multiple,-19.556742701782287,61.65,49.59326812435122
+3,TXT,Industrials,Aerospace & Defense,ev_sales_multiple,156.38795937348462,45.65,117.04110345399573
+4,TXN,Information Technology,Semiconductors,ev_sales_multiple,-20.779923577668452,94.5,74.86297221910331
+5,TSS,Information Technology,Internet Software & Services,ev_sales_multiple,6.874712569282335,81.29,86.87845384756962
+6,TSCO,Consumer Discretionary,Specialty Stores,ev_sales_multiple,37.6033658097725,83.21,114.49976069031169
+7,TRV,Financials,Property & Casualty Insurance,ev_sales_multiple,210.2047312989019,119.75,371.47016573043504
+8,TROW,Financials,Asset Management & Custody Banks,ev_sales_multiple,-7.059534611724762,92.32,85.8026376464557
+9,TPR,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",ev_sales_multiple,-23.993849888320256,46.71,35.50247271716561
+10,TMO,Health Care,Health Care Equipment,ev_sales_multiple,-5.836420194075091,223.79,210.72867524767935
+11,TMK,Financials,Life & Health Insurance,ev_sales_multiple,56.014320802717954,74.53,116.27747329426569
+12,TIF,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",ev_sales_multiple,-27.489929537044226,88.73,64.33818552178066
+13,TGT,Consumer Discretionary,General Merchandise Stores,ev_sales_multiple,237.59496797522183,71.17,240.2663387079654
+14,TEL,Information Technology,Electronic Manufacturing Services,ev_sales_multiple,107.72931655869094,87.93,182.65638805005696
+15,TAP,Consumer Staples,Brewers,ev_sales_multiple,103.28049288880162,56.16,114.16232480635098
+16,T,Communication Services,Integrated Telecommunication Services,ev_sales_multiple,92.27282016923611,28.54,54.874662876299986
+17,SYY,Consumer Staples,Food Distributors,ev_sales_multiple,374.23126496823465,68.29,323.8525308468075
+18,SYMC,Information Technology,Application Software,ev_sales_multiple,22.42449525953533,25.85,31.646732024589884
+19,SYK,Health Care,Health Care Equipment,ev_sales_multiple,-11.42156967636241,156.75,138.84668953230192
+20,SYF,Financials,Consumer Finance,ev_sales_multiple,-10.687951142977829,23.46,20.952606661857402
+21,SWKS,Information Technology,Semiconductors,ev_sales_multiple,21.05423748583824,90.71,109.80829882340386
+22,SWK,Industrials,Industrial Machinery,ev_sales_multiple,45.86226145454088,118.83,173.32812528643092
+23,STZ,Consumer Staples,Distillers & Vintners,ev_sales_multiple,-67.4452747301543,215.48,70.14892201146353
+24,STX,Information Technology,"Technology Hardware, Storage & Peripherals",ev_sales_multiple,218.20539557535824,56.47,179.69058688140478
+25,STT,Financials,Asset Management & Custody Banks,ev_sales_multiple,301.53879595701517,63.07,253.25051861008947
+26,STI,Financials,Regional Banks,ev_sales_multiple,-27.27296805412412,50.44,36.68351491349979
+27,SRE,Utilities,Multi-Utilities,ev_sales_multiple,-30.962029452517637,108.19,74.69218033532117
+28,SPGI,Financials,Financial Exchanges & Data,ev_sales_multiple,-52.72149125288823,169.94,80.34509776484174
+29,SPG,Real Estate,Retail REITs,ev_sales_multiple,-16.797501349867964,167.99,139.7718774823568
+30,SO,Utilities,Electric Utilities,ev_sales_multiple,4.044036368279976,43.92,45.69614077294857
+31,SNPS,Information Technology,Application Software,ev_sales_multiple,13.08343933017401,89.53,101.24360323230479
+32,SNA,Industrials,Industrial Machinery,ev_sales_multiple,-0.6979879079718452,144.25,143.2431524427506
+33,SLG,Real Estate,Office REITs,ev_sales_multiple,34.03917849866556,79.08,105.99818235674472
+34,SLB,Energy,Oil & Gas Equipment & Services,ev_sales_multiple,22.005183628739424,36.08,44.01947025324918
+35,SJM,Consumer Staples,Packaged Foods & Meats,ev_sales_multiple,34.353734122920905,114.08,153.27073988742816
+36,SHW,Materials,Specialty Chemicals,ev_sales_multiple,-22.247351223666186,393.46,305.925571875363
+37,SEE,Materials,Paper Packaging,ev_sales_multiple,26.71258490491473,34.84,44.1466645808723
+38,SCHW,Financials,Investment Banking & Brokerage,ev_sales_multiple,6.135363019367127,41.53,44.07801626194317
+39,SBUX,Consumer Discretionary,Restaurants,ev_sales_multiple,-47.262493370067595,56.84,29.97599876845358
+40,SBAC,Real Estate,Specialized REITs,ev_sales_multiple,-33.16658382031405,161.89,108.19661745329357
+41,RTN,Industrials,Aerospace & Defense,ev_sales_multiple,30.78076392684977,153.35,200.55230148182412
+42,RSG,Industrials,Environmental & Facilities Services,ev_sales_multiple,-39.65717182823242,72.09,43.50114482902725
+43,ROST,Consumer Discretionary,Apparel Retail,ev_sales_multiple,-16.34177175916123,91.73,76.73969276532141
+44,ROP,Industrials,Industrial Conglomerates,ev_sales_multiple,-75.80801104584806,266.52,64.47648896060578
+45,ROK,Industrials,Electrical Components & Equipment,ev_sales_multiple,-37.18907332096132,187.52,117.78304970853334
+46,RMD,Health Care,Health Care Equipment,ev_sales_multiple,-34.10160782780004,103.58,68.25755461196472
+47,RL,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",ev_sales_multiple,31.251673989841816,111.8,146.73937152064315
+48,RJF,Financials,Investment Banking & Brokerage,ev_sales_multiple,89.75879380040891,92.05,174.6729696932764
+49,RHT,Information Technology,Systems Software,ev_sales_multiple,-44.29555785845204,147.4,82.10834771664169
+50,RHI,Industrials,Human Resource & Employment Services,ev_sales_multiple,90.4642969134401,57.2,108.94557783448774
+51,RF,Financials,Regional Banks,ev_sales_multiple,-41.07189677345296,13.38,7.884580211711993
+52,REGN,Health Care,Biotechnology,ev_sales_multiple,-29.195943615051295,373.5,264.4531505977834
+53,REG,Real Estate,Retail REITs,ev_sales_multiple,-4.997307521124213,58.68,55.74757994660431
+54,RE,Financials,Reinsurance,ev_sales_multiple,187.95980629205647,217.76,627.0612741815821
+55,RCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",ev_sales_multiple,-63.31956744590712,97.79,35.86979499464743
+56,QRVO,Information Technology,Semiconductors,ev_sales_multiple,56.77663969625195,70.45,110.44914266600951
+57,QCOM,Information Technology,Semiconductors,ev_sales_multiple,15.134372689336582,72.03,82.93128864812914
+58,PYPL,Information Technology,Data Processing & Outsourced Services,ev_sales_multiple,-19.234774848872068,84.09,67.91547782958348
+59,PXD,Energy,Oil & Gas Exploration & Production,ev_sales_multiple,-7.761721230099199,131.52,121.31178423817354
+60,PWR,Industrials,Construction & Engineering,ev_sales_multiple,444.45610273877884,30.1,163.88128692437243
+61,PVH,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",ev_sales_multiple,81.60459914298464,108.76,197.5131620279101
+62,PSX,Energy,Oil & Gas Refining & Marketing,ev_sales_multiple,547.0236476704752,86.15,557.4108724681143
+63,PSA,Real Estate,Specialized REITs,ev_sales_multiple,-11.461747615295078,202.41,179.21027665188123
+64,PRU,Financials,Life & Health Insurance,ev_sales_multiple,494.222394951407,81.55,484.58836308287243
+65,PRGO,Health Care,Pharmaceuticals,ev_sales_multiple,224.6747297528551,38.75,125.81145777923135
+66,PPL,Utilities,Electric Utilities,ev_sales_multiple,-53.04832875258033,28.33,13.30140846439399
+67,PPG,Materials,Specialty Chemicals,ev_sales_multiple,20.289968609297713,102.23,122.97243490928506
+68,PNW,Utilities,Multi-Utilities,ev_sales_multiple,-2.2928498172739795,85.2,83.24649195568257
+69,PNR,Industrials,Industrial Machinery,ev_sales_multiple,-10.855879597859227,37.78,33.678648687928785
+70,PNC,Financials,Regional Banks,ev_sales_multiple,-51.83457660819385,116.91,56.31019648736057
+71,PM,Consumer Staples,Tobacco,ev_sales_multiple,106.81167264203533,66.76,138.0674726558228
+72,PLD,Real Estate,Industrial REITs,ev_sales_multiple,-40.854060046188714,58.72,34.73049594087799
+73,PKI,Health Care,Health Care Equipment,ev_sales_multiple,15.59057064935275,77.29,89.33995205488475
+74,PKG,Materials,Paper Packaging,ev_sales_multiple,65.42219305159902,83.46,138.06136232086453
+75,PHM,Consumer Discretionary,Homebuilding,ev_sales_multiple,121.83651155646143,25.99,57.65530935352432
+76,PH,Industrials,Industrial Machinery,ev_sales_multiple,30.096228380700364,155.85,202.7549719313215
+77,PGR,Financials,Property & Casualty Insurance,ev_sales_multiple,203.36067236802856,60.33,183.01749363963162
+78,PG,Consumer Staples,Personal Products,ev_sales_multiple,-12.6806049440533,78.06,68.161519780672
+79,PFG,Financials,Life & Health Insurance,ev_sales_multiple,290.51921861802555,44.17,172.4923388635819
+80,PFE,Health Care,Pharmaceuticals,ev_sales_multiple,-25.373913245056283,43.65,32.57428686853293
+81,PEP,Consumer Staples,Soft Drinks,ev_sales_multiple,10.22195258278006,110.36,121.64094687035607
+82,PEG,Utilities,Electric Utilities,ev_sales_multiple,-11.255238047712908,52.05,46.19164859616543
+83,PCAR,Industrials,Construction Machinery & Heavy Trucks,ev_sales_multiple,127.7463765171277,57.14,130.13427954188677
+84,PBCT,Financials,Thrifts & Mortgage Finance,ev_sales_multiple,-68.9307381799944,14.43,4.483294480626806
+85,PAYX,Information Technology,Internet Software & Services,ev_sales_multiple,-30.255907188087217,65.58,45.738176066052404
+86,OXY,Energy,Oil & Gas Exploration & Production,ev_sales_multiple,-20.213941761878015,61.38,48.97268254655928
+87,ORLY,Consumer Discretionary,Specialty Stores,ev_sales_multiple,-47.93741097251185,344.33,179.26711279834993
+88,ORCL,Information Technology,Application Software,ev_sales_multiple,-21.756041114696963,46.72,36.55557759121358
+89,OMC,Communication Services,Advertising,ev_sales_multiple,196.34976472127306,73.24,217.04656768186035
+90,OKE,Energy,Oil & Gas Storage & Transportation,ev_sales_multiple,-7.0912461030556315,53.95,50.12427272740149
+91,O,Real Estate,Retail REITs,ev_sales_multiple,-52.87773535504957,63.04,29.705875632176745
+92,NWSA,Communication Services,Publishing,ev_sales_multiple,257.1666914446185,15.5,55.36083717391587
+93,NWL,Consumer Discretionary,Housewares & Specialties,ev_sales_multiple,-11.686142870910144,18.59,16.417546040297804
+94,NVDA,Information Technology,Semiconductors,ev_sales_multiple,-43.95292764246512,160.15,89.75938638059212
+95,NUE,Materials,Steel,ev_sales_multiple,220.697821743637,51.81,166.15354144537835
+96,NTRS,Financials,Asset Management & Custody Banks,ev_sales_multiple,165.39089324618755,83.59,221.84024766448817
+97,NTAP,Information Technology,Internet Software & Services,ev_sales_multiple,60.9622185775377,67.4,108.48853532126041
+98,NSC,Industrials,Railroads,ev_sales_multiple,-63.110484052176716,149.54,55.16458214837494
+99,NRG,Utilities,Independent Power Producers & Energy Traders,ev_sales_multiple,164.87877042562488,39.6,104.89199308854745
+100,NOV,Energy,Oil & Gas Equipment & Services,ev_sales_multiple,202.52594928722343,25.7,77.74916896681643
+101,NOC,Industrials,Aerospace & Defense,ev_sales_multiple,27.310851314092037,244.9,311.7842748682114
+102,NLSN,Industrials,Research & Consulting Services,ev_sales_multiple,-23.996811183610994,23.33,17.731543950863554
+103,NKE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",ev_sales_multiple,-42.15083428762617,71.8,41.53570098148441
+104,NI,Utilities,Multi-Utilities,ev_sales_multiple,23.396255327110893,25.35,31.280950725422613
+105,NFLX,Communication Services,Movies & Entertainment,ev_sales_multiple,-59.01664010576141,267.66,109.69606109291901
+106,NEM,Materials,Gold,ev_sales_multiple,-20.617995281742214,34.65,27.50586463487632
+107,NEE,Utilities,Multi-Utilities,ev_sales_multiple,-59.63925100873625,173.82,70.15505389661465
+108,NDAQ,Financials,Financial Exchanges & Data,ev_sales_multiple,-15.733718705436617,81.57,68.73600565197535
+109,NCLH,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",ev_sales_multiple,-48.496850585201976,42.39,21.83218503693288
+110,NBL,Energy,Oil & Gas Exploration & Production,ev_sales_multiple,-35.29448184317225,18.76,12.138755206220887
+111,MYL,Health Care,Pharmaceuticals,ev_sales_multiple,141.36266504798013,27.4,66.13337022314656
+112,MU,Information Technology,Semiconductors,ev_sales_multiple,136.5997608740852,52.76,124.83003383716736
+113,MTD,Health Care,Life Sciences Tools & Services,ev_sales_multiple,-19.186652817779606,565.58,457.06412899320213
+114,MTB,Financials,Regional Banks,ev_sales_multiple,-13.353537131898483,143.13,124.0170823031137
+115,MSI,Information Technology,Communications Equipment,ev_sales_multiple,62.29277308754444,115.04,186.70160615991114
+116,MSFT,Information Technology,Systems Software,ev_sales_multiple,-23.833388429439292,98.61,75.10789566972991
+117,MS,Financials,Investment Banking & Brokerage,ev_sales_multiple,-55.90606111125334,39.65,17.483246769388053
+118,MRO,Energy,Oil & Gas Exploration & Production,ev_sales_multiple,-3.7092202598777253,14.34,13.808097814733534
+119,MRK,Health Care,Pharmaceuticals,ev_sales_multiple,-18.353232456042917,76.41,62.386295080337604
+120,MPC,Energy,Oil & Gas Refining & Marketing,ev_sales_multiple,424.72483504480925,59.01,309.64012515994193
+121,MOS,Materials,Fertilizers & Agricultural Chemicals,ev_sales_multiple,53.377291030042606,29.21,44.80150670987545
+122,MO,Consumer Staples,Tobacco,ev_sales_multiple,-30.053671694448695,49.39,34.54649155011179
+123,MNST,Consumer Staples,Soft Drinks,ev_sales_multiple,-55.229368694517525,49.22,22.036104728558474
+124,MMM,Industrials,Industrial Conglomerates,ev_sales_multiple,-44.96777514971403,190.54,104.85840122973488
+125,MMC,Financials,Insurance Brokers,ev_sales_multiple,15.610998369697866,79.75,92.19977119983405
+126,MLM,Materials,Construction Materials,ev_sales_multiple,-43.64270330169218,171.87,96.86128583538165
+127,MKC,Consumer Staples,Packaged Foods & Meats,ev_sales_multiple,-42.35130095330817,150.0,86.47304857003775
+128,MHK,Consumer Discretionary,Home Furnishings,ev_sales_multiple,79.11002250119898,116.96,209.48708231740233
+129,MGM,Consumer Discretionary,Casinos & Gaming,ev_sales_multiple,-36.86314749729892,24.26,15.317000417155283
+130,MET,Financials,Life & Health Insurance,ev_sales_multiple,465.79312227985844,41.06,232.3146560081099
+131,MDT,Health Care,Health Care Equipment,ev_sales_multiple,-5.975241123836838,81.29,76.43272649043304
+132,MDLZ,Consumer Staples,Packaged Foods & Meats,ev_sales_multiple,2.1752315602331764,40.03,40.90074519356134
+133,MCO,Financials,Financial Exchanges & Data,ev_sales_multiple,-57.41442894007185,140.04,59.63683371232337
+134,MCK,Health Care,Health Care Distributors,ev_sales_multiple,2895.4676993695543,140.87,4219.715348101891
+135,MCHP,Information Technology,Semiconductors,ev_sales_multiple,-22.1498624085621,91.36,71.12388570353767
+136,MCD,Consumer Discretionary,Restaurants,ev_sales_multiple,-93.24306690598489,177.57,11.99828609504262
+137,MAT,Consumer Discretionary,Leisure Products,ev_sales_multiple,55.429426823086835,9.99,15.527399739626375
+138,MAS,Industrials,Building Products,ev_sales_multiple,80.77232636694319,29.24,52.857828229694185
+139,MAR,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",ev_sales_multiple,-21.35110334738875,108.56,85.38124220607477
+140,MAC,Real Estate,Retail REITs,ev_sales_multiple,0.3437869897258861,43.28,43.428791009153365
+141,MAA,Real Estate,Residential REITs,ev_sales_multiple,28.1850717807216,95.7,122.67311369415057
+142,MA,Information Technology,Internet Software & Services,ev_sales_multiple,-62.51568048872127,188.65,70.71416875802733
+143,LYB,Materials,Specialty Chemicals,ev_sales_multiple,140.35742358644475,83.16,199.88123345448744
+144,LUV,Industrials,Airlines,ev_sales_multiple,81.38636507649291,46.48,84.3083824875539
+145,LRCX,Information Technology,Semiconductor Equipment,ev_sales_multiple,90.92739835452956,174.7,333.5501649253631
+146,LOW,Consumer Discretionary,Home Improvement Retail,ev_sales_multiple,49.927127559596194,97.11,145.59423357312386
+147,LNT,Utilities,Electric Utilities,ev_sales_multiple,-17.59392313022578,42.25,34.81656747747961
+148,LNC,Financials,Multi-line Insurance,ev_sales_multiple,377.99297768608176,51.31,245.25819685072855
+149,LMT,Industrials,Aerospace & Defense,ev_sales_multiple,41.647346741526206,261.84,370.8894127080122
+150,LLY,Health Care,Pharmaceuticals,ev_sales_multiple,-18.729296513394548,115.72,94.04645807469983
+151,LLL,Industrials,Aerospace & Defense,ev_sales_multiple,45.775299468360814,173.66,253.15338505675538
+152,LKQ,Consumer Discretionary,Distributors,ev_sales_multiple,135.20700407009872,23.73,55.81462206583442
+153,LH,Health Care,Health Care Services,ev_sales_multiple,230.4126041984691,126.36,417.50936666518555
+154,LEN,Consumer Discretionary,Homebuilding,ev_sales_multiple,106.72490627789746,42.73,88.33355245254558
+155,LEG,Consumer Discretionary,Home Furnishings,ev_sales_multiple,46.31490800079504,35.84,52.43926302748495
+156,LB,Consumer Discretionary,Apparel Retail,ev_sales_multiple,151.16335337590047,27.15,68.19085044155698
+157,L,Financials,Multi-line Insurance,ev_sales_multiple,163.5878880796821,45.52,119.9852066538713
+158,KSU,Industrials,Railroads,ev_sales_multiple,-64.56836331092116,95.45,33.81949721972575
+159,KSS,Consumer Discretionary,General Merchandise Stores,ev_sales_multiple,210.88089165188103,66.69,207.32646664263945
+160,KR,Consumer Staples,Food Retail,ev_sales_multiple,1273.2028272553598,29.34,402.8977095167225
+161,KO,Consumer Staples,Soft Drinks,ev_sales_multiple,-67.7788015340393,47.35,15.256737473632393
+162,KMX,Consumer Discretionary,Specialty Stores,ev_sales_multiple,64.52186804938397,61.92,101.87194069617856
+163,KMI,Energy,Oil & Gas Storage & Transportation,ev_sales_multiple,-103.0242969934057,15.38,-0.465136877585796
+164,KMB,Consumer Staples,Household Products,ev_sales_multiple,23.346008090976316,113.94,140.5404416188584
+165,KLAC,Information Technology,Semiconductor Equipment,ev_sales_multiple,13.23047807289919,102.53,116.09520916814354
+166,KIM,Real Estate,Retail REITs,ev_sales_multiple,44.00723006026675,14.65,21.09705920382908
+167,KEY,Financials,Regional Banks,ev_sales_multiple,-61.490464620002086,14.78,5.69170932916369
+168,K,Consumer Staples,Packaged Foods & Meats,ev_sales_multiple,62.101049110256554,57.25,92.80285061562188
+169,JWN,Consumer Discretionary,Department Stores,ev_sales_multiple,263.04030375790995,45.33,164.56616969346058
+170,JPM,Financials,Diversified Banks,ev_sales_multiple,-13.949908759074312,97.62,84.00209906939166
+171,JNPR,Information Technology,Communications Equipment,ev_sales_multiple,143.17428527950503,26.91,65.4382001687148
+172,JNJ,Health Care,Health Care Equipment,ev_sales_multiple,-3.867033793147105,127.27,122.34842609146168
+173,JEC,Industrials,Construction & Engineering,ev_sales_multiple,192.34401195937255,76.5,223.64316914892
+174,JCI,Industrials,Building Products,ev_sales_multiple,79.2157402104456,35.0,62.725509073655964
+175,JBHT,Industrials,Trucking,ev_sales_multiple,77.77443027042239,93.04,165.401329923601
+176,IVZ,Financials,Asset Management & Custody Banks,ev_sales_multiple,83.49942547918874,16.74,30.717803825216194
+177,ITW,Industrials,Industrial Machinery,ev_sales_multiple,-35.861715603361226,126.69,81.25679250210166
+178,IT,Information Technology,IT Consulting & Other Services,ev_sales_multiple,46.72906032978864,127.84,187.5784307256018
+179,ISRG,Health Care,Health Care Equipment,ev_sales_multiple,-69.49953270245324,478.92,146.07283798141097
+180,IRM,Real Estate,Specialized REITs,ev_sales_multiple,346.5198742977816,32.41,144.717091259911
+181,IR,Industrials,Industrial Machinery,ev_sales_multiple,41.474341957485294,91.23,129.06704216781384
+182,IQV,Health Care,Life Sciences Tools & Service,ev_sales_multiple,44.78303004246987,116.17,168.19444600033725
+183,IPG,Communication Services,Advertising,ev_sales_multiple,293.22094186844186,20.63,81.12148030745955
+184,IP,Materials,Paper Packaging,ev_sales_multiple,108.96339611777339,40.36,84.33762667313334
+185,INTU,Information Technology,Internet Software & Services,ev_sales_multiple,-43.36105921330662,204.24,115.67937266274257
+186,INTC,Information Technology,Semiconductors,ev_sales_multiple,47.30761761301681,46.75,68.86631123408536
+187,INFO,Industrials,Research & Consulting Services,ev_sales_multiple,-85.77562103908456,53.37,7.591551051440575
+188,INCY,Health Care,Biotechnology,ev_sales_multiple,-33.43269343246472,63.59,42.33015024629569
+189,ILMN,Health Care,Life Sciences Tools & Services,ev_sales_multiple,-69.42072613567686,298.23,91.19656844557092
+190,IFF,Materials,Specialty Chemicals,ev_sales_multiple,-33.309281516741,134.27,89.54562770747187
+191,IDXX,Health Care,Health Care Equipment,ev_sales_multiple,-47.35820573358378,186.02,97.92426569438746
+192,ICE,Financials,Financial Exchanges & Data,ev_sales_multiple,-63.51446386190172,75.33,27.484554372829432
+193,IBM,Information Technology,IT Consulting & Other Services,ev_sales_multiple,234.34701313958377,113.67,380.0522498357649
+194,HUM,Health Care,Managed Health Care,ev_sales_multiple,506.30200854656425,286.48,1736.9339940841974
+195,HSY,Consumer Staples,Packaged Foods & Meats,ev_sales_multiple,-12.87093368280944,107.18,93.38493327876485
+196,HST,Real Estate,Hotel & Resort REITs,ev_sales_multiple,399.89043170446394,16.67,83.33173496513415
+197,HSIC,Health Care,Health Care Distributors,ev_sales_multiple,350.6042413647617,77.92,351.1108248714223
+198,HRS,Industrials,Aerospace & Defense,ev_sales_multiple,-42.052929266967304,144.54,83.75669603752546
+199,HRL,Consumer Staples,Packaged Foods & Meats,ev_sales_multiple,28.99030159600205,41.17,53.105307167074045
+200,HRB,Consumer Discretionary,Specialized Consumer Services,ev_sales_multiple,-34.61802408177113,27.65,18.07811634139028
+201,HPQ,Information Technology,"Technology Hardware, Storage & Peripherals",ev_sales_multiple,629.3468849306049,24.14,176.06433802224802
+202,HPE,Information Technology,"Technology Hardware, Storage & Peripherals",ev_sales_multiple,525.7221958638241,15.25,95.42263486923318
+203,HP,Energy,Oil & Gas Drilling,ev_sales_multiple,-24.76189672793198,68.77,51.741243620201175
+204,HON,Industrials,Industrial Conglomerates,ev_sales_multiple,-13.7817069407181,132.12,113.91160878992325
+205,HOLX,Health Care,Health Care Equipment,ev_sales_multiple,-2.7251054464291635,40.98,39.863251788053326
+206,HOG,Consumer Discretionary,Motorcycle Manufacturers,ev_sales_multiple,-21.624608042156886,34.12,26.741683736016068
+207,HLT,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",ev_sales_multiple,-55.5555659660267,71.8,31.91110363639283
+208,HII,Industrials,Aerospace & Defense,ev_sales_multiple,107.12651113513729,190.31,394.1824633412798
+209,HIG,Financials,Property & Casualty Insurance,ev_sales_multiple,281.92573313630936,44.45,169.76598837908952
+210,HES,Energy,Integrated Oil & Gas,ev_sales_multiple,-4.563479092034268,40.5,38.65179096772612
+211,HD,Consumer Discretionary,Home Improvement Retail,ev_sales_multiple,-16.218325115884905,184.37,154.468273983843
+212,HCP,Real Estate,Health Care REITs,ev_sales_multiple,13.695026023003019,27.93,31.755020768224743
+213,HCA,Health Care,Health Care Facilities,ev_sales_multiple,282.6936780145163,124.45,476.2622822890655
+214,HBI,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",ev_sales_multiple,93.21685588658956,12.19,23.553134732575266
+215,HBAN,Financials,Regional Banks,ev_sales_multiple,-57.51473612161705,11.92,5.064243454303248
+216,HAS,Consumer Discretionary,Leisure Products,ev_sales_multiple,-26.01638630442547,81.13,60.022905791219614
+217,HAL,Energy,Oil & Gas Equipment & Services,ev_sales_multiple,105.21276116930814,26.58,54.5455519188021
+218,GWW,Industrials,Industrial Machinery,ev_sales_multiple,45.799359616658286,282.36,411.67907181359635
+219,GT,Consumer Discretionary,Tires & Rubber,ev_sales_multiple,378.6762202254409,20.41,97.69781654801248
+220,GS,Financials,Investment Banking & Brokerage,ev_sales_multiple,-530.3999425834198,167.05,-718.9831040856029
+221,GRMN,Consumer Discretionary,Consumer Electronics,ev_sales_multiple,-42.15839659822716,62.82,36.3360952569937
+222,GPS,Consumer Discretionary,Apparel Retail,ev_sales_multiple,215.90959391888202,25.0,78.9773984797205
+223,GPN,Information Technology,Data Processing & Outsourced Services,ev_sales_multiple,-28.89743524935271,103.13,73.32807502734255
+224,GPC,Consumer Discretionary,Specialty Stores,ev_sales_multiple,125.76401173058794,96.02,216.77860406371053
+225,GOOGL,Communication Services,Interactive Media & Services,ev_sales_multiple,-35.39752471235748,1044.96,675.0700257657493
+226,GM,Consumer Discretionary,Automobile Manufacturers,ev_sales_multiple,293.6616931365059,33.45,131.67983635416124
+227,GLW,Information Technology,Electronic Components,ev_sales_multiple,109.18159438403461,30.21,63.193759663416856
+228,GIS,Consumer Staples,Packaged Foods & Meats,ev_sales_multiple,59.41146585979844,42.64,67.97304904261806
+229,GILD,Health Care,Biotechnology,ev_sales_multiple,-0.6706458606038763,62.55,62.13051101419227
+230,GE,Industrials,Industrial Conglomerates,ev_sales_multiple,176.27957646860224,7.57,20.91436393867319
+231,GD,Industrials,Aerospace & Defense,ev_sales_multiple,46.60475673347466,157.21,230.47733806069553
+232,FTV,Industrials,Industrial Machinery,ev_sales_multiple,-53.691955627509124,67.66,31.332022822427327
+233,FTI,Energy,Oil & Gas Equipment & Services,ev_sales_multiple,248.11053407738356,19.58,68.1600425723517
+234,FRT,Real Estate,Retail REITs,ev_sales_multiple,-13.995302955914257,118.04,101.51994439083882
+235,FMC,Materials,Fertilizers & Agricultural Chemicals,ev_sales_multiple,-22.90155691701443,73.96,57.02200850417612
+236,FLS,Industrials,Industrial Machinery,ev_sales_multiple,51.39452870189389,38.02,57.56019981246006
+237,FLR,Industrials,Construction & Engineering,ev_sales_multiple,838.153259759147,32.2,302.08534964244535
+238,FLIR,Information Technology,Electronic Equipment & Instruments,ev_sales_multiple,43.807165914045555,43.54,62.61364003897543
+239,FL,Consumer Discretionary,Apparel Retail,ev_sales_multiple,144.3465685556416,55.06,134.53722064673627
+240,FITB,Financials,Regional Banks,ev_sales_multiple,-52.49011993840589,23.53,11.179074778493096
+241,FISV,Information Technology,Internet Software & Services,ev_sales_multiple,-20.63223084910095,73.49,58.32737354899571
+242,FIS,Information Technology,Internet Software & Services,ev_sales_multiple,-5.102995688581687,102.55,97.31687792135948
+243,FFIV,Information Technology,Communications Equipment,ev_sales_multiple,-9.844289009449172,199.42,179.78851885735645
+244,FE,Utilities,Electric Utilities,ev_sales_multiple,31.363564244605335,37.55,49.3270183738493
+245,FDX,Industrials,Air Freight & Logistics,ev_sales_multiple,95.19224034796085,249.12,486.2629091548401
+246,FCX,Materials,Copper,ev_sales_multiple,127.18091172621224,10.31,23.422351998972484
+247,FBHS,Industrials,Building Products,ev_sales_multiple,87.08480352020332,37.99,71.07351685732525
+248,FB,Communication Services,Interactive Media & Services,ev_sales_multiple,-47.60551296702919,131.09,68.68393305152144
+249,FAST,Industrials,Building Products,ev_sales_multiple,-28.320353142938604,52.29,37.481287341557405
+250,F,Consumer Discretionary,Automobile Manufacturers,ev_sales_multiple,423.3742048567742,7.65,40.038126671543225
+251,EXR,Real Estate,Specialized REITs,ev_sales_multiple,-18.678332416097433,90.48,73.57984482991505
+252,EXPE,Consumer Discretionary,Internet & Direct Marketing Retail,ev_sales_multiple,18.981058221255587,112.65,134.03216208624443
+253,EXPD,Industrials,Air Freight & Logistics,ev_sales_multiple,62.12957355918584,68.09,110.39402663644965
+254,EXC,Utilities,Multi-Utilities,ev_sales_multiple,144.91736272885197,45.1,110.45773059071225
+255,EW,Health Care,Health Care Equipment,ev_sales_multiple,-50.8584410805578,153.17,75.27012579690961
+256,ETR,Utilities,Electric Utilities,ev_sales_multiple,64.79706325993365,86.07,141.8408323478249
+257,ETN,Industrials,Electrical Components & Equipment,ev_sales_multiple,37.91953385849089,68.66,94.69555194723984
+258,ETFC,Financials,Investment Banking & Brokerage,ev_sales_multiple,-15.57905490036868,43.88,37.043910709718226
+259,ESS,Real Estate,Residential REITs,ev_sales_multiple,-32.55624225463903,245.21,165.37883836739962
+260,ES,Utilities,Multi-Utilities,ev_sales_multiple,-8.007902733550004,65.04,59.83166006209908
+261,EQR,Real Estate,Residential REITs,ev_sales_multiple,-11.843398216550895,66.01,58.19217283725476
+262,EQIX,Real Estate,Specialized REITs,ev_sales_multiple,72.42478599911934,352.56,607.9008255184951
+263,EOG,Energy,Oil & Gas Exploration & Production,ev_sales_multiple,-30.217798878801872,87.21,60.85705759779688
+264,EMR,Industrials,Electrical Components & Equipment,ev_sales_multiple,-25.078069948186656,76.58,57.37521403367866
+265,EMN,Materials,Diversified Chemicals,ev_sales_multiple,52.78279257819645,73.11,111.69949965391942
+266,EL,Consumer Staples,Personal Products,ev_sales_multiple,-24.179445767347936,142.69,108.18834883457123
+267,EIX,Utilities,Electric Utilities,ev_sales_multiple,88.7599104205109,56.77,107.15900114572405
+268,EFX,Industrials,Research & Consulting Services,ev_sales_multiple,-53.74790186082195,93.13,43.07457899701652
+269,ED,Utilities,Electric Utilities,ev_sales_multiple,28.86111039415016,76.46,98.5272050073672
+270,ECL,Materials,Specialty Chemicals,ev_sales_multiple,-41.26996415395517,147.35,86.53870781914705
+271,EBAY,Consumer Discretionary,Internet & Direct Marketing Retail,ev_sales_multiple,-53.407615829717024,28.07,13.078482236598433
+272,EA,Communication Services,Interactive Home Entertainment,ev_sales_multiple,-49.20357591821606,121.24,61.58558455675484
+273,DXC,Information Technology,IT Consulting & Other Services,ev_sales_multiple,289.2906789331819,100.53,391.35391953152777
+274,DWDP,Materials,Diversified Chemicals,ev_sales_multiple,29.382475159265887,53.48,69.19374771517539
+275,DVN,Energy,Oil & Gas Exploration & Production,ev_sales_multiple,110.25430336810761,22.54,47.391319979171456
+276,DVA,Health Care,Health Care Facilities,ev_sales_multiple,348.50150170474046,51.46,230.79887277725945
+277,DUK,Utilities,Electric Utilities,ev_sales_multiple,-35.55689767769997,86.3,55.61439730414492
+278,DTE,Utilities,Multi-Utilities,ev_sales_multiple,110.1026531761427,110.3,231.7432264532854
+279,DRI,Consumer Discretionary,Restaurants,ev_sales_multiple,28.624550891253193,87.88,113.0352553232333
+280,DRE,Real Estate,Industrial REITs,ev_sales_multiple,-6.041988987185838,25.9,24.335124852318867
+281,DOV,Industrials,Industrial Machinery,ev_sales_multiple,19.886826612489156,70.95,85.05970348156106
+282,DLTR,Consumer Discretionary,General Merchandise Stores,ev_sales_multiple,63.122538612975546,96.69,157.72318258488605
+283,DLR,Real Estate,Specialized REITs,ev_sales_multiple,20.69219576375078,106.55,128.59753458627645
+284,DISH,Communication Services,Cable & Satellite,ev_sales_multiple,172.9265348491247,24.97,68.14975575182643
+285,DISCA,Communication Services,Broadcasting,ev_sales_multiple,43.08663661934001,24.74,35.39963389962472
+286,DIS,Communication Services,Movies & Entertainment,ev_sales_multiple,3.778698083748183,116.94,121.35880953913512
+287,DHR,Health Care,Health Care Equipment,ev_sales_multiple,2.2148032089504768,103.12,105.40390506906974
+288,DHI,Consumer Discretionary,Homebuilding,ev_sales_multiple,73.65705052541938,42.18,73.2485439116219
+289,DGX,Health Care,Health Care Services,ev_sales_multiple,149.40272217618383,83.27,207.67764675610826
+290,DG,Consumer Discretionary,General Merchandise Stores,ev_sales_multiple,46.69872045992932,115.04,168.7622080171027
+291,DFS,Financials,Consumer Finance,ev_sales_multiple,-18.654463623460547,58.98,47.97759735488297
+292,DE,Industrials,Agricultural & Farm Machinery,ev_sales_multiple,3.9321282277423952,133.0,138.22973054289739
+293,DAL,Industrials,Airlines,ev_sales_multiple,168.70037359899413,49.9,134.08148642589808
+294,D,Utilities,Electric Utilities,ev_sales_multiple,-68.98030187965006,71.46,22.16667627680206
+295,CXO,Energy,Oil & Gas Exploration & Production,ev_sales_multiple,-75.8695881450405,102.79,24.803650345712885
+296,CVX,Energy,Integrated Oil & Gas,ev_sales_multiple,74.66112338805193,108.79,190.0138361338617
+297,CVS,Health Care,Health Care Services,ev_sales_multiple,1094.8527063078354,65.52,782.8674931728937
+298,CTXS,Information Technology,Internet Software & Services,ev_sales_multiple,-3.9091488135451957,102.46,98.45468612564159
+299,CTSH,Information Technology,IT Consulting & Other Services,ev_sales_multiple,111.44357533390314,63.48,134.2243816219617
+300,CTL,Communication Services,Integrated Telecommunication Services,ev_sales_multiple,160.72709517847056,15.15,39.50015491953829
+301,CTAS,Industrials,Diversified Support Services,ev_sales_multiple,-39.30785860716749,182.25,110.61142768843725
+302,CSX,Industrials,Railroads,ev_sales_multiple,-73.16499874889375,62.13,16.67258627731231
+303,CSCO,Information Technology,Communications Equipment,ev_sales_multiple,7.155698749754961,42.57,45.61618095777069
+304,CRM,Information Technology,Internet Software & Services,ev_sales_multiple,-46.722074086822175,151.97,80.96646401025635
+305,CPB,Consumer Staples,Packaged Foods & Meats,ev_sales_multiple,34.2561616726821,40.94,54.96447258879605
+306,COTY,Consumer Staples,Personal Products,ev_sales_multiple,97.90524714549748,14.1,27.904639847515146
+307,COST,Consumer Staples,Hypermarkets & Super Centers,ev_sales_multiple,316.64734765904024,233.13,971.3299615975205
+308,COP,Energy,Oil & Gas Exploration & Production,ev_sales_multiple,10.618266386079812,62.35,68.97048909172076
+309,COO,Health Care,Health Care Supplies,ev_sales_multiple,-32.872605675282834,258.31,173.39677228017692
+310,COG,Energy,Oil & Gas Exploration & Production,ev_sales_multiple,-57.00833191921934,22.35,9.608637816054479
+311,COF,Financials,Consumer Finance,ev_sales_multiple,-2.0299344961592074,75.59,74.05557251435326
+312,CNP,Utilities,Multi-Utilities,ev_sales_multiple,135.82354778461803,28.23,66.57298753959768
+313,CNC,Health Care,Managed Health Care,ev_sales_multiple,970.4754983889447,57.65,617.1291248212266
+314,CMS,Utilities,Multi-Utilities,ev_sales_multiple,14.689835827667382,49.65,56.94350348843685
+315,CMI,Industrials,Industrial Machinery,ev_sales_multiple,140.07740308021005,133.64,320.83944147639266
+316,CMG,Consumer Discretionary,Restaurants,ev_sales_multiple,-22.511181867148856,431.79,334.588967815838
+317,CME,Financials,Financial Exchanges & Data,ev_sales_multiple,-138.94694839330617,188.12,-73.26699931748756
+318,CMCSA,Communication Services,Cable & Satellite,ev_sales_multiple,64.93131428571762,34.05,56.159112514286846
+319,CMA,Financials,Diversified Banks,ev_sales_multiple,-2.43915406182327,68.69,67.0145450749336
+320,CLX,Consumer Staples,Household Products,ev_sales_multiple,-4.251501331927533,135.25,129.499844448568
+321,CL,Consumer Staples,Household Products,ev_sales_multiple,-20.436977824064748,59.52,47.355910799116664
+322,CINF,Financials,Property & Casualty Insurance,ev_sales_multiple,46.30374962893465,77.42,113.26836296272121
+323,CI,Health Care,Managed Health Care,ev_sales_multiple,340.46720879933457,189.92,836.5353229516961
+324,CHTR,Communication Services,Cable & Satellite,ev_sales_multiple,14.813334471076306,284.97,327.1835592422262
+325,CHRW,Industrials,Air Freight & Logistics,ev_sales_multiple,209.55364768947797,84.09,260.303662342082
+326,CHD,Consumer Staples,Household Products,ev_sales_multiple,-34.68833025092582,65.76,42.94895402699118
+327,CFG,Financials,Regional Banks,ev_sales_multiple,-55.75124773323432,29.73,13.155154048909438
+328,CF,Materials,Fertilizers & Agricultural Chemicals,ev_sales_multiple,-40.67901639916771,43.51,25.810559964722128
+329,CERN,Health Care,Health Care Technology,ev_sales_multiple,32.12378385641521,52.01,68.71757998372155
+330,CELG,Health Care,Biotechnology,ev_sales_multiple,3.8622692005770927,64.09,66.56532833064986
+331,CDNS,Information Technology,Application Software,ev_sales_multiple,-14.762910695847708,43.34,36.941754504419606
+332,CCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",ev_sales_multiple,-41.57055387356659,60.29,35.227113069626704
+333,CCI,Real Estate,Specialized REITs,ev_sales_multiple,5.379194856117072,108.63,114.47341937219997
+334,CBS,Communication Services,Broadcasting,ev_sales_multiple,139.1192488798866,43.72,104.54293561028643
+335,CBOE,Financials,Financial Exchanges & Data,ev_sales_multiple,-22.68926212815076,97.83,75.63309486003011
+336,CB,Financials,Property & Casualty Insurance,ev_sales_multiple,67.65230256817418,129.18,216.57324445756743
+337,CAT,Industrials,Construction Machinery & Heavy Trucks,ev_sales_multiple,24.93735714625306,127.07,158.75789972574375
+338,CAH,Health Care,Health Care Distributors,ev_sales_multiple,3646.3949183133955,48.83,1829.364638612431
+339,CAG,Consumer Staples,Packaged Foods & Meats,ev_sales_multiple,38.499791899249544,37.41,51.81277214950925
+340,C,Financials,Diversified Banks,ev_sales_multiple,-95.29200662440303,52.06,2.4509813513357854
+341,BXP,Real Estate,Office REITs,ev_sales_multiple,22.722763273407523,112.55,138.12447006422016
+342,BWA,Consumer Discretionary,Auto Parts & Equipment,ev_sales_multiple,142.444801869556,34.74,84.22532416948376
+343,BSX,Health Care,Health Care Equipment,ev_sales_multiple,-28.671815823561015,35.34,25.20738028795354
+344,BMY,Health Care,Health Care Distributors,ev_sales_multiple,9.67335694249421,51.98,57.00821093870849
+345,BLL,Materials,Metal & Glass Containers,ev_sales_multiple,23.287448551998974,45.98,56.687568844209125
+346,BLK,Financials,Asset Management & Custody Banks,ev_sales_multiple,-18.343641560689406,392.82,320.76250722129987
+347,BK,Financials,Asset Management & Custody Banks,ev_sales_multiple,134.13979567572255,47.07,110.20960182456261
+348,BIIB,Health Care,Biotechnology,ev_sales_multiple,-12.466000488653306,300.92,263.4073113295445
+349,BHGE,Energy,Oil & Gas Equipment & Services,ev_sales_multiple,115.8298196726926,21.5,46.40341122962891
+350,BHF,Financials,Life & Health Insurance,ev_sales_multiple,706.2370483646864,30.48,245.7410523415564
+351,BEN,Financials,Asset Management & Custody Banks,ev_sales_multiple,73.14894623421092,30.41,52.65459454982354
+352,BDX,Health Care,Health Care Equipment,ev_sales_multiple,-33.38026444971576,261.0,173.87750978624186
+353,BBY,Consumer Discretionary,Computer & Electronics Retail,ev_sales_multiple,399.3060389835438,58.47,291.944240993678
+354,BBT,Financials,Regional Banks,ev_sales_multiple,-75.33517310203352,43.32,10.684803012199072
+355,BAX,Health Care,Health Care Equipment,ev_sales_multiple,31.903429887584778,65.82,86.81883755200829
+356,BAC,Financials,Diversified Banks,ev_sales_multiple,32.91328993086207,24.64,32.749834638964415
+357,BA,Industrials,Aerospace & Defense,ev_sales_multiple,20.451997555128276,322.5,388.4576921152887
+358,AZO,Consumer Discretionary,Specialty Stores,ev_sales_multiple,-22.194985368642726,770.52,599.503198737534
+359,AXP,Financials,Consumer Finance,ev_sales_multiple,23.29535524064811,95.32,117.52513261538577
+360,AWK,Utilities,Water Utilities,ev_sales_multiple,-68.41830487227676,90.77,28.66670466743439
+361,AVY,Materials,Paper Packaging,ev_sales_multiple,80.71415504888226,88.83,160.52838392992211
+362,AVGO,Information Technology,Semiconductors,ev_sales_multiple,-5.539274544757365,220.77,208.54094358753918
+363,AVB,Real Estate,Residential REITs,ev_sales_multiple,-19.010055375333565,174.05,140.96299861923194
+364,ATVI,Communication Services,Interactive Home Entertainment,ev_sales_multiple,-27.239872871839488,46.57,33.88439120358435
+365,ARNC,Industrials,Aerospace & Defense,ev_sales_multiple,222.5628046584905,16.86,54.384088865421504
+366,ARE,Real Estate,Office REITs,ev_sales_multiple,-18.61168416127909,115.24,93.79189517254197
+367,APTV,Consumer Discretionary,Auto Parts & Equipment,ev_sales_multiple,42.67494537073435,61.57,87.84496386476114
+368,APH,Information Technology,Electronic Components,ev_sales_multiple,51.476215564053106,81.02,122.72602984999583
+369,APD,Materials,Industrial Gases,ev_sales_multiple,-49.39585913240358,167.05,84.53421731931982
+370,APC,Energy,Oil & Gas Exploration & Production,ev_sales_multiple,-25.251552680522227,43.84,32.76971930485906
+371,APA,Energy,Oil & Gas Exploration & Production,ev_sales_multiple,-3.683871172753064,26.25,25.28298381715232
+372,AOS,Industrials,Building Products,ev_sales_multiple,-1.9564073017450188,42.7,41.86461408215488
+373,AON,Financials,Insurance Brokers,ev_sales_multiple,-10.651572614508899,145.36,129.87687404754988
+374,ANTM,Health Care,Managed Health Care,ev_sales_multiple,448.3283173773976,262.63,1440.0746599282593
+375,ANSS,Information Technology,Application Software,ev_sales_multiple,-42.105656458976654,142.94,82.75417465753877
+376,AMZN,Consumer Discretionary,Internet & Direct Marketing Retail,ev_sales_multiple,-42.40766222927856,1501.97,865.0196356149048
+377,AMT,Real Estate,Specialized REITs,ev_sales_multiple,-3.702904275536239,158.19,152.33237572652922
+378,AMP,Financials,Asset Management & Custody Banks,ev_sales_multiple,208.4649743898988,104.37,321.9448937707374
+379,AMGN,Health Care,Biotechnology,ev_sales_multiple,-37.549713487570095,194.67,121.57197275374729
+380,AMG,Financials,Asset Management & Custody Banks,ev_sales_multiple,32.92387194070557,97.44,129.5210208190235
+381,AME,Industrials,Electrical Components & Equipment,ev_sales_multiple,-40.35739552418936,67.7,40.37804323012381
+382,AMD,Information Technology,Semiconductors,ev_sales_multiple,72.40530075340337,17.82,30.72262459425648
+383,AMAT,Information Technology,Semiconductor Equipment,ev_sales_multiple,153.27097877075258,32.36,81.95848873021554
+384,ALXN,Health Care,Biotechnology,ev_sales_multiple,-29.056980932824583,97.36,69.07012336380198
+385,ALLE,Industrials,Building Products,ev_sales_multiple,-36.56319880061813,79.71,50.565474236027285
+386,ALL,Financials,Property & Casualty Insurance,ev_sales_multiple,362.1729062525047,82.63,381.8934724364446
+387,ALK,Industrials,Airlines,ev_sales_multiple,119.73315345553117,60.85,133.7076238776907
+388,ALGN,Health Care,Health Care Supplies,ev_sales_multiple,-48.082179933600216,209.43,108.73149056506107
+389,ALB,Materials,Specialty Chemicals,ev_sales_multiple,-23.24006998264053,77.07,59.15887806437894
+390,AKAM,Information Technology,Internet Services & Infrastructure,ev_sales_multiple,22.03557761462169,61.08,74.53933080701093
+391,AJG,Financials,Insurance Brokers,ev_sales_multiple,67.57584486399838,73.7,123.50339766476682
+392,AIZ,Financials,Multi-line Insurance,ev_sales_multiple,388.8921277118285,89.44,437.2651190254594
+393,AIV,Real Estate,Residential REITs,ev_sales_multiple,14.757492216556756,45.249,51.92661765306977
+394,AIG,Financials,Property & Casualty Insurance,ev_sales_multiple,278.1540370919757,39.41,149.0305060179476
+395,AGN,Health Care,Pharmaceuticals,ev_sales_multiple,-2.2981260872141362,133.66,130.58832467182958
+396,AFL,Financials,Life & Health Insurance,ev_sales_multiple,109.56298093858831,45.56,95.47689411562084
+397,AES,Utilities,Independent Power Producers & Energy Traders,ev_sales_multiple,154.25441080223536,14.46,36.76518780200323
+398,AEP,Utilities,Electric Utilities,ev_sales_multiple,7.059901844790531,74.74,80.01657063879644
+399,AEE,Utilities,Multi-Utilities,ev_sales_multiple,-0.18026442705808776,65.23,65.11241351423001
+400,ADSK,Information Technology,Application Software,ev_sales_multiple,-64.09256499426156,147.2,52.855744328446974
+401,ADS,Information Technology,Data Processing & Outsourced Services,ev_sales_multiple,237.32678032919426,150.08,506.2600319180548
+402,ADP,Information Technology,Internet Software & Services,ev_sales_multiple,8.32489367745728,134.14,145.30701237894118
+403,ADM,Consumer Staples,Agricultural Products,ev_sales_multiple,713.8116193220492,40.97,333.41862043624354
+404,ADI,Information Technology,Semiconductors,ev_sales_multiple,-26.337434819366596,87.18,64.21902432447621
+405,ADBE,Information Technology,Application Software,ev_sales_multiple,-64.84697216107823,250.89,88.19543154507082
+406,ACN,Information Technology,IT Consulting & Other Services,ev_sales_multiple,77.81754601604067,169.07,300.63612504931996
+407,ABT,Health Care,Health Care Equipment,ev_sales_multiple,-11.443547619711165,72.33,64.05288200666291
+408,ABC,Health Care,Health Care Distributors,ev_sales_multiple,3430.3794263606137,92.22,3255.7159069897575
+409,ABBV,Health Care,Pharmaceuticals,ev_sales_multiple,-24.03198678407733,92.19,70.03491138375911
+410,AAPL,Information Technology,"Technology Hardware, Storage & Peripherals",ev_sales_multiple,8.901638179998251,225.74,245.83455802752806
+411,AAP,Consumer Discretionary,Automotive Retail,ev_sales_multiple,54.42861414992682,155.46,240.07472355747626
+412,AAL,Industrials,Airlines,ev_sales_multiple,404.0436006286684,32.11,161.8484001618654
+413,A,Health Care,Health Care Equipment,ev_sales_multiple,1.7403629708116448,64.79,65.91758116878887
