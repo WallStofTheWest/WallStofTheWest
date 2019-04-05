@@ -20,8 +20,8 @@ def favicon():
 def index_file():
 
     return render_template("index.html")
-    
-        
+
+
 @app.route("/about.html")
 def about():
 
@@ -80,7 +80,7 @@ def sector_rank_filter():
     to_return = sector_ranking.sector_ranking_filtered()
     # print(to_return)
     return jsonify(to_return)
-	
+
 @app.route("/insights.html")
 def insights():
 	return render_template("insights.html")
@@ -100,7 +100,6 @@ def ev_sales_multiple():
 def eps_multiple():
     to_return = evaluations.eps_multiple_full()
     return jsonify(to_return)
-
 
 
 @app.route("/book_value_to_revenue_multiple")
@@ -125,6 +124,12 @@ def top_bottom(parmstoparse):
 def table():
 
     return render_template("table.html")
+
+@app.route("/update_desc/<modelname>")
+def update_desc(modelname):
+    print(modelname)
+    to_return = evaluations.update_desc(modelname)
+    return jsonify(to_return)
 
 
 if __name__ == "__main__":

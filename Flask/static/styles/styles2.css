@@ -8,7 +8,8 @@
     margin: 0;
     background-color: #f4f4f4;
 }
-
+.float-right .pagination>div>,
+{color: #ffffff;
 .margin-left {
   margin-left: 5px;
   vertical-align: baseline;
@@ -119,17 +120,17 @@ header a:hover{
     -webkit-filter: blur(10px);
     transition: all 1000ms;
   }
-  
+
   .showcase:hover::after {
     filter: blur(0px);
     -webkit-filter: blur(0px);
   }
-  
+
   .showcase:hover .content {
     filter: blur(2px);
     -webkit-filter: blur(2px);
   }
-  
+
   .content {
     position: absolute;
     z-index: 1;
@@ -143,15 +144,15 @@ header a:hover{
     text-align: center;
     transition: all 1000ms;
   }
-  
- 
+
+
   .content .title {
     font-size: 2.2rem;
     margin-top: 1rem;
   }
-  
+
   .content .text {
-    font-size: 30px;  
+    font-size: 30px;
     line-height: 1.7;
     margin-top: 1rem;
   }
@@ -236,14 +237,14 @@ ul#stocks li{
 h2{
     text-align:center;
   }
-  
+
   .col{
     float:left;
     width:33.3%;
     padding:8px;
     box-sizing:border-box;
   }
-  
+
   .price-box{
     background:#fff;
     color:#555;
@@ -253,27 +254,27 @@ h2{
     padding:0;
     transition:0.3s;
   }
-  
+
   .price-box:hover, .price-box.best{
     box-shadow: 0 10px 15px 0 #000;
   }
-  
+
   .price-box .header{
     background-color:#35424a;
     color:#fff;
     font-size:25px;
   }
-  
+
   .price-box .header.header-green{
     background-color:#35424a;
   }
-  
+
   .price-box li{
     padding:20px;
     border-bottom:1px solid #eee;
     text-align:center;
   }
-  
+
   .price-box .emph{
     background-color:#f4f4f4;
     font-ize:20px;
@@ -321,21 +322,21 @@ footer{
     .showcase::after {
       height: 50vh;
     }
-  
+
     .content {
       top: 5%;
       margin-top: 5px;
     }
-  
+
     .content .logo {
       height: 140px;
       width: 140px;
     }
-  
+
     .content .text {
       display: none;
     }
-  
+
 =======
 .boot_font{
     font-family: Arial, Helvetica, sans-serif;
@@ -457,17 +458,17 @@ header a:hover{
     -webkit-filter: blur(10px);
     transition: all 1000ms;
   }
-  
+
   .showcase:hover::after {
     filter: blur(0px);
     -webkit-filter: blur(0px);
   }
-  
+
   .showcase:hover .content {
     filter: blur(2px);
     -webkit-filter: blur(2px);
   }
-  
+
   .content {
     position: absolute;
     z-index: 1;
@@ -481,15 +482,15 @@ header a:hover{
     text-align: center;
     transition: all 1000ms;
   }
-  
- 
+
+
   .content .title {
     font-size: 2.2rem;
     margin-top: 1rem;
   }
-  
+
   .content .text {
-    font-size: 30px;  
+    font-size: 30px;
     line-height: 1.7;
     margin-top: 1rem;
   }
@@ -574,14 +575,14 @@ ul#stocks li{
 h2{
     text-align:center;
   }
-  
+
   .col{
     float:left;
     width:33.3%;
     padding:8px;
     box-sizing:border-box;
   }
-  
+
   .price-box{
     background:#fff;
     color:#555;
@@ -591,27 +592,27 @@ h2{
     padding:0;
     transition:0.3s;
   }
-  
+
   .price-box:hover, .price-box.best{
     box-shadow: 0 10px 15px 0 #000;
   }
-  
+
   .price-box .header{
     background-color:#35424a;
     color:#fff;
     font-size:25px;
   }
-  
+
   .price-box .header.header-green{
     background-color:#35424a;
   }
-  
+
   .price-box li{
     padding:20px;
     border-bottom:1px solid #eee;
     text-align:center;
   }
-  
+
   .price-box .emph{
     background-color:#f4f4f4;
     font-ize:20px;
@@ -659,20 +660,20 @@ footer{
     .showcase::after {
       height: 50vh;
     }
-  
+
     .content {
       top: 5%;
       margin-top: 5px;
     }
-  
+
     .content .logo {
       height: 140px;
       width: 140px;
     }
-  
+
     .content .text {
       display: none;
     }
-  
+
 >>>>>>> e409f34dd868bb166d0948482a6294420e85b1e6
 }

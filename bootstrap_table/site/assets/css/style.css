@@ -1,3 +1,12 @@
+.float-right .pagination>div>,
+{color: #ffffff;}
+.pagination>li.active>a {
+  background: purple;
+  color: #ffffff;
+}
+<li class="page-item page-pre"><a class="page-link" href="#">‹</a></li>
+
+
 .api h2 {
   margin-top: 4rem !important;
   margin-bottom: 2rem;

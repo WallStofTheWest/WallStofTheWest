@@ -5,28 +5,34 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>Wisdom Wealth Management | Services</title>
-    <link rel="stylesheet" href="static/styles/styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script type="text/javascript" src="https://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.js"></script>
+    <script type="text/javascript" src="https://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.theme.fusion.js"></script>
+    <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/flatly/bootstrap.min.css" rel="stylesheet" integrity="sha384-T5jhQKMh96HMkXwqVMSjF3CmLcL1nT9//tCqu9By5XSdj7CwR0r+F3LTzUdfkkQf" crossorigin="anonymous">
+    <link rel="stylesheet" href="static/styles/styles2.css">
 	<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
     </head>
-    
+
     <body>
         <header>
             <div class="container">
                 <div id="branding">
-                    <h1>Wisdom Wealth Management</h1>
+                    <h2>Wisdom Wealth Management</h2>
                 </div>
                 <nav>
                     <ul>
                         <li><a href="index.html">Home</a></li>
                         <li><a href="about.html">About</a></li>
                         <li><a href="disclaimer.html">Disclaimer</a></li>
-                        <li><a href="sector.html">Sector</a></li>						
+                        <li><a href="sector.html">Sector</a></li>
                         <li><a href="stocks.html">Stocks</a></li>
-						<li><a href="insights.html">Insights</a></li>
-                        <li><a class="current"></a><a href="services.html">Services</a></li>
-                    </u>
+                        <li><a href="insights.html">Insights</a></li>
+						            <li><a href="table.html">Portfolio</a></li>
+                        <a class="current"><li><a href="services.html">Services</a></li>
+                    </ul>
                 </nav>
-            </div> 
+            </div>
         </header>
         <section id="newsletter">
                 <div class="container">
@@ -75,7 +81,7 @@
                 <li><strong>Unlimited</strong> Algorithimic Access</li>
                 <li class="emph"><a href="#" class="button-1">Invest</a></li>
             </ul>
-        </div>    
+        </div>
     <footer>Wisdom Wealth Management, Copyright &copy; 2019</footer>
 
     </body>
