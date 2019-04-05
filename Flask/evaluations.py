@@ -3,13 +3,13 @@ import pandas as pd
 from sqlalchemy import create_engine
 import pymysql
 import warnings
-from Config import pwd, user, host, port, dbname 
+from Config import pwd, user, host, port, dbname
 warnings.filterwarnings('ignore')
 
 ##Nish Table
 def ebitda_multiple_full():
     # setup pymysql and connect to local MySQL workbench
-    pymysql.install_as_MySQLdb() 
+    pymysql.install_as_MySQLdb()
     string = f"mysql://{user}:{pwd}@{host}/{dbname}"
     engine = create_engine(string)
     # Establish a connection to the local DB
@@ -23,7 +23,7 @@ def ebitda_multiple_full():
 ##Laylas table
 def eps_multiple_full():
     # setup pymysql and connect to local MySQL workbench
-    pymysql.install_as_MySQLdb() 
+    pymysql.install_as_MySQLdb()
     string = f"mysql://{user}:{pwd}@{host}/{dbname}"
     engine = create_engine(string)
     # Establish a connection to the local DB
@@ -37,7 +37,7 @@ def eps_multiple_full():
 ##Don Table
 def ev_sales_mutiple_full():
     # setup pymysql and connect to local MySQL workbench
-    pymysql.install_as_MySQLdb() 
+    pymysql.install_as_MySQLdb()
     string = f"mysql://{user}:{pwd}@{host}/{dbname}"
     engine = create_engine(string)
     # Establish a connection to the local DB
@@ -50,7 +50,7 @@ def ev_sales_mutiple_full():
 #
 def book_value_to_revenue_multiple_full():
     # setup pymysql and connect to local MySQL workbench
-    pymysql.install_as_MySQLdb() 
+    pymysql.install_as_MySQLdb()
     string = f"mysql://{user}:{pwd}@{host}/{dbname}"
     engine = create_engine(string)
     # Establish a connection to the local DB
@@ -65,7 +65,7 @@ def book_value_to_revenue_multiple_full():
 ## top_bottom table
 def top_bottom(model,topORbottom):
     # setup pymysql and connect to local MySQL workbench
-    pymysql.install_as_MySQLdb() 
+    pymysql.install_as_MySQLdb()
     string = f"mysql://{user}:{pwd}@{host}/{dbname}"
     engine = create_engine(string)
     # Establish a connection to the local DB
@@ -81,4 +81,22 @@ def top_bottom(model,topORbottom):
 
     return(top_bottom)
 
-    
+
+def update_desc(model):
+    # setup pymysql and connect to local MySQL workbench
+    pymysql.install_as_MySQLdb()
+    string = f"mysql://{user}:{pwd}@{host}/{dbname}"
+    engine = create_engine(string)
+    # Establish a connection to the local DB
+    conn = engine.connect()
+    print(model)
+    # query = f"'select * from top_bottom_table where model like '{model}' and top_bottom like '{topORbottom}''"
+    query = "select valuation_description from stock_valuation_descriptions where valuation_model like '" + model + "';"
+    # query = '"' + query + '"'
+    print(query)
+    # sql = "select * from top_bottom_table where model like '{EBITDA_Multiple}' and top_bottom like '{top_3}';"
+    updated_desc = pd.read_sql(str(query.strip('\\')), con=conn)
+    # updated_desc.drop("index", axis = 1, inplace = True)
+    updated_desc = updated_desc.to_dict(orient="record")
+
+    return(updated_desc)

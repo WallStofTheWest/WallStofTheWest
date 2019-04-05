@@ -51,37 +51,37 @@ alpha_v= alpha_df4.drop(columns=["2. high","3. low"])
 alpha_v[["Open", "Close"]] = alpha_v[["Open", "Close"]].astype(float)
 #alpha_v.head(10)
 
-# new data frame with split value columns 
-market_data2 = alpha_v["Date"].str.split("-", n = 1, expand = True) 
-  
-# making seperate first name column from new data frame 
-alpha_v["Year"] = market_data2[0] 
-  
-# making seperate last name column from new data frame 
-alpha_v["stuff"] = market_data2[1] 
+# new data frame with split value columns
+market_data2 = alpha_v["Date"].str.split("-", n = 1, expand = True)
+
+# making seperate first name column from new data frame
+alpha_v["Year"] = market_data2[0]
+
+# making seperate last name column from new data frame
+alpha_v["stuff"] = market_data2[1]
 
 #market["Day"] = market_data[2]
-  
-# Dropping old Name columns 
-#market.drop(columns =["Date"], inplace = True) 
 
-# new data frame with split value columns 
-market_data2 = alpha_v["stuff"].str.split("-", n = 1, expand = True) 
+# Dropping old Name columns
+#market.drop(columns =["Date"], inplace = True)
 
-# making seperate first name column from new data frame 
-alpha_v["Month"] = market_data2[0] 
-  
-# making seperate last name column from new data frame 
-alpha_v["Day"] = market_data2[1] 
-# market2.drop(columns =["High"], inplace = True) 
-# market.drop(columns =["Low"], inplace = True) 
-# # market.drop(columns =["Open"], inplace = True) 
-# market.drop(columns =["Close"], inplace = True) 
+# new data frame with split value columns
+market_data2 = alpha_v["stuff"].str.split("-", n = 1, expand = True)
+
+# making seperate first name column from new data frame
+alpha_v["Month"] = market_data2[0]
+
+# making seperate last name column from new data frame
+alpha_v["Day"] = market_data2[1]
+# market2.drop(columns =["High"], inplace = True)
+# market.drop(columns =["Low"], inplace = True)
+# # market.drop(columns =["Open"], inplace = True)
+# market.drop(columns =["Close"], inplace = True)
 # market2.rename(columns={'Adj Close':'Close'}, inplace=True)
 
-# Dropping old Name columns 
-alpha_v.drop(columns =["stuff"], inplace = True) 
-# df display 
+# Dropping old Name columns
+alpha_v.drop(columns =["stuff"], inplace = True)
+# df display
 #alpha_v.head(10)
 
 alpha_v2 = alpha_v

@@ -5,30 +5,36 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>Wisdom Wealth Management | About</title>
-    <link rel="stylesheet" href="static/styles/styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script type="text/javascript" src="https://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.js"></script>
+    <script type="text/javascript" src="https://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.theme.fusion.js"></script>
+    <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/flatly/bootstrap.min.css" rel="stylesheet" integrity="sha384-T5jhQKMh96HMkXwqVMSjF3CmLcL1nT9//tCqu9By5XSdj7CwR0r+F3LTzUdfkkQf" crossorigin="anonymous">
+    <link rel="stylesheet" href="static/styles/styles2.css">
 	<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
     </head>
-    
+
     <body>
         <header>
             <div class="container">
                 <div id="branding">
-                    <h1>Wisdom Wealth Management</h1>
+                    <h2>Wisdom Wealth Management</h2>
                 </div>
                 <nav>
                     <ul>
-                        <li><a class="current"><a href="index.html">Home</a></li>
-                        <li><a href="about.html">About</a></li>
+                        <li><a href="index.html">Home</a></li>
+                        <a class="current"><li><a href="about.html">About</a></li>
                         <li><a href="disclaimer.html">Disclaimer</a></li>
-                        <li><a href="sector.html">Sector</a></li>						
+                        <li><a href="sector.html">Sector</a></li>
                         <li><a href="stocks.html">Stocks</a></li>
-						<li><a href="insights.html">Insights</a></li>
+                        <li><a href="insights.html">Insights</a></li>
+						            <li><a href="table.html">Portfolio</a></li>
                         <li><a href="services.html">Services</a></li>
                     </ul>
                 </nav>
-            </div> 
+            </div>
         </header>
-            
+
         <section id="newsletter">
             <div class="container">
                 <h1>Subscribe to Our Newsletter</h1>
@@ -43,41 +49,41 @@
             <div class="container">
                 <article id=main-col>
                     <h1 class="page-title">What We Do</h1>
-					<p>We aspire to become an investment-advisory group that incorporates state-of-the-art 
-                        financial planning, investment portfolio management and a number of aggregated financial services; 
-                        similar to offerings by hedge fund managers and big banks—usually out of reach by the average 
+					<p>We aspire to become an investment-advisory group that incorporates state-of-the-art
+                        financial planning, investment portfolio management and a number of aggregated financial services;
+                        similar to offerings by hedge fund managers and big banks—usually out of reach by the average
                         retail investor.
                     </p>
-                    <p>While it’s impossible to know for anyone to know the future absolutely, there is 
-                        wisdom in trying to peak into future possibilities. In the pursuit of wiser 
-                        investing we aim to discover which sector will have the best likelihood of being 
-                        a top performer each earnings season. To showcase our skill, we offer for free, 
-                        one analytical methodology that can put the odds in your favor for determining 
-                        which sectors will be the strongest and which sectors will be the weakest for 
+                    <p>While it’s impossible to know for anyone to know the future absolutely, there is
+                        wisdom in trying to peak into future possibilities. In the pursuit of wiser
+                        investing we aim to discover which sector will have the best likelihood of being
+                        a top performer each earnings season. To showcase our skill, we offer for free,
+                        one analytical methodology that can put the odds in your favor for determining
+                        which sectors will be the strongest and which sectors will be the weakest for
                         the coming earning season: a form of relative strength analysis.</p>
-    
-                    <p>When conducting a relative strength analysis, analysts compare the strength 
-                        of each stock market sector against every other sector by determining the 
-                        percentage growth/contraction each sector has experienced since a specific 
-                        start date in the past. We will modify this approach for simplicity but keep 
-                        the spirit intact. Then we will employ a bit of physics, Newton’s first law of 
-                        motion — an object in motion tends to stay in motion — and assume that, barring 
-                        any unforeseen events or information, the sectors that have been performing well 
-                        will continue to perform well and the sectors that have been performing poorly 
+
+                    <p>When conducting a relative strength analysis, analysts compare the strength
+                        of each stock market sector against every other sector by determining the
+                        percentage growth/contraction each sector has experienced since a specific
+                        start date in the past. We will modify this approach for simplicity but keep
+                        the spirit intact. Then we will employ a bit of physics, Newton’s first law of
+                        motion — an object in motion tends to stay in motion — and assume that, barring
+                        any unforeseen events or information, the sectors that have been performing well
+                        will continue to perform well and the sectors that have been performing poorly
                         will continue to perform poorly this season.</p>
                     <p>Let Wisdom Wealth Management take you into the future.</p>
-					
+
                 </article>
                 <aside id="sidebar">
                     <div class="dark">
                     <h3>About Us</h3>
-                    <p>Wisdom Wealth Management was established in 2018 when several data analytics 
+                    <p>Wisdom Wealth Management was established in 2018 when several data analytics
                         students decided that it was time to put their business acumen and data analytics
-                        skills to practical application.                           
+                        skills to practical application.
                     </p>
-                    <p>Despite a volatile and challenging stock market, Wisdom Wealth Management continues 
-                        to pursue innovative ways to deliver insight and impressive returns. Comprised of 
-                        finance, business, and data science professionals; we are a group committed to lifelong 
+                    <p>Despite a volatile and challenging stock market, Wisdom Wealth Management continues
+                        to pursue innovative ways to deliver insight and impressive returns. Comprised of
+                        finance, business, and data science professionals; we are a group committed to lifelong
                         learning, practical application of data science, and a little fun.
                     </p>
                     </div>
@@ -90,19 +96,19 @@
                 <div class="box">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/SMirC-thumbsup.svg" alt="layla">
                     <h3><a href="https://www.linkedin.com/in/lgallez/">Layla Gallez</a></h3>
-                    <p>President and Chief Operating Officer</p>  
+                    <p>President and Chief Operating Officer</p>
                 </div>
 
                 <div class="box">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/SMirC-laugh.svg" alt="don">
                     <h3><a href="https://www.linkedin.com/in/kimpowers/">Kim Powers</a></h3>
-                    <p>Managing Director, Strategic Client Relationships</p>  
+                    <p>Managing Director, Strategic Client Relationships</p>
                 </div>
-                    
+
                 <div class="box">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/SMirC-super.svg" alt="jrod">
                     <h3><a href="https://www.linkedin.com/in/vivek-krishnan-534ba385/">Vivek Krishnan</a></h3>
-                    <p>Chief Information Officer</p>  
+                    <p>Chief Information Officer</p>
                 </div>
             </div>
         </section>
@@ -112,19 +118,19 @@
                 <div class="box">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/SMirC-beam.svg" alt="layla">
                     <h3><a href="https://www.linkedin.com/in/nishit-sitapara-66055770/">Nishit Sitapara</a></h3>
-                    <p>Chief of Staff and Secretary to the Board</p>  
+                    <p>Chief of Staff and Secretary to the Board</p>
                 </div>
 
                 <div class="box">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/SMirC-cool.svg" alt="don">
                     <h3><a href="https://www.linkedin.com/in/don-walker-umich/">Donald Walker</a></h3>
-                    <p>Executive Vice President and Chief Financial Officer</p>  
+                    <p>Executive Vice President and Chief Financial Officer</p>
                 </div>
-                    
+
                 <div class="box">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/SMirC-nerd.svg" alt="jrod">
                     <h3><a href="https://www.linkedin.com/in/jose-rodriguez-6a9a2a45/">Jose Rodriguez</a></h3>
-                    <p>Chairman and Chief Executive Officer</p>  
+                    <p>Chairman and Chief Executive Officer</p>
                 </div>
             </div>
         </section>

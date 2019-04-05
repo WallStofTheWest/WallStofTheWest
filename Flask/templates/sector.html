@@ -7,13 +7,13 @@
     <title>Wisdom Wealth Management | Sector</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <!-- <script type="text/javascript" src="http://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.theme.fusion.js"></script> -->
+    <script type="text/javascript" src="https://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.js"></script>
+    <script type="text/javascript" src="https://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.theme.fusion.js"></script>
     <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/flatly/bootstrap.min.css" rel="stylesheet" integrity="sha384-T5jhQKMh96HMkXwqVMSjF3CmLcL1nT9//tCqu9By5XSdj7CwR0r+F3LTzUdfkkQf" crossorigin="anonymous">
-	<script type="text/javascript" src="https://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.js"></script>
-	<link rel="stylesheet" href="static/styles/styles2.css">
+    <link rel="stylesheet" href="static/styles/styles2.css">
 	<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
     </head>
-    
+
     <body>
         <header>
             <div class="container">
@@ -25,13 +25,14 @@
                         <li><a href="index.html">Home</a></li>
                         <li><a href="about.html">About</a></li>
                         <li><a href="disclaimer.html">Disclaimer</a></li>
-                        <li><a class="current"></a><a href="sector.html">Sector</a></li>						
+                        <li><a class="current"><a href="sector.html">Sector</a></li>
                         <li><a href="stocks.html">Stocks</a></li>
-						<li><a href="insights.html">Insights</a></li>
+                        <li><a href="insights.html">Insights</a></li>
+						            <li><a href="table.html">Portfolio</a></li>
                         <li><a href="services.html">Services</a></li>
                     </ul>
                 </nav>
-            </div> 
+            </div>
         </header>
         <div class="container">
             <div class="container">
@@ -53,17 +54,17 @@
             <div class="row">
                 <div class="col-md-12">
                     <section id="main-summary">
-                    <p> The chart above shows a 20 year history of the S&P500 broken into its sectors. 
-                        A special FAANG sector has been created to segregate stocks that are in a 
-                        unique class of their own. We will narrow our timeframe throughout the analysis 
-                        in order to focus on current trends, but to predict the future, we need to 
-                        understand the past.               
+                    <p> The chart above shows a 20 year history of the S&P500 broken into its sectors.
+                        A special FAANG sector has been created to segregate stocks that are in a
+                        unique class of their own. We will narrow our timeframe throughout the analysis
+                        in order to focus on current trends, but to predict the future, we need to
+                        understand the past.
                     </p>
                     </section>
                 </div>
             </div>
             </div>
-            
+
 			<div class="gap-30"></div>
 			<div class="container">
 			<div class="row">
@@ -115,37 +116,37 @@
                 <div class="col-md-12">
                     <section id="main-summary">
                         <p>
-                                Technology: At the forefront of innovation and at the center of the Information Age, 
-                                this sector is sure to continue to outperform for decades. The technology sector is a category of stocks that 
-                                contains technological businesses, such as manufacturers producing computer hardware, 
-                                computer software or electronics and technological service industry companies, such as those 
-                                providing information technology and business data processing. While some examples of technology 
-                                companies could include Apple (AAPL), Microsoft (MSFT), Google (GOOG) and Facebook (FB) these stocks are not included here. 
-                                This sector is strong with other tech companies are sure to come along with new innovations we are not thinking 
+                                Technology: At the forefront of innovation and at the center of the Information Age,
+                                this sector is sure to continue to outperform for decades. The technology sector is a category of stocks that
+                                contains technological businesses, such as manufacturers producing computer hardware,
+                                computer software or electronics and technological service industry companies, such as those
+                                providing information technology and business data processing. While some examples of technology
+                                companies could include Apple (AAPL), Microsoft (MSFT), Google (GOOG) and Facebook (FB) these stocks are not included here.
+                                This sector is strong with other tech companies are sure to come along with new innovations we are not thinking
                                 about today and is highly investable.
                         </p>
                         <p>
-                                Healthcare: With an aging population and rapid advances in biotechnology, the health industry is sure to 
-                                thrive in the years and decades ahead. The healthcare sector is quite broad. Even a person 
-                                with no investing experience can think of some specific area of the health industry, such as 
-                                hospital conglomerates, institutional services, insurance companies, drug manufacturers, 
-                                biomedical companies, or medical instrument makers. Also, when many industries are doing poorly 
-                                due to negative economic conditions, the health industry can still perform relatively well 
-                                because people still need to see the doctor and buy their drugs, regardless of 
+                                Healthcare: With an aging population and rapid advances in biotechnology, the health industry is sure to
+                                thrive in the years and decades ahead. The healthcare sector is quite broad. Even a person
+                                with no investing experience can think of some specific area of the health industry, such as
+                                hospital conglomerates, institutional services, insurance companies, drug manufacturers,
+                                biomedical companies, or medical instrument makers. Also, when many industries are doing poorly
+                                due to negative economic conditions, the health industry can still perform relatively well
+                                because people still need to see the doctor and buy their drugs, regardless of
                                 economic conditions. For this reason, the healthcare sector is considered a "defensive sector."
                         </p>
                         <p>
-                                Consumer Staples: This sector is typically viewed as a safe haven during periods of market 
-                                volatility or economic downturn, and have benefited from increases in volatility in the 
-                                overall market. Staples companies also likely have benefited in recent years from effective 
-                                cost-cutting and increased trade concerns. Further, as geopolitical and domestic political 
+                                Consumer Staples: This sector is typically viewed as a safe haven during periods of market
+                                volatility or economic downturn, and have benefited from increases in volatility in the
+                                overall market. Staples companies also likely have benefited in recent years from effective
+                                cost-cutting and increased trade concerns. Further, as geopolitical and domestic political
                                 tensions rise, investors typically become a bit more nervous, and may seek short-term shelter in the staples sector.
-                                Lastly, the moderation in oil prices could result in less money being spent on energy costs 
+                                Lastly, the moderation in oil prices could result in less money being spent on energy costs
                                 and more available for other spending keeping this sector robust.
                         </p>
-                        <p>     
-								Consumer Discretionary: Basically, any goods and services that are considered non-essential by consumers, 
-                                but desirable if their available income is sufficient to purchase them. Bottom line is that lower unemployment means 
+                        <p>
+								Consumer Discretionary: Basically, any goods and services that are considered non-essential by consumers,
+                                but desirable if their available income is sufficient to purchase them. Bottom line is that lower unemployment means
                                 you've got more consumers who have the ability to spend. And since wage growth is only growing modestly year over year,
                                 you would want to buy assets when there's the potential for a catalyst.
 						</p>
@@ -179,7 +180,7 @@
                         <p>
                                 Industrials: When Energy is cheap Industrials generally benefit with cheap feedstocks. And while real estate's record-strong fundamentals remain in place, the sector sees headwinds including labor shortages and tariff issues, and impacts from the shift in manufacturing from China to the U.S. or emerging exporters including Vietnam, Thailand, Bangladesh and western hemisphere countries like Brazil and Mexico could shift demand to regions of the country better suited to logistically handle these products. These issues cause the industry become tighter leaving only cost cutting strategies to turn profits.
                         </p>
-                        <p>     
+                        <p>
 								Materials: Similar to Industrials, the materials sector has struggled in the past due to global growth issues combined with trade dispute worries all working to undermine performance during many periods. Likewise, we see reduction in demand from China, larger inventories in China continuing to build, increased labor costs, and general trade concerns depressing the performance outlook for this sector.
 						</p>
                     </section>
@@ -187,7 +188,7 @@
             </div>
             </div>
             </div>
-        
+
         <div class="gap-30"></div>
         <div class="container">
             <div class="row">
@@ -201,20 +202,20 @@
 					</a>
 				</noscript>
 				<object class='tableauViz'  style='display:none;'>
-					<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
-					<param name='embed_code_version' value='3' /> 
+					<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+					<param name='embed_code_version' value='3' />
 					<param name='site_root' value='' />
 					<param name='name' value='2018_sector_data&#47;Dashboard1' />
 					<param name='tabs' value='no' />
 					<param name='toolbar' value='yes' />
-					<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2018_sector_data&#47;Dashboard1&#47;1.png' /> 
+					<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2018_sector_data&#47;Dashboard1&#47;1.png' />
 					<param name='animate_transition' value='yes' />
 					<param name='display_static_image' value='yes' />
 					<param name='display_spinner' value='yes' />
 					<param name='display_overlay' value='yes' />
 					<param name='display_count' value='yes' />
 				</object>
-			</div>                
+			</div>
         </div>
     </div>
       <!-- <script src="static/data.js"></script>	 -->
@@ -232,5 +233,5 @@
     <script src="static/plots.js"></script>
     <script src="static/heat_map_2.js"></script>
     <script src="static/heat_map.js"></script> -->
-    
+
 </html>
