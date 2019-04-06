@@ -21,7 +21,7 @@
     <!-- <script type="text/javascript" src="http://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.theme.fusion.js"></script> -->
 <!--     <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/flatly/bootstrap.min.css" rel="stylesheet" integrity="sha384-T5jhQKMh96HMkXwqVMSjF3CmLcL1nT9//tCqu9By5XSdj7CwR0r+F3LTzUdfkkQf" crossorigin="anonymous">
   <script type="text/javascript" src="https://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.js"></script> -->
-  <link rel="stylesheet" href="static/styles/styles2.css">
+  <link rel="stylesheet" href="static/styles/styles.css">
   <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
     </head>
 
@@ -29,7 +29,7 @@
         <header>
             <div class="container">
                 <div id="branding">
-                    <h1>Wisdom Wealth Management</h1>
+                    <h2>Wisdom Wealth Management</h2>
                 </div>
                 <nav>
                     <ul>
@@ -46,6 +46,10 @@
             </div>
         </header>
 
+  </head>
+
+  <body>
+
     <!-- <div class="toolbar">
       <div class="btn-group">
           <button class="btn btn-secondary" data-toggle="dropdown">Please Select From List</button>
@@ -57,12 +61,8 @@
       </div>
   </div> -->
 
+<body>
   <div class="container-fluid">
-	<div class="gap-30"></div>
-	<div id="branding">
-		<h3>Portfolio Analysis</h3>
-	</div>
-	<div class="gap-10"></div>
     <div class = "row">
       <!-- --------------------------------------------------------- -->
       <!-- TABLE 1 -->
@@ -97,23 +97,24 @@
                           }});
                           return html.join(''); }
                   </script>
-                <div class="fixed-table-toolbar">
-                    <div class="bs-bars float-left">
-                        <div class="toolbar">
+              <div class="fixed-table-toolbar">
+                  <div class="bs-bars float-left">
+                      <div class="toolbar">
                           <div class="btn-group">
                               <button class="btn btn-secondary" data-toggle="dropdown">Select Valuation Model</button>
                               <ul class="dropdown-menu" id ="table1" role="menu" aria-labelledby="dropdownMenu">
-                            <li><a class="dropdown-item" id = "#ebitda_multiple" value = "/ebitda_multiple" )>EBITDA</a></li>
-                            <li><a class="dropdown-item" id = "#ev_sales_multiple" value = "/ev_sales_multiple")>EV Sales</a></li>
-                            <li><a class="dropdown-item" id = "#book_value_to_revenue_multiple" value = "/book_value_to_revenue_multiple")>Book Value to Revenue</a></li>
-                            <li><a class="dropdown-item" id = "#eps_multiple" value = "/eps_multiple")>EPS</a></li>
+                            <li><a tabindex="-1" href="#" id = "#ebitda_multiple" value = "/ebitda_multiple" )>EBITDA</a></li>
+                            <li><a tabindex="-1" href="#" id = "#ev_sales_multiple" value = "/ev_sales_multiple")>EV Sales</a></li>
+                            <li><a tabindex="-1" href="#" id = "#book_value_to_revenue_multiple" value = "/book_value_to_revenue_multiple")>Book Value to Revenue</a></li>
+                            <li><a tabindex="-1" href="#" id = "#eps_multiple" value = "/eps_multiple")>EPS</a></li>
                           </ul>
-						  <h4 id = "table1_header" value = "/eps_multiple">&nbsp;&nbsp;&nbsp;&nbsp;EPS Model</h4>
                           </div>
-					     
-						</div>
+                <h3 id = "table1_header" value = "/eps_multiple">EPS Model</h3>
+
+                </div>
                     </div>
                   </div>
+                  </h3>
                 <thead>
                     <tr>
                         <th data-field="symbol"
@@ -170,16 +171,15 @@
                                 <div class="btn-group">
                                     <button class="btn btn-secondary" data-toggle="dropdown">Top/Bottom -   % Change</button>
                                     <ul class="dropdown-menu" id ="table2" role="menu" aria-labelledby="dropdownMenu">
-									<li><a tabindex="-1" href="#" id = "#top_3" value = "/top_3" )>Top 3</a></li>
-									<li><a tabindex="-1" href="#" id = "#bottom_3" value = "/bottom_3")>Bottom 3</a></li>
-									</ul>
-									<h3 id = "table2_header" value = "/top_3">&nbsp;&nbsp;&nbsp;&nbsp;Top 3</h3>
+                                  <li><a tabindex="-1" href="#" id = "#top_3" value = "/top_3" )>Top 3</a></li>
+                                  <li><a tabindex="-1" href="#" id = "#bottom_3" value = "/bottom_3")>Bottom 3</a></li>
+                                </ul>
                                 </div>
-                        
+                        <h3 id = "table2_header" value = "/top_3">Top 3</h3>
 
-							</div>
-					  </div>
-					</div>
+                      </div>
+                          </div>
+                        </div>
                   <thead>
                       <tr>
                           <th data-field="symbol"
